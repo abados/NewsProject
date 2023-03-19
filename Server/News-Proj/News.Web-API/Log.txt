@@ -1,0 +1,1883 @@
+7/3/2023 - 18:23:28 - Software has started.
+7/3/2023 - 18:23:29 - Getting number of categories
+7/3/2023 - 18:23:29 - Getting link categories
+7/3/2023 - 18:23:29 - Getting link categories
+7/3/2023 - 18:23:29 - WallaWebManager has initiallized.
+7/3/2023 - 18:23:29 - Getting link categories
+7/3/2023 - 18:23:29 - Getting link categories
+7/3/2023 - 18:23:29 - MaarivWebManager has initiallized.
+7/3/2023 - 18:23:29 - Getting link categories
+7/3/2023 - 18:23:29 - Getting link categories
+7/3/2023 - 18:23:29 - GlobesWebManager has initiallized.
+7/3/2023 - 18:23:29 - Getting link categories
+7/3/2023 - 18:23:41 - Getting link categories
+7/3/2023 - 18:24:17 - Software has started.
+7/3/2023 - 18:24:17 - Getting number of categories
+7/3/2023 - 18:24:18 - Getting link categories
+7/3/2023 - 18:24:23 - Getting link categories
+7/3/2023 - 18:24:28 - WallaWebManager has initiallized.
+7/3/2023 - 18:24:31 - Getting link categories
+7/3/2023 - 18:24:31 - Getting link categories
+7/3/2023 - 18:24:33 - MaarivWebManager has initiallized.
+7/3/2023 - 18:24:35 - Getting link categories
+7/3/2023 - 18:24:35 - Getting link categories
+7/3/2023 - 18:24:35 - GlobesWebManager has initiallized.
+7/3/2023 - 18:24:35 - Getting link categories
+7/3/2023 - 18:24:40 - Getting link categories
+7/3/2023 - 18:24:45 - YnetWebManager has initiallized.
+7/3/2023 - 18:25:24 - Software has started.
+7/3/2023 - 18:25:24 - Getting number of categories
+7/3/2023 - 18:25:24 - Getting link categories
+7/3/2023 - 18:25:34 - Getting link categories
+7/3/2023 - 18:25:34 - WallaWebManager has initiallized.
+7/3/2023 - 18:25:34 - Getting link categories
+7/3/2023 - 18:25:37 - Getting link categories
+7/3/2023 - 18:25:37 - MaarivWebManager has initiallized.
+7/3/2023 - 18:25:37 - Getting link categories
+7/3/2023 - 18:25:39 - Getting link categories
+7/3/2023 - 18:25:39 - GlobesWebManager has initiallized.
+7/3/2023 - 18:25:39 - Getting link categories
+7/3/2023 - 18:25:42 - Getting link categories
+7/3/2023 - 18:25:42 - YnetWebManager has initiallized.
+7/3/2023 - 18:26:05 - Software has started.
+7/3/2023 - 18:26:05 - Getting number of categories
+7/3/2023 - 18:26:05 - Getting link categories
+7/3/2023 - 18:26:08 - Getting link categories
+7/3/2023 - 18:26:08 - WallaWebManager has initiallized.
+7/3/2023 - 18:26:08 - Getting link categories
+7/3/2023 - 18:26:15 - Getting link categories
+7/3/2023 - 18:26:15 - MaarivWebManager has initiallized.
+7/3/2023 - 18:26:28 - Getting link categories
+7/3/2023 - 18:26:28 - Getting link categories
+7/3/2023 - 18:26:28 - GlobesWebManager has initiallized.
+7/3/2023 - 18:26:28 - Getting link categories
+7/3/2023 - 18:26:30 - Getting link categories
+7/3/2023 - 18:26:30 - YnetWebManager has initiallized.
+7/3/2023 - 18:29:42 - Software has started.
+7/3/2023 - 18:29:43 - Getting number of categories
+7/3/2023 - 18:29:43 - Getting link categories
+7/3/2023 - 18:29:47 - Getting link categories
+7/3/2023 - 18:29:47 - WallaWebManager has initiallized.
+7/3/2023 - 18:29:47 - Getting link categories
+7/3/2023 - 18:29:47 - Getting link categories
+7/3/2023 - 18:29:47 - MaarivWebManager has initiallized.
+7/3/2023 - 18:29:47 - Getting link categories
+7/3/2023 - 18:29:47 - Getting link categories
+7/3/2023 - 18:29:47 - GlobesWebManager has initiallized.
+7/3/2023 - 18:29:47 - Getting link categories
+7/3/2023 - 18:29:51 - Getting link categories
+7/3/2023 - 18:29:51 - YnetWebManager has initiallized.
+7/3/2023 - 18:31:26 - Software has started.
+7/3/2023 - 18:31:26 - Getting number of categories
+7/3/2023 - 18:31:26 - Getting link categories
+7/3/2023 - 18:31:26 - Getting link categories
+7/3/2023 - 18:31:26 - WallaWebManager has initiallized.
+7/3/2023 - 18:31:26 - Getting link categories
+7/3/2023 - 18:31:26 - Getting link categories
+7/3/2023 - 18:31:26 - MaarivWebManager has initiallized.
+7/3/2023 - 18:31:26 - Getting link categories
+7/3/2023 - 18:31:26 - Getting link categories
+7/3/2023 - 18:31:26 - GlobesWebManager has initiallized.
+7/3/2023 - 18:31:26 - Getting link categories
+7/3/2023 - 18:31:26 - Getting link categories
+7/3/2023 - 18:31:26 - YnetWebManager has initiallized.
+7/3/2023 - 18:34:41 - Software has started.
+7/3/2023 - 18:34:42 - Getting number of categories
+7/3/2023 - 18:34:42 - Getting link categories
+7/3/2023 - 18:34:42 - Getting link categories
+7/3/2023 - 18:34:42 - WallaWebManager has initiallized.
+7/3/2023 - 18:34:42 - Getting link categories
+7/3/2023 - 18:34:42 - Getting link categories
+7/3/2023 - 18:34:42 - MaarivWebManager has initiallized.
+7/3/2023 - 18:34:42 - Getting link categories
+7/3/2023 - 18:34:42 - Getting link categories
+7/3/2023 - 18:34:42 - GlobesWebManager has initiallized.
+7/3/2023 - 18:34:42 - Getting link categories
+7/3/2023 - 18:34:42 - Getting link categories
+7/3/2023 - 18:34:42 - YnetWebManager has initiallized.
+7/3/2023 - 18:35:25 - Software has started.
+7/3/2023 - 18:35:25 - Getting number of categories
+7/3/2023 - 18:35:25 - Getting link categories
+7/3/2023 - 18:35:25 - Getting link categories
+7/3/2023 - 18:35:35 - WallaWebManager has initiallized.
+7/3/2023 - 18:35:40 - Getting link categories
+7/3/2023 - 18:35:40 - Getting link categories
+7/3/2023 - 18:35:45 - MaarivWebManager has initiallized.
+7/3/2023 - 18:35:48 - Getting link categories
+7/3/2023 - 18:35:48 - Getting link categories
+7/3/2023 - 18:35:52 - GlobesWebManager has initiallized.
+7/3/2023 - 18:35:52 - Getting link categories
+7/3/2023 - 18:35:52 - Getting link categories
+7/3/2023 - 18:35:54 - YnetWebManager has initiallized.
+7/3/2023 - 18:36:28 - Software has started.
+7/3/2023 - 18:36:29 - Getting number of categories
+7/3/2023 - 18:36:29 - Getting link categories
+7/3/2023 - 18:36:29 - Getting link categories
+7/3/2023 - 18:36:29 - WallaWebManager has initiallized.
+7/3/2023 - 18:36:29 - Getting link categories
+7/3/2023 - 18:36:29 - Getting link categories
+7/3/2023 - 18:36:29 - MaarivWebManager has initiallized.
+7/3/2023 - 18:36:29 - Getting link categories
+7/3/2023 - 18:36:29 - Getting link categories
+7/3/2023 - 18:36:29 - GlobesWebManager has initiallized.
+7/3/2023 - 18:36:29 - Getting link categories
+7/3/2023 - 18:36:29 - Getting link categories
+7/3/2023 - 18:36:29 - YnetWebManager has initiallized.
+7/3/2023 - 18:36:52 - Software has started.
+7/3/2023 - 18:36:52 - Getting number of categories
+7/3/2023 - 18:36:52 - Getting link categories
+7/3/2023 - 18:36:52 - Getting link categories
+7/3/2023 - 18:36:52 - WallaWebManager has initiallized.
+7/3/2023 - 18:36:52 - Getting link categories
+7/3/2023 - 18:36:52 - Getting link categories
+7/3/2023 - 18:36:52 - MaarivWebManager has initiallized.
+7/3/2023 - 18:36:52 - Getting link categories
+7/3/2023 - 18:36:52 - Getting link categories
+7/3/2023 - 18:36:52 - GlobesWebManager has initiallized.
+7/3/2023 - 18:36:52 - Getting link categories
+7/3/2023 - 18:36:52 - Getting link categories
+7/3/2023 - 18:36:52 - YnetWebManager has initiallized.
+7/3/2023 - 18:37:19 - Software has started.
+7/3/2023 - 18:37:19 - Getting number of categories
+7/3/2023 - 18:37:26 - Software has started.
+7/3/2023 - 18:37:27 - Getting number of categories
+7/3/2023 - 18:37:27 - Getting link categories
+7/3/2023 - 18:37:27 - Getting link categories
+7/3/2023 - 18:37:27 - WallaWebManager has initiallized.
+7/3/2023 - 18:37:27 - Getting link categories
+7/3/2023 - 18:37:27 - Getting link categories
+7/3/2023 - 18:37:27 - MaarivWebManager has initiallized.
+7/3/2023 - 18:37:27 - Getting link categories
+7/3/2023 - 18:43:24 - Software has started.
+7/3/2023 - 18:43:24 - Getting number of categories
+7/3/2023 - 18:43:24 - Getting link categories
+7/3/2023 - 18:43:24 - Getting link categories
+7/3/2023 - 18:43:24 - WallaWebManager has initiallized.
+7/3/2023 - 18:43:24 - Getting link categories
+7/3/2023 - 18:43:24 - Getting link categories
+7/3/2023 - 18:43:24 - MaarivWebManager has initiallized.
+7/3/2023 - 18:43:24 - Getting link categories
+7/3/2023 - 18:43:24 - Getting link categories
+7/3/2023 - 18:43:24 - GlobesWebManager has initiallized.
+7/3/2023 - 18:43:24 - Getting link categories
+7/3/2023 - 18:43:24 - Getting link categories
+7/3/2023 - 18:43:24 - YnetWebManager has initiallized.
+7/3/2023 - 18:44:18 - Software has started.
+7/3/2023 - 18:44:18 - Getting number of categories
+7/3/2023 - 18:44:18 - Getting link categories
+7/3/2023 - 18:44:55 - Software has started.
+7/3/2023 - 18:45:24 - Software has started.
+7/3/2023 - 18:45:25 - Getting number of categories
+7/3/2023 - 18:45:25 - Getting link categories
+7/3/2023 - 18:45:25 - Getting link categories
+7/3/2023 - 18:45:25 - WallaWebManager has initiallized.
+7/3/2023 - 18:45:25 - Getting link categories
+7/3/2023 - 18:45:25 - Getting link categories
+7/3/2023 - 18:45:25 - MaarivWebManager has initiallized.
+7/3/2023 - 18:45:25 - Getting link categories
+7/3/2023 - 18:45:25 - Getting link categories
+7/3/2023 - 18:45:25 - GlobesWebManager has initiallized.
+7/3/2023 - 18:45:25 - Getting link categories
+7/3/2023 - 18:45:25 - Getting link categories
+7/3/2023 - 18:45:25 - YnetWebManager has initiallized.
+7/3/2023 - 18:46:20 - Software has started.
+7/3/2023 - 18:46:20 - Getting number of categories
+7/3/2023 - 18:46:20 - Getting link categories
+7/3/2023 - 18:46:20 - Getting link categories
+7/3/2023 - 18:46:20 - WallaWebManager has initiallized.
+7/3/2023 - 18:46:20 - Getting link categories
+7/3/2023 - 18:46:20 - Getting link categories
+7/3/2023 - 18:46:20 - MaarivWebManager has initiallized.
+7/3/2023 - 18:46:20 - Getting link categories
+7/3/2023 - 18:46:20 - Getting link categories
+7/3/2023 - 18:46:20 - GlobesWebManager has initiallized.
+7/3/2023 - 18:46:20 - Getting link categories
+7/3/2023 - 18:46:20 - Getting link categories
+7/3/2023 - 18:46:20 - YnetWebManager has initiallized.
+7/3/2023 - 18:47:54 - Software has started.
+7/3/2023 - 18:47:55 - Getting number of categories
+7/3/2023 - 18:47:55 - Getting link categories
+7/3/2023 - 18:47:55 - Getting link categories
+7/3/2023 - 18:47:55 - WallaWebManager has initiallized.
+7/3/2023 - 18:50:33 - Software has started.
+7/3/2023 - 18:50:33 - Getting number of categories
+7/3/2023 - 18:52:07 - Software has started.
+7/3/2023 - 18:52:07 - Getting link categories
+7/3/2023 - 18:52:07 - Getting link categories
+7/3/2023 - 18:52:07 - WallaWebManager has initiallized.
+7/3/2023 - 18:52:14 - Getting number of categories
+7/3/2023 - 18:52:14 - Getting link categories
+7/3/2023 - 18:52:14 - Getting link categories
+7/3/2023 - 18:52:20 - Getting number of categories
+7/3/2023 - 18:52:20 - MaarivWebManager has initiallized.
+7/3/2023 - 18:57:11 - Software has started.
+7/3/2023 - 18:57:11 - Getting link categories
+7/3/2023 - 18:57:11 - Getting link categories
+7/3/2023 - 18:57:11 - WallaWebManager has initiallized.
+7/3/2023 - 18:57:11 - Getting link categories
+7/3/2023 - 18:57:11 - Getting link categories
+7/3/2023 - 18:57:11 - MaarivWebManager has initiallized.
+7/3/2023 - 18:57:11 - Getting number of categories
+7/3/2023 - 18:57:11 - Getting number of categories
+7/3/2023 - 18:57:37 - Getting link categories
+7/3/2023 - 18:59:20 - Software has started.
+7/3/2023 - 18:59:21 - Getting link categories
+7/3/2023 - 18:59:21 - Getting link categories
+7/3/2023 - 18:59:21 - WallaWebManager has initiallized.
+7/3/2023 - 18:59:22 - Getting link categories
+7/3/2023 - 18:59:23 - Getting link categories
+7/3/2023 - 18:59:23 - MaarivWebManager has initiallized.
+7/3/2023 - 18:59:30 - Getting link categories
+7/3/2023 - 18:59:43 - Getting link categories
+7/3/2023 - 18:59:44 - GlobesWebManager has initiallized.
+7/3/2023 - 18:59:55 - Getting number of categories
+7/3/2023 - 18:59:57 - Getting number of categories
+7/3/2023 - 19:00:01 - Getting number of categories
+7/3/2023 - 19:01:06 - Software has started.
+7/3/2023 - 19:01:07 - Getting link categories
+7/3/2023 - 19:01:07 - Getting link categories
+7/3/2023 - 19:04:25 - Software has started.
+7/3/2023 - 19:04:25 - Getting link categories
+7/3/2023 - 19:04:25 - Getting link categories
+7/3/2023 - 19:04:25 - WallaWebManager has initiallized.
+7/3/2023 - 19:08:07 - Software has started.
+7/3/2023 - 19:08:08 - Getting link categories
+7/3/2023 - 19:08:08 - Getting link categories
+7/3/2023 - 19:16:33 - Software has started.
+7/3/2023 - 19:16:33 - Getting link categories
+7/3/2023 - 19:16:33 - Getting link categories
+7/3/2023 - 19:16:33 - WallaWebManager has initiallized.
+7/3/2023 - 19:16:36 - Getting link categories
+7/3/2023 - 19:16:38 - Getting link categories
+7/3/2023 - 19:16:38 - MaarivWebManager has initiallized.
+7/3/2023 - 19:16:41 - Getting link categories
+7/3/2023 - 19:16:42 - Getting link categories
+7/3/2023 - 19:19:31 - Software has started.
+7/3/2023 - 19:19:32 - Getting link categories
+7/3/2023 - 19:19:32 - Getting link categories
+7/3/2023 - 19:19:32 - WallaWebManager has initiallized.
+7/3/2023 - 19:21:14 - Software has started.
+7/3/2023 - 19:21:14 - Getting link categories
+7/3/2023 - 19:21:15 - Getting link categories
+7/3/2023 - 19:21:15 - WallaWebManager has initiallized.
+7/3/2023 - 19:21:17 - Getting link categories
+7/3/2023 - 19:21:17 - Getting link categories
+7/3/2023 - 19:21:17 - MaarivWebManager has initiallized.
+7/3/2023 - 19:42:21 - Software has started.
+7/3/2023 - 19:42:21 - Getting link categories
+7/3/2023 - 19:42:21 - Getting link categories
+7/3/2023 - 19:42:21 - WallaWebManager has initiallized.
+7/3/2023 - 19:42:25 - Getting link categories
+7/3/2023 - 19:42:25 - Getting link categories
+7/3/2023 - 19:42:25 - MaarivWebManager has initiallized.
+7/3/2023 - 19:42:25 - Getting link categories
+7/3/2023 - 19:42:25 - Getting link categories
+7/3/2023 - 19:46:16 - Software has started.
+7/3/2023 - 19:46:17 - Getting link categories
+7/3/2023 - 19:46:17 - Getting link categories
+7/3/2023 - 19:47:31 - Software has started.
+7/3/2023 - 19:47:31 - Getting link categories
+7/3/2023 - 19:47:31 - Getting link categories
+7/3/2023 - 19:47:31 - WallaWebManager has initiallized.
+7/3/2023 - 19:47:31 - Getting link categories
+7/3/2023 - 19:47:31 - Getting link categories
+7/3/2023 - 19:47:31 - MaarivWebManager has initiallized.
+7/3/2023 - 19:47:31 - Getting link categories
+7/3/2023 - 19:47:31 - Getting link categories
+7/3/2023 - 19:47:31 - GlobesWebManager has initiallized.
+7/3/2023 - 19:47:31 - Getting link categories
+7/3/2023 - 19:47:31 - Getting link categories
+7/3/2023 - 19:47:31 - YnetWebManager has initiallized.
+7/3/2023 - 19:50:43 - Software has started.
+7/3/2023 - 19:50:44 - Getting link categories
+7/3/2023 - 19:50:44 - Getting link categories
+7/3/2023 - 19:50:44 - WallaWebManager has initiallized.
+7/3/2023 - 19:51:14 - Software has started.
+7/3/2023 - 19:51:14 - Getting link categories
+7/3/2023 - 19:51:14 - Getting link categories
+7/3/2023 - 19:51:14 - WallaWebManager has initiallized.
+7/3/2023 - 19:51:14 - Getting link categories
+7/3/2023 - 19:51:14 - Getting link categories
+7/3/2023 - 19:51:14 - MaarivWebManager has initiallized.
+7/3/2023 - 19:51:14 - Getting link categories
+7/3/2023 - 19:57:54 - Software has started.
+7/3/2023 - 19:57:54 - Getting link categories
+7/3/2023 - 19:57:54 - Getting link categories
+7/3/2023 - 19:57:54 - WallaWebManager has initiallized.
+7/3/2023 - 19:57:54 - Getting link categories
+7/3/2023 - 19:57:54 - Getting link categories
+7/3/2023 - 19:57:54 - MaarivWebManager has initiallized.
+7/3/2023 - 19:57:54 - Getting link categories
+7/3/2023 - 19:57:54 - Getting link categories
+7/3/2023 - 19:57:54 - GlobesWebManager has initiallized.
+7/3/2023 - 19:57:54 - Getting link categories
+7/3/2023 - 19:57:54 - Getting link categories
+7/3/2023 - 19:57:54 - YnetWebManager has initiallized.
+7/3/2023 - 19:59:43 - Software has started.
+7/3/2023 - 19:59:43 - Getting link categories
+7/3/2023 - 19:59:43 - Getting link categories
+7/3/2023 - 19:59:43 - WallaWebManager has initiallized.
+7/3/2023 - 19:59:43 - Getting link categories
+7/3/2023 - 19:59:43 - Getting link categories
+7/3/2023 - 19:59:43 - MaarivWebManager has initiallized.
+7/3/2023 - 19:59:43 - Getting link categories
+7/3/2023 - 19:59:43 - Getting link categories
+7/3/2023 - 19:59:43 - GlobesWebManager has initiallized.
+7/3/2023 - 19:59:43 - Getting link categories
+7/3/2023 - 19:59:43 - Getting link categories
+7/3/2023 - 19:59:43 - YnetWebManager has initiallized.
+7/3/2023 - 20:02:50 - Software has started.
+7/3/2023 - 20:02:50 - Getting link categories
+7/3/2023 - 20:02:50 - Getting link categories
+7/3/2023 - 20:02:50 - WallaWebManager has initiallized.
+7/3/2023 - 20:02:50 - Getting link categories
+7/3/2023 - 20:02:50 - Getting link categories
+7/3/2023 - 20:02:50 - MaarivWebManager has initiallized.
+7/3/2023 - 20:02:50 - Getting link categories
+7/3/2023 - 20:02:50 - Getting link categories
+7/3/2023 - 20:02:50 - GlobesWebManager has initiallized.
+7/3/2023 - 20:02:50 - Getting link categories
+7/3/2023 - 20:02:50 - Getting link categories
+7/3/2023 - 20:02:50 - YnetWebManager has initiallized.
+7/3/2023 - 20:03:52 - Software has started.
+7/3/2023 - 20:03:52 - Getting link categories
+7/3/2023 - 20:03:52 - Getting link categories
+7/3/2023 - 20:03:52 - WallaWebManager has initiallized.
+7/3/2023 - 20:03:52 - Getting link categories
+7/3/2023 - 20:03:52 - Getting link categories
+7/3/2023 - 20:03:52 - MaarivWebManager has initiallized.
+7/3/2023 - 20:03:52 - Getting link categories
+7/3/2023 - 20:03:52 - Getting link categories
+7/3/2023 - 20:03:52 - GlobesWebManager has initiallized.
+7/3/2023 - 20:03:52 - Getting link categories
+7/3/2023 - 20:03:52 - Getting link categories
+7/3/2023 - 20:03:52 - YnetWebManager has initiallized.
+7/3/2023 - 20:04:25 - Software has started.
+7/3/2023 - 20:04:25 - Getting link categories
+7/3/2023 - 20:04:25 - Getting link categories
+7/3/2023 - 20:04:25 - WallaWebManager has initiallized.
+7/3/2023 - 20:04:25 - Getting link categories
+7/3/2023 - 20:04:25 - Getting link categories
+7/3/2023 - 20:04:25 - MaarivWebManager has initiallized.
+7/3/2023 - 20:04:25 - Getting link categories
+7/3/2023 - 20:05:08 - Software has started.
+7/3/2023 - 20:05:08 - Getting link categories
+7/3/2023 - 20:05:08 - Getting link categories
+7/3/2023 - 20:05:08 - WallaWebManager has initiallized.
+7/3/2023 - 20:05:08 - Getting link categories
+7/3/2023 - 20:05:08 - Getting link categories
+7/3/2023 - 20:05:08 - MaarivWebManager has initiallized.
+7/3/2023 - 20:05:08 - Getting link categories
+7/3/2023 - 20:05:08 - Getting link categories
+7/3/2023 - 20:05:08 - GlobesWebManager has initiallized.
+7/3/2023 - 20:05:08 - Getting link categories
+7/3/2023 - 20:05:08 - Getting link categories
+7/3/2023 - 20:05:08 - YnetWebManager has initiallized.
+7/3/2023 - 20:25:08 - Software has started.
+7/3/2023 - 20:25:09 - Getting link categories
+7/3/2023 - 20:25:09 - Getting link categories
+7/3/2023 - 20:25:09 - WallaWebManager has initiallized.
+7/3/2023 - 20:25:09 - Getting link categories
+7/3/2023 - 20:25:09 - Getting link categories
+7/3/2023 - 20:25:09 - MaarivWebManager has initiallized.
+7/3/2023 - 20:25:09 - Getting link categories
+7/3/2023 - 20:25:09 - Getting link categories
+7/3/2023 - 20:25:09 - GlobesWebManager has initiallized.
+7/3/2023 - 20:25:09 - Getting link categories
+7/3/2023 - 20:25:09 - Getting link categories
+7/3/2023 - 20:25:09 - YnetWebManager has initiallized.
+7/3/2023 - 21:52:27 - Software has started.
+7/3/2023 - 21:52:27 - Getting link categories
+7/3/2023 - 21:52:27 - Getting link categories
+7/3/2023 - 21:52:27 - WallaWebManager has initiallized.
+7/3/2023 - 21:52:27 - Getting link categories
+7/3/2023 - 21:52:27 - Getting link categories
+7/3/2023 - 21:52:27 - MaarivWebManager has initiallized.
+7/3/2023 - 21:52:27 - Getting link categories
+7/3/2023 - 21:52:27 - Getting link categories
+7/3/2023 - 21:52:27 - GlobesWebManager has initiallized.
+7/3/2023 - 21:52:27 - Getting link categories
+7/3/2023 - 21:52:27 - Getting link categories
+7/3/2023 - 21:52:27 - YnetWebManager has initiallized.
+7/3/2023 - 21:58:01 - Software has started.
+7/3/2023 - 21:58:01 - Getting link categories
+7/3/2023 - 21:58:01 - Getting link categories
+7/3/2023 - 21:58:01 - WallaWebManager has initiallized.
+7/3/2023 - 21:58:01 - Getting link categories
+7/3/2023 - 21:58:01 - Getting link categories
+7/3/2023 - 21:58:01 - MaarivWebManager has initiallized.
+7/3/2023 - 21:58:01 - Getting link categories
+7/3/2023 - 21:58:01 - Getting link categories
+7/3/2023 - 21:58:01 - GlobesWebManager has initiallized.
+7/3/2023 - 21:58:01 - Getting link categories
+7/3/2023 - 21:58:01 - Getting link categories
+7/3/2023 - 21:58:01 - YnetWebManager has initiallized.
+7/3/2023 - 21:59:14 - Software has started.
+7/3/2023 - 21:59:15 - Getting link categories
+7/3/2023 - 21:59:15 - Getting link categories
+7/3/2023 - 21:59:15 - WallaWebManager has initiallized.
+7/3/2023 - 21:59:15 - Getting link categories
+7/3/2023 - 21:59:15 - Getting link categories
+7/3/2023 - 22:06:28 - Software has started.
+7/3/2023 - 22:06:29 - Getting link categories
+7/3/2023 - 22:06:29 - Getting link categories
+7/3/2023 - 22:06:29 - WallaWebManager has initiallized.
+7/3/2023 - 22:06:29 - Getting link categories
+7/3/2023 - 22:06:29 - Getting link categories
+7/3/2023 - 22:06:29 - MaarivWebManager has initiallized.
+7/3/2023 - 22:06:29 - Getting link categories
+7/3/2023 - 22:06:29 - Getting link categories
+7/3/2023 - 22:06:29 - GlobesWebManager has initiallized.
+7/3/2023 - 22:06:29 - Getting link categories
+7/3/2023 - 22:06:29 - Getting link categories
+7/3/2023 - 22:06:29 - YnetWebManager has initiallized.
+7/3/2023 - 22:12:47 - Software has started.
+7/3/2023 - 22:12:47 - Getting link categories
+7/3/2023 - 22:12:47 - Getting link categories
+7/3/2023 - 22:12:47 - WallaWebManager has initiallized.
+7/3/2023 - 22:12:47 - Getting link categories
+7/3/2023 - 22:12:47 - Getting link categories
+7/3/2023 - 22:12:47 - MaarivWebManager has initiallized.
+7/3/2023 - 22:12:47 - Getting link categories
+7/3/2023 - 22:12:47 - Getting link categories
+7/3/2023 - 22:12:47 - GlobesWebManager has initiallized.
+7/3/2023 - 22:12:47 - Getting link categories
+7/3/2023 - 22:12:47 - Getting link categories
+7/3/2023 - 22:12:47 - YnetWebManager has initiallized.
+7/3/2023 - 22:20:51 - Software has started.
+7/3/2023 - 22:20:51 - Getting link categories
+7/3/2023 - 22:20:51 - Getting link categories
+7/3/2023 - 22:20:51 - WallaWebManager has initiallized.
+7/3/2023 - 22:20:51 - Getting link categories
+7/3/2023 - 22:20:51 - Getting link categories
+7/3/2023 - 22:20:51 - MaarivWebManager has initiallized.
+7/3/2023 - 22:20:51 - Getting link categories
+7/3/2023 - 22:20:51 - Getting link categories
+7/3/2023 - 22:21:12 - Software has started.
+7/3/2023 - 22:21:12 - Getting link categories
+7/3/2023 - 22:21:13 - Getting link categories
+7/3/2023 - 22:21:13 - WallaWebManager has initiallized.
+7/3/2023 - 22:22:45 - Software has started.
+7/3/2023 - 22:22:46 - Getting link categories
+7/3/2023 - 22:22:51 - Getting link categories
+7/3/2023 - 22:23:31 - WallaWebManager has initiallized.
+7/3/2023 - 22:23:31 - Getting link categories
+7/3/2023 - 22:23:31 - Getting link categories
+7/3/2023 - 22:23:31 - MaarivWebManager has initiallized.
+7/3/2023 - 22:23:31 - Getting link categories
+7/3/2023 - 22:23:31 - Getting link categories
+7/3/2023 - 22:23:31 - GlobesWebManager has initiallized.
+7/3/2023 - 22:23:31 - Getting link categories
+7/3/2023 - 22:23:31 - Getting link categories
+7/3/2023 - 22:23:31 - YnetWebManager has initiallized.
+7/3/2023 - 22:23:54 - Software has started.
+7/3/2023 - 22:23:55 - Getting link categories
+7/3/2023 - 22:23:57 - Getting link categories
+7/3/2023 - 22:24:10 - WallaWebManager has initiallized.
+7/3/2023 - 22:24:32 - Getting link categories
+7/3/2023 - 22:24:32 - Getting link categories
+7/3/2023 - 22:24:32 - MaarivWebManager has initiallized.
+7/3/2023 - 22:24:32 - Getting link categories
+7/3/2023 - 22:25:55 - Software has started.
+7/3/2023 - 22:25:55 - Getting link categories
+7/3/2023 - 22:26:00 - Getting link categories
+7/3/2023 - 22:26:00 - WallaWebManager has initiallized.
+7/3/2023 - 22:26:00 - Getting link categories
+7/3/2023 - 22:26:00 - Getting link categories
+7/3/2023 - 22:26:00 - MaarivWebManager has initiallized.
+7/3/2023 - 22:26:00 - Getting link categories
+7/3/2023 - 22:26:00 - Getting link categories
+7/3/2023 - 22:26:00 - GlobesWebManager has initiallized.
+7/3/2023 - 22:26:00 - Getting link categories
+7/3/2023 - 22:26:00 - Getting link categories
+7/3/2023 - 22:26:00 - YnetWebManager has initiallized.
+7/3/2023 - 22:26:44 - Software has started.
+7/3/2023 - 22:26:45 - Getting link categories
+7/3/2023 - 22:26:46 - Getting link categories
+7/3/2023 - 22:26:46 - WallaWebManager has initiallized.
+7/3/2023 - 22:26:56 - Getting link categories
+7/3/2023 - 22:26:56 - Getting link categories
+7/3/2023 - 22:26:58 - MaarivWebManager has initiallized.
+7/3/2023 - 22:26:58 - Getting link categories
+7/3/2023 - 22:26:58 - Getting link categories
+7/3/2023 - 22:26:58 - GlobesWebManager has initiallized.
+7/3/2023 - 22:26:58 - Getting link categories
+7/3/2023 - 22:28:47 - Software has started.
+7/3/2023 - 22:28:48 - Getting link categories
+7/3/2023 - 22:29:32 - Software has started.
+7/3/2023 - 22:29:32 - Getting link categories
+7/3/2023 - 22:29:43 - Software has started.
+7/3/2023 - 22:29:43 - Getting link categories
+7/3/2023 - 22:29:46 - Getting link categories
+7/3/2023 - 22:29:57 - WallaWebManager has initiallized.
+7/3/2023 - 22:30:59 - Software has started.
+7/3/2023 - 22:31:00 - Getting link categories
+7/3/2023 - 22:38:22 - Software has started.
+7/3/2023 - 22:38:23 - Getting link categories
+7/3/2023 - 22:38:26 - Getting link categories
+7/3/2023 - 22:38:26 - WallaWebManager has initiallized.
+7/3/2023 - 22:38:28 - Getting link categories
+7/3/2023 - 22:38:28 - Getting link categories
+7/3/2023 - 22:38:28 - MaarivWebManager has initiallized.
+7/3/2023 - 22:38:28 - Getting link categories
+7/3/2023 - 22:38:28 - Getting link categories
+7/3/2023 - 22:39:05 - Software has started.
+7/3/2023 - 22:39:05 - Getting link categories
+7/3/2023 - 22:39:05 - Getting link categories
+7/3/2023 - 22:39:05 - WallaWebManager has initiallized.
+7/3/2023 - 22:39:05 - Getting link categories
+7/3/2023 - 22:39:05 - Getting link categories
+7/3/2023 - 22:39:05 - MaarivWebManager has initiallized.
+7/3/2023 - 22:39:05 - Getting link categories
+7/3/2023 - 22:39:05 - Getting link categories
+7/3/2023 - 22:39:05 - GlobesWebManager has initiallized.
+7/3/2023 - 22:40:03 - Software has started.
+7/3/2023 - 22:40:03 - Getting link categories
+7/3/2023 - 22:40:03 - Getting link categories
+7/3/2023 - 22:40:03 - WallaWebManager has initiallized.
+7/3/2023 - 22:40:03 - Getting link categories
+7/3/2023 - 22:40:03 - Getting link categories
+7/3/2023 - 22:40:03 - MaarivWebManager has initiallized.
+7/3/2023 - 22:40:03 - Getting link categories
+7/3/2023 - 22:40:03 - Getting link categories
+7/3/2023 - 22:40:03 - GlobesWebManager has initiallized.
+7/3/2023 - 22:40:03 - Getting link categories
+7/3/2023 - 22:40:03 - Getting link categories
+7/3/2023 - 22:40:03 - YnetWebManager has initiallized.
+7/3/2023 - 22:40:23 - Software has started.
+7/3/2023 - 22:42:04 - Software has started.
+7/3/2023 - 22:42:04 - Getting link categories
+7/3/2023 - 22:42:17 - Getting link categories
+7/3/2023 - 22:42:27 - WallaWebManager has initiallized.
+7/3/2023 - 22:42:27 - Getting link categories
+7/3/2023 - 22:42:33 - Getting link categories
+7/3/2023 - 22:42:37 - MaarivWebManager has initiallized.
+7/3/2023 - 22:42:37 - Getting link categories
+7/3/2023 - 22:42:44 - Getting link categories
+7/3/2023 - 22:42:47 - GlobesWebManager has initiallized.
+7/3/2023 - 22:42:47 - Getting link categories
+7/3/2023 - 22:42:50 - Getting link categories
+7/3/2023 - 22:42:56 - YnetWebManager has initiallized.
+7/3/2023 - 22:43:49 - Software has started.
+7/3/2023 - 22:43:49 - Getting link categories
+7/3/2023 - 22:43:57 - Getting link categories
+7/3/2023 - 22:43:57 - WallaWebManager has initiallized.
+7/3/2023 - 22:43:57 - Getting link categories
+7/3/2023 - 22:43:57 - Getting link categories
+7/3/2023 - 22:43:57 - MaarivWebManager has initiallized.
+7/3/2023 - 22:43:57 - Getting link categories
+7/3/2023 - 22:43:57 - Getting link categories
+7/3/2023 - 22:43:57 - GlobesWebManager has initiallized.
+7/3/2023 - 22:43:57 - Getting link categories
+7/3/2023 - 22:43:57 - Getting link categories
+7/3/2023 - 22:43:57 - YnetWebManager has initiallized.
+7/3/2023 - 22:45:16 - Software has started.
+7/3/2023 - 22:45:16 - Getting link categories
+7/3/2023 - 22:45:16 - Getting link categories
+7/3/2023 - 22:45:16 - WallaWebManager has initiallized.
+7/3/2023 - 22:45:16 - Getting link categories
+7/3/2023 - 22:45:16 - Getting link categories
+7/3/2023 - 22:45:16 - MaarivWebManager has initiallized.
+7/3/2023 - 22:45:16 - Getting link categories
+7/3/2023 - 22:45:16 - Getting link categories
+7/3/2023 - 22:45:16 - GlobesWebManager has initiallized.
+7/3/2023 - 22:45:16 - Getting link categories
+7/3/2023 - 22:45:16 - Getting link categories
+7/3/2023 - 22:45:16 - YnetWebManager has initiallized.
+7/3/2023 - 22:45:33 - Software has started.
+7/3/2023 - 22:45:33 - Getting link categories
+7/3/2023 - 22:45:33 - Getting link categories
+7/3/2023 - 22:45:33 - WallaWebManager has initiallized.
+7/3/2023 - 22:45:33 - Getting link categories
+7/3/2023 - 22:45:33 - Getting link categories
+7/3/2023 - 22:45:33 - MaarivWebManager has initiallized.
+7/3/2023 - 22:45:33 - Getting link categories
+7/3/2023 - 22:45:33 - Getting link categories
+7/3/2023 - 22:45:33 - GlobesWebManager has initiallized.
+7/3/2023 - 22:45:33 - Getting link categories
+7/3/2023 - 22:45:33 - Getting link categories
+7/3/2023 - 22:45:33 - YnetWebManager has initiallized.
+7/3/2023 - 22:46:09 - Software has started.
+7/3/2023 - 22:46:09 - Getting link categories
+7/3/2023 - 22:46:09 - Getting link categories
+7/3/2023 - 22:46:09 - WallaWebManager has initiallized.
+7/3/2023 - 22:46:09 - Getting link categories
+7/3/2023 - 22:46:09 - Getting link categories
+7/3/2023 - 22:46:09 - MaarivWebManager has initiallized.
+7/3/2023 - 22:46:09 - Getting link categories
+7/3/2023 - 22:46:09 - Getting link categories
+7/3/2023 - 22:46:09 - GlobesWebManager has initiallized.
+7/3/2023 - 22:46:09 - Getting link categories
+7/3/2023 - 22:46:09 - Getting link categories
+7/3/2023 - 22:46:09 - YnetWebManager has initiallized.
+7/3/2023 - 22:47:08 - Software has started.
+7/3/2023 - 22:47:08 - Getting link categories
+7/3/2023 - 22:47:08 - Getting link categories
+7/3/2023 - 22:47:08 - WallaWebManager has initiallized.
+7/3/2023 - 22:47:08 - Getting link categories
+7/3/2023 - 22:47:08 - Getting link categories
+7/3/2023 - 22:47:08 - MaarivWebManager has initiallized.
+7/3/2023 - 22:47:08 - Getting link categories
+7/3/2023 - 22:47:08 - Getting link categories
+7/3/2023 - 22:47:08 - GlobesWebManager has initiallized.
+7/3/2023 - 22:47:08 - Getting link categories
+7/3/2023 - 22:47:08 - Getting link categories
+7/3/2023 - 22:47:08 - YnetWebManager has initiallized.
+7/3/2023 - 22:48:24 - Software has started.
+7/3/2023 - 22:48:24 - Getting link categories
+7/3/2023 - 22:48:24 - Getting link categories
+7/3/2023 - 22:48:24 - WallaWebManager has initiallized.
+7/3/2023 - 22:48:24 - Getting link categories
+7/3/2023 - 22:48:24 - Getting link categories
+7/3/2023 - 22:48:24 - MaarivWebManager has initiallized.
+7/3/2023 - 22:48:24 - Getting link categories
+7/3/2023 - 22:48:24 - Getting link categories
+7/3/2023 - 22:48:24 - GlobesWebManager has initiallized.
+7/3/2023 - 22:48:24 - Getting link categories
+7/3/2023 - 22:48:24 - Getting link categories
+7/3/2023 - 22:48:24 - YnetWebManager has initiallized.
+7/3/2023 - 22:49:06 - Software has started.
+7/3/2023 - 22:49:07 - Getting link categories
+7/3/2023 - 22:50:38 - Software has started.
+7/3/2023 - 22:50:38 - Getting link categories
+7/3/2023 - 22:50:38 - Getting link categories
+7/3/2023 - 22:50:38 - WallaWebManager has initiallized.
+7/3/2023 - 22:50:38 - Getting link categories
+7/3/2023 - 22:50:38 - Getting link categories
+7/3/2023 - 22:50:38 - MaarivWebManager has initiallized.
+7/3/2023 - 22:50:38 - Getting link categories
+7/3/2023 - 22:50:38 - Getting link categories
+7/3/2023 - 22:50:38 - GlobesWebManager has initiallized.
+7/3/2023 - 22:50:38 - Getting link categories
+7/3/2023 - 22:50:38 - Getting link categories
+7/3/2023 - 22:50:53 - Software has started.
+7/3/2023 - 22:50:53 - Getting link categories
+7/3/2023 - 22:50:53 - Getting link categories
+7/3/2023 - 22:50:53 - WallaWebManager has initiallized.
+7/3/2023 - 22:50:53 - Getting link categories
+7/3/2023 - 22:50:53 - Getting link categories
+7/3/2023 - 22:50:53 - MaarivWebManager has initiallized.
+7/3/2023 - 22:50:53 - Getting link categories
+7/3/2023 - 22:50:53 - Getting link categories
+7/3/2023 - 22:52:08 - Software has started.
+7/3/2023 - 22:52:08 - Getting link categories
+7/3/2023 - 22:52:08 - Getting link categories
+7/3/2023 - 22:52:08 - WallaWebManager has initiallized.
+7/3/2023 - 22:52:08 - Getting link categories
+7/3/2023 - 22:52:08 - Getting link categories
+7/3/2023 - 22:52:08 - MaarivWebManager has initiallized.
+7/3/2023 - 22:52:08 - Getting link categories
+7/3/2023 - 22:52:08 - Getting link categories
+7/3/2023 - 22:52:08 - GlobesWebManager has initiallized.
+7/3/2023 - 22:52:08 - Getting link categories
+7/3/2023 - 22:52:08 - Getting link categories
+7/3/2023 - 22:52:08 - YnetWebManager has initiallized.
+7/3/2023 - 22:54:05 - Software has started.
+7/3/2023 - 22:54:05 - Getting link categories
+7/3/2023 - 22:54:05 - Getting link categories
+7/3/2023 - 22:54:05 - WallaWebManager has initiallized.
+7/3/2023 - 22:54:05 - Getting link categories
+7/3/2023 - 22:54:05 - Getting link categories
+7/3/2023 - 22:54:05 - MaarivWebManager has initiallized.
+7/3/2023 - 22:54:05 - Getting link categories
+7/3/2023 - 22:54:05 - Getting link categories
+7/3/2023 - 22:54:05 - GlobesWebManager has initiallized.
+7/3/2023 - 22:54:05 - Getting link categories
+7/3/2023 - 22:54:05 - Getting link categories
+7/3/2023 - 22:54:05 - YnetWebManager has initiallized.
+7/3/2023 - 22:54:25 - Software has started.
+7/3/2023 - 22:54:26 - Getting link categories
+7/3/2023 - 22:54:26 - Getting link categories
+7/3/2023 - 22:54:26 - WallaWebManager has initiallized.
+7/3/2023 - 22:54:26 - Getting link categories
+7/3/2023 - 22:54:26 - Getting link categories
+7/3/2023 - 22:54:26 - MaarivWebManager has initiallized.
+7/3/2023 - 22:54:26 - Getting link categories
+7/3/2023 - 22:54:26 - Getting link categories
+7/3/2023 - 22:54:26 - GlobesWebManager has initiallized.
+7/3/2023 - 22:54:26 - Getting link categories
+7/3/2023 - 22:54:26 - Getting link categories
+7/3/2023 - 22:54:26 - YnetWebManager has initiallized.
+7/3/2023 - 22:54:52 - Software has started.
+7/3/2023 - 22:54:52 - Getting link categories
+7/3/2023 - 22:54:52 - Getting link categories
+7/3/2023 - 22:56:29 - Software has started.
+7/3/2023 - 22:56:30 - Getting link categories
+7/3/2023 - 22:56:30 - Getting link categories
+7/3/2023 - 22:56:30 - WallaWebManager has initiallized.
+7/3/2023 - 22:56:30 - Getting link categories
+7/3/2023 - 22:56:30 - Getting link categories
+7/3/2023 - 22:56:30 - MaarivWebManager has initiallized.
+7/3/2023 - 22:56:30 - Getting link categories
+7/3/2023 - 22:56:30 - Getting link categories
+7/3/2023 - 22:56:30 - GlobesWebManager has initiallized.
+7/3/2023 - 22:56:30 - Getting link categories
+7/3/2023 - 22:56:30 - Getting link categories
+7/3/2023 - 22:56:30 - YnetWebManager has initiallized.
+7/3/2023 - 22:56:47 - Software has started.
+7/3/2023 - 22:56:47 - Getting link categories
+7/3/2023 - 22:56:47 - Getting link categories
+7/3/2023 - 22:56:47 - WallaWebManager has initiallized.
+7/3/2023 - 22:56:47 - Getting link categories
+7/3/2023 - 22:58:05 - Software has started.
+7/3/2023 - 22:58:05 - Getting link categories
+7/3/2023 - 22:58:05 - Getting link categories
+7/3/2023 - 22:58:05 - WallaWebManager has initiallized.
+7/3/2023 - 22:58:05 - Getting link categories
+7/3/2023 - 22:58:05 - Getting link categories
+7/3/2023 - 22:58:05 - MaarivWebManager has initiallized.
+7/3/2023 - 22:58:05 - Getting link categories
+7/3/2023 - 22:58:05 - Getting link categories
+7/3/2023 - 22:58:05 - GlobesWebManager has initiallized.
+7/3/2023 - 22:58:05 - Getting link categories
+7/3/2023 - 22:58:05 - Getting link categories
+7/3/2023 - 22:58:05 - YnetWebManager has initiallized.
+7/3/2023 - 22:58:33 - Software has started.
+7/3/2023 - 22:58:33 - Getting link categories
+7/3/2023 - 22:58:33 - Getting link categories
+7/3/2023 - 22:58:33 - WallaWebManager has initiallized.
+7/3/2023 - 22:58:33 - Getting link categories
+7/3/2023 - 22:58:33 - Getting link categories
+7/3/2023 - 22:58:33 - MaarivWebManager has initiallized.
+7/3/2023 - 22:58:33 - Getting link categories
+7/3/2023 - 22:58:33 - Getting link categories
+7/3/2023 - 22:58:33 - GlobesWebManager has initiallized.
+7/3/2023 - 22:58:33 - Getting link categories
+7/3/2023 - 22:58:33 - Getting link categories
+7/3/2023 - 22:58:33 - YnetWebManager has initiallized.
+7/3/2023 - 23:00:03 - Software has started.
+7/3/2023 - 23:00:03 - Getting link categories
+7/3/2023 - 23:00:03 - Getting link categories
+7/3/2023 - 23:00:03 - WallaWebManager has initiallized.
+7/3/2023 - 23:00:03 - Getting link categories
+7/3/2023 - 23:00:03 - Getting link categories
+7/3/2023 - 23:00:03 - MaarivWebManager has initiallized.
+7/3/2023 - 23:00:03 - Getting link categories
+7/3/2023 - 23:00:03 - Getting link categories
+7/3/2023 - 23:00:03 - GlobesWebManager has initiallized.
+7/3/2023 - 23:00:03 - Getting link categories
+7/3/2023 - 23:00:03 - Getting link categories
+7/3/2023 - 23:00:03 - YnetWebManager has initiallized.
+7/3/2023 - 23:01:47 - Software has started.
+7/3/2023 - 23:02:03 - Software has started.
+7/3/2023 - 23:02:03 - Getting link categories
+7/3/2023 - 23:02:21 - Software has started.
+7/3/2023 - 23:02:22 - Getting link categories
+7/3/2023 - 23:02:22 - Getting link categories
+7/3/2023 - 23:02:22 - WallaWebManager has initiallized.
+7/3/2023 - 23:02:22 - Getting link categories
+7/3/2023 - 23:02:22 - Getting link categories
+7/3/2023 - 23:02:22 - MaarivWebManager has initiallized.
+7/3/2023 - 23:02:22 - Getting link categories
+7/3/2023 - 23:02:22 - Getting link categories
+7/3/2023 - 23:02:22 - GlobesWebManager has initiallized.
+7/3/2023 - 23:02:22 - Getting link categories
+7/3/2023 - 23:02:22 - Getting link categories
+7/3/2023 - 23:02:22 - YnetWebManager has initiallized.
+7/3/2023 - 23:03:32 - Software has started.
+7/3/2023 - 23:03:32 - Getting link categories
+7/3/2023 - 23:03:32 - Getting link categories
+7/3/2023 - 23:04:41 - Software has started.
+7/3/2023 - 23:04:41 - Getting link categories
+7/3/2023 - 23:05:14 - Software has started.
+7/3/2023 - 23:05:14 - Getting link categories
+7/3/2023 - 23:05:14 - Getting link categories
+7/3/2023 - 23:05:14 - WallaWebManager has initiallized.
+7/3/2023 - 23:05:14 - Getting link categories
+7/3/2023 - 23:05:14 - Getting link categories
+7/3/2023 - 23:05:14 - MaarivWebManager has initiallized.
+7/3/2023 - 23:05:14 - Getting link categories
+7/3/2023 - 23:05:14 - Getting link categories
+7/3/2023 - 23:05:14 - GlobesWebManager has initiallized.
+7/3/2023 - 23:06:11 - Getting link categories
+7/3/2023 - 23:06:11 - Getting link categories
+7/3/2023 - 23:06:11 - YnetWebManager has initiallized.
+7/3/2023 - 23:06:32 - Software has started.
+7/3/2023 - 23:06:32 - Getting link categories
+7/3/2023 - 23:06:32 - Getting link categories
+7/3/2023 - 23:06:32 - WallaWebManager has initiallized.
+7/3/2023 - 23:06:32 - Getting link categories
+7/3/2023 - 23:06:32 - Getting link categories
+7/3/2023 - 23:06:32 - MaarivWebManager has initiallized.
+7/3/2023 - 23:06:37 - Getting link categories
+7/3/2023 - 23:06:50 - Getting link categories
+7/3/2023 - 23:06:51 - GlobesWebManager has initiallized.
+7/3/2023 - 23:06:51 - Getting link categories
+7/3/2023 - 23:06:51 - Getting link categories
+7/3/2023 - 23:06:51 - YnetWebManager has initiallized.
+7/3/2023 - 23:07:09 - Software has started.
+7/3/2023 - 23:07:10 - Getting link categories
+7/3/2023 - 23:07:10 - Getting link categories
+7/3/2023 - 23:07:10 - WallaWebManager has initiallized.
+7/3/2023 - 23:07:10 - Getting link categories
+7/3/2023 - 23:07:12 - Getting link categories
+7/3/2023 - 23:07:12 - MaarivWebManager has initiallized.
+7/3/2023 - 23:07:13 - Getting link categories
+7/3/2023 - 23:07:13 - Getting link categories
+7/3/2023 - 23:07:13 - GlobesWebManager has initiallized.
+7/3/2023 - 23:07:14 - Getting link categories
+7/3/2023 - 23:07:56 - Software has started.
+7/3/2023 - 23:07:57 - Getting link categories
+7/3/2023 - 23:07:57 - Getting link categories
+7/3/2023 - 23:07:57 - WallaWebManager has initiallized.
+7/3/2023 - 23:07:57 - Getting link categories
+7/3/2023 - 23:09:06 - Software has started.
+7/3/2023 - 23:09:06 - Getting link categories
+7/3/2023 - 23:09:06 - Getting link categories
+7/3/2023 - 23:09:06 - WallaWebManager has initiallized.
+7/3/2023 - 23:10:43 - Software has started.
+7/3/2023 - 23:12:16 - Software has started.
+7/3/2023 - 23:12:16 - Getting link categories
+7/3/2023 - 23:12:16 - Getting link categories
+7/3/2023 - 23:12:16 - WallaWebManager has initiallized.
+7/3/2023 - 23:12:16 - Getting link categories
+7/3/2023 - 23:12:16 - Getting link categories
+7/3/2023 - 23:12:16 - MaarivWebManager has initiallized.
+7/3/2023 - 23:12:16 - Getting link categories
+7/3/2023 - 23:12:16 - Getting link categories
+7/3/2023 - 23:12:16 - GlobesWebManager has initiallized.
+7/3/2023 - 23:12:16 - Getting link categories
+7/3/2023 - 23:12:16 - Getting link categories
+7/3/2023 - 23:12:16 - YnetWebManager has initiallized.
+7/3/2023 - 23:12:49 - Software has started.
+7/3/2023 - 23:12:49 - Getting link categories
+7/3/2023 - 23:12:49 - Getting link categories
+7/3/2023 - 23:12:49 - WallaWebManager has initiallized.
+7/3/2023 - 23:12:49 - Getting link categories
+7/3/2023 - 23:12:49 - Getting link categories
+7/3/2023 - 23:12:49 - MaarivWebManager has initiallized.
+7/3/2023 - 23:12:49 - Getting link categories
+7/3/2023 - 23:12:49 - Getting link categories
+7/3/2023 - 23:12:49 - GlobesWebManager has initiallized.
+7/3/2023 - 23:12:49 - Getting link categories
+7/3/2023 - 23:12:49 - Getting link categories
+7/3/2023 - 23:12:49 - YnetWebManager has initiallized.
+7/3/2023 - 23:13:49 - Software has started.
+7/3/2023 - 23:13:49 - Getting link categories
+7/3/2023 - 23:13:49 - Getting link categories
+7/3/2023 - 23:13:49 - WallaWebManager has initiallized.
+7/3/2023 - 23:13:49 - Getting link categories
+7/3/2023 - 23:13:49 - Getting link categories
+7/3/2023 - 23:13:49 - MaarivWebManager has initiallized.
+7/3/2023 - 23:13:49 - Getting link categories
+7/3/2023 - 23:13:49 - Getting link categories
+7/3/2023 - 23:13:49 - GlobesWebManager has initiallized.
+7/3/2023 - 23:13:49 - Getting link categories
+7/3/2023 - 23:13:49 - Getting link categories
+7/3/2023 - 23:13:49 - YnetWebManager has initiallized.
+7/3/2023 - 23:14:22 - Software has started.
+7/3/2023 - 23:14:22 - Getting link categories
+7/3/2023 - 23:14:22 - Getting link categories
+7/3/2023 - 23:15:09 - Software has started.
+7/3/2023 - 23:15:09 - Getting link categories
+7/3/2023 - 23:15:09 - Getting link categories
+7/3/2023 - 23:15:09 - WallaWebManager has initiallized.
+7/3/2023 - 23:15:41 - Software has started.
+7/3/2023 - 23:15:42 - Getting link categories
+7/3/2023 - 23:15:42 - Getting link categories
+7/3/2023 - 23:15:42 - WallaWebManager has initiallized.
+7/3/2023 - 23:15:42 - Getting link categories
+7/3/2023 - 23:15:42 - Getting link categories
+7/3/2023 - 23:15:42 - MaarivWebManager has initiallized.
+7/3/2023 - 23:15:42 - Getting link categories
+7/3/2023 - 23:15:42 - Getting link categories
+7/3/2023 - 23:15:42 - GlobesWebManager has initiallized.
+7/3/2023 - 23:15:42 - Getting link categories
+7/3/2023 - 23:15:42 - Getting link categories
+7/3/2023 - 23:15:42 - YnetWebManager has initiallized.
+7/3/2023 - 23:16:41 - Software has started.
+7/3/2023 - 23:16:41 - Getting link categories
+7/3/2023 - 23:16:41 - Getting link categories
+7/3/2023 - 23:16:41 - WallaWebManager has initiallized.
+7/3/2023 - 23:16:41 - Getting link categories
+7/3/2023 - 23:16:41 - Getting link categories
+7/3/2023 - 23:16:41 - MaarivWebManager has initiallized.
+7/3/2023 - 23:16:41 - Getting link categories
+7/3/2023 - 23:16:41 - Getting link categories
+7/3/2023 - 23:16:41 - GlobesWebManager has initiallized.
+7/3/2023 - 23:16:41 - Getting link categories
+7/3/2023 - 23:16:41 - Getting link categories
+7/3/2023 - 23:16:41 - YnetWebManager has initiallized.
+7/3/2023 - 23:18:09 - Software has started.
+7/3/2023 - 23:18:09 - Getting link categories
+7/3/2023 - 23:18:09 - Getting link categories
+7/3/2023 - 23:18:09 - WallaWebManager has initiallized.
+7/3/2023 - 23:18:09 - Getting link categories
+7/3/2023 - 23:18:09 - Getting link categories
+7/3/2023 - 23:18:09 - MaarivWebManager has initiallized.
+7/3/2023 - 23:18:09 - Getting link categories
+7/3/2023 - 23:18:09 - Getting link categories
+7/3/2023 - 23:18:09 - GlobesWebManager has initiallized.
+7/3/2023 - 23:18:09 - Getting link categories
+7/3/2023 - 23:18:09 - Getting link categories
+7/3/2023 - 23:19:16 - Software has started.
+7/3/2023 - 23:19:16 - Getting link categories
+7/3/2023 - 23:19:16 - Getting link categories
+7/3/2023 - 23:19:16 - WallaWebManager has initiallized.
+7/3/2023 - 23:19:16 - Getting link categories
+7/3/2023 - 23:19:16 - Getting link categories
+7/3/2023 - 23:20:23 - Software has started.
+7/3/2023 - 23:20:24 - Getting link categories
+7/3/2023 - 23:20:24 - Getting link categories
+7/3/2023 - 23:20:24 - WallaWebManager has initiallized.
+7/3/2023 - 23:20:24 - Getting link categories
+7/3/2023 - 23:20:24 - Getting link categories
+7/3/2023 - 23:20:24 - MaarivWebManager has initiallized.
+7/3/2023 - 23:20:24 - Getting link categories
+7/3/2023 - 23:20:24 - Getting link categories
+7/3/2023 - 23:20:24 - GlobesWebManager has initiallized.
+7/3/2023 - 23:20:24 - Getting link categories
+7/3/2023 - 23:20:24 - Getting link categories
+7/3/2023 - 23:20:24 - YnetWebManager has initiallized.
+7/3/2023 - 23:22:35 - Software has started.
+7/3/2023 - 23:22:35 - Getting link categories
+7/3/2023 - 23:22:53 - Software has started.
+7/3/2023 - 23:22:53 - Getting link categories
+7/3/2023 - 23:22:53 - Getting link categories
+7/3/2023 - 23:22:53 - WallaWebManager has initiallized.
+7/3/2023 - 23:22:53 - Getting link categories
+7/3/2023 - 23:22:53 - Getting link categories
+7/3/2023 - 23:22:53 - MaarivWebManager has initiallized.
+7/3/2023 - 23:22:53 - Getting link categories
+7/3/2023 - 23:22:53 - Getting link categories
+7/3/2023 - 23:22:53 - GlobesWebManager has initiallized.
+7/3/2023 - 23:22:53 - Getting link categories
+7/3/2023 - 23:22:53 - Getting link categories
+7/3/2023 - 23:22:53 - YnetWebManager has initiallized.
+7/3/2023 - 23:24:59 - Software has started.
+7/3/2023 - 23:24:59 - Getting link categories
+7/3/2023 - 23:24:59 - Getting link categories
+7/3/2023 - 23:24:59 - WallaWebManager has initiallized.
+7/3/2023 - 23:24:59 - Getting link categories
+7/3/2023 - 23:24:59 - Getting link categories
+7/3/2023 - 23:24:59 - MaarivWebManager has initiallized.
+7/3/2023 - 23:24:59 - Getting link categories
+7/3/2023 - 23:24:59 - Getting link categories
+7/3/2023 - 23:24:59 - GlobesWebManager has initiallized.
+7/3/2023 - 23:24:59 - Getting link categories
+7/3/2023 - 23:24:59 - Getting link categories
+7/3/2023 - 23:24:59 - YnetWebManager has initiallized.
+7/3/2023 - 23:25:32 - Software has started.
+7/3/2023 - 23:25:32 - Getting link categories
+7/3/2023 - 23:25:32 - Getting link categories
+7/3/2023 - 23:25:32 - WallaWebManager has initiallized.
+7/3/2023 - 23:25:32 - Getting link categories
+7/3/2023 - 23:25:32 - Getting link categories
+7/3/2023 - 23:25:32 - MaarivWebManager has initiallized.
+7/3/2023 - 23:25:32 - Getting link categories
+7/3/2023 - 23:25:32 - Getting link categories
+7/3/2023 - 23:25:32 - GlobesWebManager has initiallized.
+7/3/2023 - 23:25:32 - Getting link categories
+7/3/2023 - 23:25:32 - Getting link categories
+7/3/2023 - 23:25:32 - YnetWebManager has initiallized.
+7/3/2023 - 23:26:54 - Software has started.
+7/3/2023 - 23:26:55 - Getting link categories
+7/3/2023 - 23:26:55 - Getting link categories
+7/3/2023 - 23:26:55 - WallaWebManager has initiallized.
+7/3/2023 - 23:26:55 - Getting link categories
+7/3/2023 - 23:26:55 - Getting link categories
+7/3/2023 - 23:26:55 - MaarivWebManager has initiallized.
+7/3/2023 - 23:26:55 - Getting link categories
+7/3/2023 - 23:26:55 - Getting link categories
+7/3/2023 - 23:26:55 - GlobesWebManager has initiallized.
+7/3/2023 - 23:26:55 - Getting link categories
+7/3/2023 - 23:26:55 - Getting link categories
+7/3/2023 - 23:26:55 - YnetWebManager has initiallized.
+8/3/2023 - 15:36:51 - Software has started.
+8/3/2023 - 15:36:51 - Getting Data From DB
+8/3/2023 - 15:36:51 - Getting Data From DB
+8/3/2023 - 15:36:51 - WallaWebManager has initiallized.
+8/3/2023 - 15:36:51 - Getting Data From DB
+8/3/2023 - 15:36:51 - Getting Data From DB
+8/3/2023 - 15:36:51 - MaarivWebManager has initiallized.
+8/3/2023 - 15:36:51 - Getting Data From DB
+8/3/2023 - 15:36:51 - Getting Data From DB
+8/3/2023 - 15:36:51 - GlobesWebManager has initiallized.
+8/3/2023 - 15:36:51 - Getting Data From DB
+8/3/2023 - 15:36:51 - Getting Data From DB
+8/3/2023 - 15:36:51 - YnetWebManager has initiallized.
+8/3/2023 - 15:37:25 - Software has started.
+8/3/2023 - 15:37:26 - Getting Data From DB
+8/3/2023 - 15:37:27 - Getting Data From DB
+8/3/2023 - 15:37:27 - WallaWebManager has initiallized.
+8/3/2023 - 15:37:27 - Getting Data From DB
+8/3/2023 - 15:37:27 - Getting Data From DB
+8/3/2023 - 15:37:27 - MaarivWebManager has initiallized.
+8/3/2023 - 15:37:27 - Getting Data From DB
+8/3/2023 - 15:37:27 - Getting Data From DB
+8/3/2023 - 15:37:27 - GlobesWebManager has initiallized.
+8/3/2023 - 15:37:27 - Getting Data From DB
+8/3/2023 - 15:37:27 - Getting Data From DB
+8/3/2023 - 15:37:27 - YnetWebManager has initiallized.
+8/3/2023 - 15:37:54 - Software has started.
+8/3/2023 - 15:37:55 - Getting Data From DB
+8/3/2023 - 15:37:55 - Getting Data From DB
+8/3/2023 - 15:37:56 - Getting Data From DB
+8/3/2023 - 15:37:56 - Getting Data From DB
+8/3/2023 - 15:37:57 - WallaWebManager has initiallized.
+8/3/2023 - 15:37:57 - Getting Data From DB
+8/3/2023 - 15:37:57 - Getting Data From DB
+8/3/2023 - 15:37:57 - MaarivWebManager has initiallized.
+8/3/2023 - 15:37:57 - Getting Data From DB
+8/3/2023 - 15:37:57 - Getting Data From DB
+8/3/2023 - 15:37:57 - GlobesWebManager has initiallized.
+8/3/2023 - 15:37:57 - YnetWebManager has initiallized.
+8/3/2023 - 15:39:18 - Software has started.
+8/3/2023 - 15:39:18 - Getting Data From DB
+8/3/2023 - 15:39:18 - Getting Data From DB
+8/3/2023 - 15:39:18 - WallaWebManager has initiallized.
+8/3/2023 - 15:39:18 - Getting Data From DB
+8/3/2023 - 15:39:18 - Getting Data From DB
+8/3/2023 - 15:39:18 - MaarivWebManager has initiallized.
+8/3/2023 - 15:39:18 - Getting Data From DB
+8/3/2023 - 15:39:18 - Getting Data From DB
+8/3/2023 - 15:39:18 - GlobesWebManager has initiallized.
+8/3/2023 - 15:39:18 - Getting Data From DB
+8/3/2023 - 15:39:18 - Getting Data From DB
+8/3/2023 - 15:39:18 - YnetWebManager has initiallized.
+8/3/2023 - 15:42:20 - Software has started.
+8/3/2023 - 15:42:20 - Getting Data From DB
+8/3/2023 - 15:42:21 - Getting Data From DB
+8/3/2023 - 15:42:21 - WallaWebManager has initiallized.
+8/3/2023 - 15:42:21 - Getting Data From DB
+8/3/2023 - 15:42:21 - Getting Data From DB
+8/3/2023 - 15:42:21 - MaarivWebManager has initiallized.
+8/3/2023 - 15:42:21 - Getting Data From DB
+8/3/2023 - 15:42:21 - Getting Data From DB
+8/3/2023 - 15:42:21 - GlobesWebManager has initiallized.
+8/3/2023 - 15:42:21 - Getting Data From DB
+8/3/2023 - 15:42:21 - Getting Data From DB
+8/3/2023 - 15:42:21 - YnetWebManager has initiallized.
+8/3/2023 - 15:43:06 - Software has started.
+8/3/2023 - 15:43:06 - Getting Data From DB
+8/3/2023 - 15:43:06 - Getting Data From DB
+8/3/2023 - 15:43:06 - WallaWebManager has initiallized.
+8/3/2023 - 15:43:06 - Getting Data From DB
+8/3/2023 - 15:43:06 - Getting Data From DB
+8/3/2023 - 15:43:06 - MaarivWebManager has initiallized.
+8/3/2023 - 15:43:06 - Getting Data From DB
+8/3/2023 - 15:43:06 - Getting Data From DB
+8/3/2023 - 15:43:06 - GlobesWebManager has initiallized.
+8/3/2023 - 15:43:06 - Getting Data From DB
+8/3/2023 - 15:43:06 - Getting Data From DB
+8/3/2023 - 15:43:06 - YnetWebManager has initiallized.
+8/3/2023 - 15:43:47 - Software has started.
+8/3/2023 - 15:43:47 - Getting Data From DB
+8/3/2023 - 15:43:48 - Getting Data From DB
+8/3/2023 - 15:43:48 - WallaWebManager has initiallized.
+8/3/2023 - 15:43:48 - Getting Data From DB
+8/3/2023 - 15:43:48 - Getting Data From DB
+8/3/2023 - 15:43:48 - MaarivWebManager has initiallized.
+8/3/2023 - 15:43:48 - Getting Data From DB
+8/3/2023 - 15:43:48 - Getting Data From DB
+8/3/2023 - 15:43:48 - GlobesWebManager has initiallized.
+8/3/2023 - 15:43:48 - Getting Data From DB
+8/3/2023 - 15:44:52 - Software has started.
+8/3/2023 - 15:44:52 - Getting Data From DB
+8/3/2023 - 15:44:52 - Getting Data From DB
+8/3/2023 - 15:44:52 - WallaWebManager has initiallized.
+8/3/2023 - 15:44:52 - Getting Data From DB
+8/3/2023 - 15:44:52 - Getting Data From DB
+8/3/2023 - 15:44:52 - MaarivWebManager has initiallized.
+8/3/2023 - 15:45:30 - Software has started.
+8/3/2023 - 15:45:30 - Getting Data From DB
+8/3/2023 - 15:45:30 - Getting Data From DB
+8/3/2023 - 15:45:30 - WallaWebManager has initiallized.
+8/3/2023 - 15:45:30 - Getting Data From DB
+8/3/2023 - 15:45:30 - Getting Data From DB
+8/3/2023 - 15:45:30 - MaarivWebManager has initiallized.
+8/3/2023 - 15:45:30 - Getting Data From DB
+8/3/2023 - 15:45:30 - Getting Data From DB
+8/3/2023 - 15:45:30 - GlobesWebManager has initiallized.
+8/3/2023 - 15:45:30 - Getting Data From DB
+8/3/2023 - 15:45:30 - Getting Data From DB
+8/3/2023 - 15:45:30 - YnetWebManager has initiallized.
+8/3/2023 - 15:46:06 - Software has started.
+8/3/2023 - 15:46:06 - Getting Data From DB
+8/3/2023 - 15:46:06 - Getting Data From DB
+8/3/2023 - 15:46:06 - WallaWebManager has initiallized.
+8/3/2023 - 15:46:06 - Getting Data From DB
+8/3/2023 - 15:46:06 - Getting Data From DB
+8/3/2023 - 15:46:06 - MaarivWebManager has initiallized.
+8/3/2023 - 15:46:06 - Getting Data From DB
+8/3/2023 - 15:46:06 - Getting Data From DB
+8/3/2023 - 15:46:06 - GlobesWebManager has initiallized.
+8/3/2023 - 15:46:06 - Getting Data From DB
+8/3/2023 - 15:46:06 - Getting Data From DB
+8/3/2023 - 15:46:06 - YnetWebManager has initiallized.
+8/3/2023 - 15:51:15 - Software has started.
+8/3/2023 - 15:51:15 - Getting Data From DB
+8/3/2023 - 15:51:15 - Getting Data From DB
+8/3/2023 - 15:51:15 - WallaWebManager has initiallized.
+8/3/2023 - 15:51:15 - Getting Data From DB
+8/3/2023 - 15:51:15 - Getting Data From DB
+8/3/2023 - 15:51:15 - MaarivWebManager has initiallized.
+8/3/2023 - 15:51:15 - Getting Data From DB
+8/3/2023 - 15:51:15 - Getting Data From DB
+8/3/2023 - 15:51:15 - GlobesWebManager has initiallized.
+8/3/2023 - 15:51:15 - Getting Data From DB
+8/3/2023 - 15:51:15 - Getting Data From DB
+8/3/2023 - 15:51:15 - YnetWebManager has initiallized.
+8/3/2023 - 15:52:03 - Getting Data From DB
+8/3/2023 - 15:58:22 - Software has started.
+8/3/2023 - 15:58:22 - Getting Data From DB
+8/3/2023 - 15:58:22 - Getting Data From DB
+8/3/2023 - 15:58:22 - WallaWebManager has initiallized.
+8/3/2023 - 15:58:22 - Getting Data From DB
+8/3/2023 - 15:58:22 - Getting Data From DB
+8/3/2023 - 15:58:22 - MaarivWebManager has initiallized.
+8/3/2023 - 15:58:22 - Getting Data From DB
+8/3/2023 - 15:58:22 - Getting Data From DB
+8/3/2023 - 15:58:22 - GlobesWebManager has initiallized.
+8/3/2023 - 15:58:22 - Getting Data From DB
+8/3/2023 - 15:58:22 - Getting Data From DB
+8/3/2023 - 15:58:22 - YnetWebManager has initiallized.
+8/3/2023 - 15:59:09 - Getting Data From DB
+8/3/2023 - 16:01:12 - Software has started.
+8/3/2023 - 16:01:12 - Getting Data From DB
+8/3/2023 - 16:01:12 - Getting Data From DB
+8/3/2023 - 16:01:12 - WallaWebManager has initiallized.
+8/3/2023 - 16:01:12 - Getting Data From DB
+8/3/2023 - 16:01:12 - Getting Data From DB
+8/3/2023 - 16:01:12 - MaarivWebManager has initiallized.
+8/3/2023 - 16:01:12 - Getting Data From DB
+8/3/2023 - 16:01:12 - Getting Data From DB
+8/3/2023 - 16:01:12 - GlobesWebManager has initiallized.
+8/3/2023 - 16:01:12 - Getting Data From DB
+8/3/2023 - 16:01:12 - Getting Data From DB
+8/3/2023 - 16:01:12 - YnetWebManager has initiallized.
+8/3/2023 - 16:02:01 - Getting Data From DB
+8/3/2023 - 16:03:28 - Software has started.
+8/3/2023 - 16:03:28 - Getting Data From DB
+8/3/2023 - 16:03:28 - Getting Data From DB
+8/3/2023 - 16:03:28 - WallaWebManager has initiallized.
+8/3/2023 - 16:03:28 - Getting Data From DB
+8/3/2023 - 16:03:28 - Getting Data From DB
+8/3/2023 - 16:03:28 - MaarivWebManager has initiallized.
+8/3/2023 - 16:03:28 - Getting Data From DB
+8/3/2023 - 16:03:28 - Getting Data From DB
+8/3/2023 - 16:03:28 - GlobesWebManager has initiallized.
+8/3/2023 - 16:03:28 - Getting Data From DB
+8/3/2023 - 16:03:28 - Getting Data From DB
+8/3/2023 - 16:03:28 - YnetWebManager has initiallized.
+8/3/2023 - 16:04:05 - Getting Data From DB
+8/3/2023 - 16:05:55 - Getting Data From DB
+8/3/2023 - 16:06:08 - Software has started.
+8/3/2023 - 16:06:08 - Getting Data From DB
+8/3/2023 - 16:06:08 - Getting Data From DB
+8/3/2023 - 16:06:08 - WallaWebManager has initiallized.
+8/3/2023 - 16:06:08 - Getting Data From DB
+8/3/2023 - 16:06:08 - Getting Data From DB
+8/3/2023 - 16:06:08 - MaarivWebManager has initiallized.
+8/3/2023 - 16:06:08 - Getting Data From DB
+8/3/2023 - 16:06:08 - Getting Data From DB
+8/3/2023 - 16:06:08 - GlobesWebManager has initiallized.
+8/3/2023 - 16:06:08 - Getting Data From DB
+8/3/2023 - 16:06:08 - Getting Data From DB
+8/3/2023 - 16:06:08 - YnetWebManager has initiallized.
+8/3/2023 - 16:06:21 - Getting Data From DB
+8/3/2023 - 16:09:54 - Software has started.
+8/3/2023 - 16:09:54 - Getting Data From DB
+8/3/2023 - 16:09:54 - Getting Data From DB
+8/3/2023 - 16:09:54 - WallaWebManager has initiallized.
+8/3/2023 - 16:09:54 - Getting Data From DB
+8/3/2023 - 16:09:54 - Getting Data From DB
+8/3/2023 - 16:09:54 - MaarivWebManager has initiallized.
+8/3/2023 - 16:09:54 - Getting Data From DB
+8/3/2023 - 16:09:54 - Getting Data From DB
+8/3/2023 - 16:09:54 - GlobesWebManager has initiallized.
+8/3/2023 - 16:09:54 - Getting Data From DB
+8/3/2023 - 16:09:54 - Getting Data From DB
+8/3/2023 - 16:09:54 - YnetWebManager has initiallized.
+8/3/2023 - 16:10:09 - Getting Data From DB
+8/3/2023 - 16:11:12 - Software has started.
+8/3/2023 - 16:11:12 - Getting Data From DB
+8/3/2023 - 16:11:12 - Getting Data From DB
+8/3/2023 - 16:11:12 - WallaWebManager has initiallized.
+8/3/2023 - 16:11:12 - Getting Data From DB
+8/3/2023 - 16:11:12 - Getting Data From DB
+8/3/2023 - 16:11:12 - MaarivWebManager has initiallized.
+8/3/2023 - 16:11:12 - Getting Data From DB
+8/3/2023 - 16:11:12 - Getting Data From DB
+8/3/2023 - 16:11:12 - GlobesWebManager has initiallized.
+8/3/2023 - 16:11:12 - Getting Data From DB
+8/3/2023 - 16:11:12 - Getting Data From DB
+8/3/2023 - 16:11:12 - YnetWebManager has initiallized.
+8/3/2023 - 16:11:26 - Getting Data From DB
+8/3/2023 - 16:12:51 - Software has started.
+8/3/2023 - 16:12:51 - Getting Data From DB
+8/3/2023 - 16:12:51 - Getting Data From DB
+8/3/2023 - 16:12:51 - WallaWebManager has initiallized.
+8/3/2023 - 16:12:51 - Getting Data From DB
+8/3/2023 - 16:12:51 - Getting Data From DB
+8/3/2023 - 16:12:51 - MaarivWebManager has initiallized.
+8/3/2023 - 16:12:51 - Getting Data From DB
+8/3/2023 - 16:12:51 - Getting Data From DB
+8/3/2023 - 16:12:51 - GlobesWebManager has initiallized.
+8/3/2023 - 16:12:51 - Getting Data From DB
+8/3/2023 - 16:12:51 - Getting Data From DB
+8/3/2023 - 16:12:51 - YnetWebManager has initiallized.
+8/3/2023 - 16:13:10 - Getting Data From DB
+8/3/2023 - 16:14:54 - Software has started.
+8/3/2023 - 16:14:55 - Getting Data From DB
+8/3/2023 - 16:14:55 - Getting Data From DB
+8/3/2023 - 16:14:55 - WallaWebManager has initiallized.
+8/3/2023 - 16:14:55 - Getting Data From DB
+8/3/2023 - 16:14:55 - Getting Data From DB
+8/3/2023 - 16:14:55 - MaarivWebManager has initiallized.
+8/3/2023 - 16:14:55 - Getting Data From DB
+8/3/2023 - 16:14:55 - Getting Data From DB
+8/3/2023 - 16:14:55 - GlobesWebManager has initiallized.
+8/3/2023 - 16:14:55 - Getting Data From DB
+8/3/2023 - 16:14:55 - Getting Data From DB
+8/3/2023 - 16:14:55 - YnetWebManager has initiallized.
+8/3/2023 - 16:15:08 - Getting Data From DB
+8/3/2023 - 16:20:54 - Software has started.
+8/3/2023 - 16:20:54 - Getting Data From DB
+8/3/2023 - 16:20:54 - Getting Data From DB
+8/3/2023 - 16:20:54 - WallaWebManager has initiallized.
+8/3/2023 - 16:20:54 - Getting Data From DB
+8/3/2023 - 16:20:54 - Getting Data From DB
+8/3/2023 - 16:20:54 - MaarivWebManager has initiallized.
+8/3/2023 - 16:20:54 - Getting Data From DB
+8/3/2023 - 16:20:54 - Getting Data From DB
+8/3/2023 - 16:20:54 - GlobesWebManager has initiallized.
+8/3/2023 - 16:20:54 - Getting Data From DB
+8/3/2023 - 16:20:54 - Getting Data From DB
+8/3/2023 - 16:20:54 - YnetWebManager has initiallized.
+8/3/2023 - 16:21:07 - Getting Data From DB
+8/3/2023 - 16:23:24 - Software has started.
+8/3/2023 - 16:23:24 - Getting Data From DB
+8/3/2023 - 16:23:24 - Getting Data From DB
+8/3/2023 - 16:23:24 - WallaWebManager has initiallized.
+8/3/2023 - 16:23:24 - Getting Data From DB
+8/3/2023 - 16:23:24 - Getting Data From DB
+8/3/2023 - 16:23:24 - MaarivWebManager has initiallized.
+8/3/2023 - 16:23:24 - Getting Data From DB
+8/3/2023 - 16:23:24 - Getting Data From DB
+8/3/2023 - 16:23:24 - GlobesWebManager has initiallized.
+8/3/2023 - 16:23:24 - Getting Data From DB
+8/3/2023 - 16:23:24 - Getting Data From DB
+8/3/2023 - 16:23:24 - YnetWebManager has initiallized.
+8/3/2023 - 16:23:39 - Getting Data From DB
+8/3/2023 - 16:42:53 - Software has started.
+8/3/2023 - 16:42:53 - Getting Data From DB
+8/3/2023 - 16:42:53 - Getting Data From DB
+8/3/2023 - 16:42:53 - WallaWebManager has initiallized.
+8/3/2023 - 16:42:53 - Getting Data From DB
+8/3/2023 - 16:42:53 - Getting Data From DB
+8/3/2023 - 16:42:53 - MaarivWebManager has initiallized.
+8/3/2023 - 16:42:53 - Getting Data From DB
+8/3/2023 - 16:42:53 - Getting Data From DB
+8/3/2023 - 16:42:53 - GlobesWebManager has initiallized.
+8/3/2023 - 16:42:53 - Getting Data From DB
+8/3/2023 - 16:42:53 - Getting Data From DB
+8/3/2023 - 16:42:53 - YnetWebManager has initiallized.
+8/3/2023 - 16:43:51 - Getting Data From DB
+8/3/2023 - 16:45:54 - Software has started.
+8/3/2023 - 16:45:55 - Getting Data From DB
+8/3/2023 - 16:45:55 - Getting Data From DB
+8/3/2023 - 17:54:57 - Software has started.
+8/3/2023 - 17:54:58 - Getting Data From DB
+8/3/2023 - 17:54:58 - Getting Data From DB
+8/3/2023 - 17:54:58 - WallaWebManager has initiallized.
+8/3/2023 - 17:54:58 - Getting Data From DB
+8/3/2023 - 17:54:58 - Getting Data From DB
+8/3/2023 - 17:54:58 - MaarivWebManager has initiallized.
+8/3/2023 - 17:54:58 - Getting Data From DB
+8/3/2023 - 17:54:58 - Getting Data From DB
+8/3/2023 - 17:54:58 - GlobesWebManager has initiallized.
+8/3/2023 - 17:54:58 - Getting Data From DB
+8/3/2023 - 17:54:58 - Getting Data From DB
+8/3/2023 - 17:54:58 - YnetWebManager has initiallized.
+8/3/2023 - 17:58:04 - Getting Data From DB
+8/3/2023 - 17:59:20 - Getting Data From DB
+8/3/2023 - 17:59:58 - Getting Data From DB
+8/3/2023 - 18:03:58 - Software has started.
+8/3/2023 - 18:03:58 - Getting Data From DB
+8/3/2023 - 18:03:58 - Getting Data From DB
+8/3/2023 - 18:03:58 - WallaWebManager has initiallized.
+8/3/2023 - 18:03:58 - Getting Data From DB
+8/3/2023 - 18:03:58 - Getting Data From DB
+8/3/2023 - 18:03:58 - MaarivWebManager has initiallized.
+8/3/2023 - 18:03:58 - Getting Data From DB
+8/3/2023 - 18:03:58 - Getting Data From DB
+8/3/2023 - 18:03:58 - GlobesWebManager has initiallized.
+8/3/2023 - 18:03:58 - Getting Data From DB
+8/3/2023 - 18:03:58 - Getting Data From DB
+8/3/2023 - 18:03:58 - YnetWebManager has initiallized.
+8/3/2023 - 18:04:20 - Getting Data From DB
+8/3/2023 - 18:05:53 - Software has started.
+8/3/2023 - 18:05:53 - Getting Data From DB
+8/3/2023 - 18:05:53 - Getting Data From DB
+8/3/2023 - 18:05:53 - WallaWebManager has initiallized.
+8/3/2023 - 18:05:53 - Getting Data From DB
+8/3/2023 - 18:05:53 - Getting Data From DB
+8/3/2023 - 18:05:53 - MaarivWebManager has initiallized.
+8/3/2023 - 18:05:53 - Getting Data From DB
+8/3/2023 - 18:05:53 - Getting Data From DB
+8/3/2023 - 18:05:53 - GlobesWebManager has initiallized.
+8/3/2023 - 18:05:53 - Getting Data From DB
+8/3/2023 - 18:05:53 - Getting Data From DB
+8/3/2023 - 18:05:53 - YnetWebManager has initiallized.
+8/3/2023 - 18:06:06 - Getting Data From DB
+8/3/2023 - 18:09:36 - Software has started.
+8/3/2023 - 18:09:37 - Getting Data From DB
+8/3/2023 - 18:09:37 - Getting Data From DB
+8/3/2023 - 18:09:37 - WallaWebManager has initiallized.
+8/3/2023 - 18:09:37 - Getting Data From DB
+8/3/2023 - 18:09:37 - Getting Data From DB
+8/3/2023 - 18:09:37 - MaarivWebManager has initiallized.
+8/3/2023 - 18:09:37 - Getting Data From DB
+8/3/2023 - 18:09:37 - Getting Data From DB
+8/3/2023 - 18:09:37 - GlobesWebManager has initiallized.
+8/3/2023 - 18:09:37 - Getting Data From DB
+8/3/2023 - 18:09:37 - Getting Data From DB
+8/3/2023 - 18:09:37 - YnetWebManager has initiallized.
+8/3/2023 - 18:10:13 - Getting Data From DB
+8/3/2023 - 18:10:49 - Software has started.
+8/3/2023 - 18:10:50 - Getting Data From DB
+8/3/2023 - 18:10:50 - Getting Data From DB
+8/3/2023 - 18:10:50 - WallaWebManager has initiallized.
+8/3/2023 - 18:10:50 - Getting Data From DB
+8/3/2023 - 18:10:50 - Getting Data From DB
+8/3/2023 - 18:10:50 - MaarivWebManager has initiallized.
+8/3/2023 - 18:10:50 - Getting Data From DB
+8/3/2023 - 18:10:50 - Getting Data From DB
+8/3/2023 - 18:10:50 - GlobesWebManager has initiallized.
+8/3/2023 - 18:10:50 - Getting Data From DB
+8/3/2023 - 18:10:50 - Getting Data From DB
+8/3/2023 - 18:10:50 - YnetWebManager has initiallized.
+8/3/2023 - 18:11:21 - Getting Data From DB
+8/3/2023 - 18:23:53 - Software has started.
+8/3/2023 - 18:23:54 - Getting Data From DB
+8/3/2023 - 18:25:43 - Getting Data From DB
+8/3/2023 - 18:26:42 - Software has started.
+8/3/2023 - 18:26:43 - Getting Data From DB
+8/3/2023 - 18:26:46 - Getting Data From DB
+8/3/2023 - 18:26:46 - WallaWebManager has initiallized.
+8/3/2023 - 18:26:46 - Getting Data From DB
+8/3/2023 - 18:26:46 - Getting Data From DB
+8/3/2023 - 18:26:46 - MaarivWebManager has initiallized.
+8/3/2023 - 18:26:46 - Getting Data From DB
+8/3/2023 - 18:26:46 - Getting Data From DB
+8/3/2023 - 18:26:46 - GlobesWebManager has initiallized.
+8/3/2023 - 18:26:46 - Getting Data From DB
+8/3/2023 - 18:26:46 - Getting Data From DB
+8/3/2023 - 18:26:46 - YnetWebManager has initiallized.
+8/3/2023 - 18:37:28 - Getting Data From DB
+8/3/2023 - 18:38:38 - Software has started.
+8/3/2023 - 18:38:38 - Getting Data From DB
+8/3/2023 - 18:38:38 - Getting Data From DB
+8/3/2023 - 18:38:38 - WallaWebManager has initiallized.
+8/3/2023 - 18:38:38 - Getting Data From DB
+8/3/2023 - 18:38:38 - Getting Data From DB
+8/3/2023 - 18:38:38 - MaarivWebManager has initiallized.
+8/3/2023 - 18:38:38 - Getting Data From DB
+8/3/2023 - 18:38:38 - Getting Data From DB
+8/3/2023 - 18:38:38 - GlobesWebManager has initiallized.
+8/3/2023 - 18:38:38 - Getting Data From DB
+8/3/2023 - 18:38:38 - Getting Data From DB
+8/3/2023 - 18:38:38 - YnetWebManager has initiallized.
+8/3/2023 - 18:38:50 - Getting Data From DB
+8/3/2023 - 18:40:40 - Software has started.
+8/3/2023 - 18:40:41 - Getting Data From DB
+8/3/2023 - 18:40:41 - Getting Data From DB
+8/3/2023 - 18:40:41 - WallaWebManager has initiallized.
+8/3/2023 - 18:40:41 - Getting Data From DB
+8/3/2023 - 18:40:41 - Getting Data From DB
+8/3/2023 - 18:40:41 - MaarivWebManager has initiallized.
+8/3/2023 - 18:40:41 - Getting Data From DB
+8/3/2023 - 18:40:41 - Getting Data From DB
+8/3/2023 - 18:40:41 - GlobesWebManager has initiallized.
+8/3/2023 - 18:40:41 - Getting Data From DB
+8/3/2023 - 18:40:41 - Getting Data From DB
+8/3/2023 - 18:40:41 - YnetWebManager has initiallized.
+8/3/2023 - 18:40:54 - Getting Data From DB
+8/3/2023 - 18:44:37 - Software has started.
+8/3/2023 - 18:44:37 - Getting Data From DB
+8/3/2023 - 18:44:37 - Getting Data From DB
+8/3/2023 - 18:44:37 - WallaWebManager has initiallized.
+8/3/2023 - 18:44:37 - Getting Data From DB
+8/3/2023 - 18:44:37 - Getting Data From DB
+8/3/2023 - 18:44:37 - MaarivWebManager has initiallized.
+8/3/2023 - 18:44:37 - Getting Data From DB
+8/3/2023 - 18:44:37 - Getting Data From DB
+8/3/2023 - 18:44:37 - GlobesWebManager has initiallized.
+8/3/2023 - 18:44:37 - Getting Data From DB
+8/3/2023 - 18:44:37 - Getting Data From DB
+8/3/2023 - 18:44:37 - YnetWebManager has initiallized.
+8/3/2023 - 18:44:51 - Getting Data From DB
+8/3/2023 - 18:49:25 - Software has started.
+8/3/2023 - 18:49:25 - Getting Data From DB
+8/3/2023 - 18:49:25 - Getting Data From DB
+8/3/2023 - 18:49:25 - WallaWebManager has initiallized.
+8/3/2023 - 18:49:25 - Getting Data From DB
+8/3/2023 - 18:49:25 - Getting Data From DB
+8/3/2023 - 18:49:25 - MaarivWebManager has initiallized.
+8/3/2023 - 18:49:25 - Getting Data From DB
+8/3/2023 - 18:49:25 - Getting Data From DB
+8/3/2023 - 18:49:25 - GlobesWebManager has initiallized.
+8/3/2023 - 18:49:25 - Getting Data From DB
+8/3/2023 - 18:49:25 - Getting Data From DB
+8/3/2023 - 18:49:25 - YnetWebManager has initiallized.
+8/3/2023 - 18:49:39 - Getting Data From DB
+8/3/2023 - 18:56:32 - Software has started.
+8/3/2023 - 18:56:32 - Getting Data From DB
+8/3/2023 - 18:56:32 - Getting Data From DB
+8/3/2023 - 18:56:32 - WallaWebManager has initiallized.
+8/3/2023 - 18:56:32 - Getting Data From DB
+8/3/2023 - 18:56:32 - Getting Data From DB
+8/3/2023 - 18:56:32 - MaarivWebManager has initiallized.
+8/3/2023 - 18:56:32 - Getting Data From DB
+8/3/2023 - 18:56:32 - Getting Data From DB
+8/3/2023 - 18:56:32 - GlobesWebManager has initiallized.
+8/3/2023 - 18:56:32 - Getting Data From DB
+8/3/2023 - 18:56:32 - Getting Data From DB
+8/3/2023 - 18:56:32 - YnetWebManager has initiallized.
+8/3/2023 - 18:57:34 - Software has started.
+8/3/2023 - 18:57:34 - Getting Data From DB
+8/3/2023 - 18:57:35 - Getting Data From DB
+8/3/2023 - 18:57:35 - WallaWebManager has initiallized.
+8/3/2023 - 18:57:35 - Getting Data From DB
+8/3/2023 - 18:57:35 - Getting Data From DB
+8/3/2023 - 18:57:35 - MaarivWebManager has initiallized.
+8/3/2023 - 18:57:35 - Getting Data From DB
+8/3/2023 - 18:57:35 - Getting Data From DB
+8/3/2023 - 18:57:35 - GlobesWebManager has initiallized.
+8/3/2023 - 18:57:35 - Getting Data From DB
+8/3/2023 - 18:57:35 - Getting Data From DB
+8/3/2023 - 18:57:35 - YnetWebManager has initiallized.
+8/3/2023 - 18:58:12 - Getting Data From DB
+8/3/2023 - 18:59:11 - Getting Data From DB
+8/3/2023 - 18:59:46 - Getting Data From DB
+8/3/2023 - 19:00:01 - Getting Data From DB
+8/3/2023 - 19:12:06 - Getting Data From DB
+8/3/2023 - 19:12:13 - Getting Data From DB
+8/3/2023 - 19:12:34 - Getting Data From DB
+8/3/2023 - 19:12:35 - Getting Data From DB
+8/3/2023 - 19:12:35 - Getting Data From DB
+8/3/2023 - 19:12:35 - Getting Data From DB
+8/3/2023 - 19:13:37 - Getting Data From DB
+8/3/2023 - 19:14:38 - Getting Data From DB
+8/3/2023 - 19:17:03 - Getting Data From DB
+8/3/2023 - 19:17:07 - Getting Data From DB
+8/3/2023 - 19:17:51 - Getting Data From DB
+8/3/2023 - 20:01:39 - Software has started.
+8/3/2023 - 20:01:39 - Getting Data From DB
+8/3/2023 - 20:01:39 - Getting Data From DB
+8/3/2023 - 20:01:39 - WallaWebManager has initiallized.
+8/3/2023 - 20:01:39 - Getting Data From DB
+8/3/2023 - 20:01:39 - Getting Data From DB
+8/3/2023 - 20:01:39 - MaarivWebManager has initiallized.
+8/3/2023 - 20:01:39 - Getting Data From DB
+8/3/2023 - 20:01:39 - Getting Data From DB
+8/3/2023 - 20:01:39 - GlobesWebManager has initiallized.
+8/3/2023 - 20:01:39 - Getting Data From DB
+8/3/2023 - 20:01:39 - Getting Data From DB
+8/3/2023 - 20:01:39 - YnetWebManager has initiallized.
+8/3/2023 - 20:01:59 - Getting Data From DB
+8/3/2023 - 20:02:36 - Getting Data From DB
+8/3/2023 - 20:02:40 - Getting Data From DB
+8/3/2023 - 20:20:55 - Software has started.
+8/3/2023 - 20:20:55 - Getting Data From DB
+8/3/2023 - 20:20:55 - Getting Data From DB
+8/3/2023 - 20:20:55 - WallaWebManager has initiallized.
+8/3/2023 - 20:20:55 - Getting Data From DB
+8/3/2023 - 20:20:55 - Getting Data From DB
+8/3/2023 - 20:20:55 - MaarivWebManager has initiallized.
+8/3/2023 - 20:20:55 - Getting Data From DB
+8/3/2023 - 20:20:55 - Getting Data From DB
+8/3/2023 - 20:20:55 - GlobesWebManager has initiallized.
+8/3/2023 - 20:20:56 - Getting Data From DB
+8/3/2023 - 20:20:56 - Getting Data From DB
+8/3/2023 - 20:20:56 - YnetWebManager has initiallized.
+8/3/2023 - 20:21:29 - Getting Data From DB
+8/3/2023 - 20:23:14 - Software has started.
+8/3/2023 - 20:23:14 - Getting Data From DB
+8/3/2023 - 20:23:14 - Getting Data From DB
+8/3/2023 - 20:23:14 - WallaWebManager has initiallized.
+8/3/2023 - 20:23:14 - Getting Data From DB
+8/3/2023 - 20:23:15 - Getting Data From DB
+8/3/2023 - 20:23:15 - MaarivWebManager has initiallized.
+8/3/2023 - 20:23:15 - Getting Data From DB
+8/3/2023 - 20:23:15 - Getting Data From DB
+8/3/2023 - 20:23:15 - GlobesWebManager has initiallized.
+8/3/2023 - 20:23:15 - Getting Data From DB
+8/3/2023 - 20:23:15 - Getting Data From DB
+8/3/2023 - 20:23:15 - YnetWebManager has initiallized.
+8/3/2023 - 20:23:48 - Getting Data From DB
+8/3/2023 - 20:28:55 - Getting Data From DB
+8/3/2023 - 20:31:38 - Software has started.
+8/3/2023 - 20:31:38 - Getting Data From DB
+8/3/2023 - 20:31:38 - Getting Data From DB
+8/3/2023 - 20:31:38 - WallaWebManager has initiallized.
+8/3/2023 - 20:31:38 - Getting Data From DB
+8/3/2023 - 20:31:38 - Getting Data From DB
+8/3/2023 - 20:31:38 - MaarivWebManager has initiallized.
+8/3/2023 - 20:31:38 - Getting Data From DB
+8/3/2023 - 20:31:38 - Getting Data From DB
+8/3/2023 - 20:31:38 - GlobesWebManager has initiallized.
+8/3/2023 - 20:31:38 - Getting Data From DB
+8/3/2023 - 20:31:38 - Getting Data From DB
+8/3/2023 - 20:31:38 - YnetWebManager has initiallized.
+8/3/2023 - 20:32:13 - Getting Data From DB
+8/3/2023 - 20:37:12 - Software has started.
+8/3/2023 - 20:37:13 - Getting Data From DB
+8/3/2023 - 20:37:13 - Getting Data From DB
+8/3/2023 - 20:37:13 - WallaWebManager has initiallized.
+8/3/2023 - 20:37:13 - Getting Data From DB
+8/3/2023 - 20:37:13 - Getting Data From DB
+8/3/2023 - 20:37:13 - MaarivWebManager has initiallized.
+8/3/2023 - 20:37:13 - Getting Data From DB
+8/3/2023 - 20:37:13 - Getting Data From DB
+8/3/2023 - 20:37:13 - GlobesWebManager has initiallized.
+8/3/2023 - 20:37:13 - Getting Data From DB
+8/3/2023 - 20:37:13 - Getting Data From DB
+8/3/2023 - 20:37:13 - YnetWebManager has initiallized.
+8/3/2023 - 20:37:47 - Getting Data From DB
+8/3/2023 - 20:38:33 - Software has started.
+8/3/2023 - 20:38:33 - Getting Data From DB
+8/3/2023 - 20:38:33 - Getting Data From DB
+8/3/2023 - 20:38:33 - WallaWebManager has initiallized.
+8/3/2023 - 20:38:33 - Getting Data From DB
+8/3/2023 - 20:38:33 - Getting Data From DB
+8/3/2023 - 20:38:33 - MaarivWebManager has initiallized.
+8/3/2023 - 20:38:33 - Getting Data From DB
+8/3/2023 - 20:38:33 - Getting Data From DB
+8/3/2023 - 20:38:33 - GlobesWebManager has initiallized.
+8/3/2023 - 20:38:33 - Getting Data From DB
+8/3/2023 - 20:38:33 - Getting Data From DB
+8/3/2023 - 20:38:33 - YnetWebManager has initiallized.
+8/3/2023 - 20:39:08 - Getting Data From DB
+9/3/2023 - 14:29:07 - Software has started.
+9/3/2023 - 14:29:07 - Getting Data From DB
+9/3/2023 - 14:29:07 - Getting Data From DB
+9/3/2023 - 14:54:31 - Software has started.
+9/3/2023 - 14:55:04 - Software has started.
+9/3/2023 - 14:55:04 - Getting Data From DB
+9/3/2023 - 14:55:04 - Getting Data From DB
+9/3/2023 - 14:55:04 - WallaWebManager has initiallized.
+9/3/2023 - 14:55:04 - Getting Data From DB
+9/3/2023 - 14:55:04 - Getting Data From DB
+9/3/2023 - 14:55:04 - MaarivWebManager has initiallized.
+9/3/2023 - 14:55:04 - Getting Data From DB
+9/3/2023 - 14:55:04 - Getting Data From DB
+9/3/2023 - 14:55:04 - GlobesWebManager has initiallized.
+9/3/2023 - 14:55:04 - Getting Data From DB
+9/3/2023 - 14:55:04 - Getting Data From DB
+9/3/2023 - 14:55:04 - YnetWebManager has initiallized.
+9/3/2023 - 15:18:42 - Software has started.
+9/3/2023 - 15:18:42 - Getting Data From DB
+9/3/2023 - 15:18:42 - Getting Data From DB
+9/3/2023 - 15:18:42 - WallaWebManager has initiallized.
+9/3/2023 - 15:18:42 - Getting Data From DB
+9/3/2023 - 15:18:42 - Getting Data From DB
+9/3/2023 - 15:18:42 - MaarivWebManager has initiallized.
+9/3/2023 - 15:18:42 - Getting Data From DB
+9/3/2023 - 15:18:42 - Getting Data From DB
+9/3/2023 - 15:18:42 - GlobesWebManager has initiallized.
+9/3/2023 - 15:18:42 - Getting Data From DB
+9/3/2023 - 15:18:42 - Getting Data From DB
+9/3/2023 - 15:18:42 - YnetWebManager has initiallized.
+9/3/2023 - 15:19:09 - Software has started.
+9/3/2023 - 15:19:09 - Getting Data From DB
+9/3/2023 - 15:19:09 - Getting Data From DB
+9/3/2023 - 15:19:09 - WallaWebManager has initiallized.
+9/3/2023 - 15:19:09 - Getting Data From DB
+9/3/2023 - 15:19:09 - Getting Data From DB
+9/3/2023 - 15:19:09 - MaarivWebManager has initiallized.
+9/3/2023 - 15:19:09 - Getting Data From DB
+9/3/2023 - 15:19:09 - Getting Data From DB
+9/3/2023 - 15:19:09 - GlobesWebManager has initiallized.
+9/3/2023 - 15:19:09 - Getting Data From DB
+9/3/2023 - 15:29:13 - Software has started.
+9/3/2023 - 15:29:14 - Getting Data From DB
+9/3/2023 - 15:29:14 - Getting Data From DB
+9/3/2023 - 15:29:14 - WallaWebManager has initiallized.
+9/3/2023 - 15:29:14 - Getting Data From DB
+9/3/2023 - 15:29:14 - Getting Data From DB
+9/3/2023 - 15:29:14 - MaarivWebManager has initiallized.
+9/3/2023 - 15:29:14 - Getting Data From DB
+9/3/2023 - 15:29:14 - Getting Data From DB
+9/3/2023 - 15:29:14 - GlobesWebManager has initiallized.
+9/3/2023 - 15:29:14 - Getting Data From DB
+9/3/2023 - 15:29:14 - Getting Data From DB
+9/3/2023 - 15:29:14 - YnetWebManager has initiallized.
+9/3/2023 - 15:29:52 - Getting Data From DB
+9/3/2023 - 15:30:26 - Software has started.
+9/3/2023 - 15:30:27 - Getting Data From DB
+9/3/2023 - 15:30:27 - Getting Data From DB
+9/3/2023 - 15:30:27 - WallaWebManager has initiallized.
+9/3/2023 - 15:30:27 - Getting Data From DB
+9/3/2023 - 15:30:27 - Getting Data From DB
+9/3/2023 - 15:30:27 - MaarivWebManager has initiallized.
+9/3/2023 - 15:30:27 - Getting Data From DB
+9/3/2023 - 15:30:27 - Getting Data From DB
+9/3/2023 - 15:30:27 - GlobesWebManager has initiallized.
+9/3/2023 - 15:30:27 - Getting Data From DB
+9/3/2023 - 15:30:27 - Getting Data From DB
+9/3/2023 - 15:30:27 - YnetWebManager has initiallized.
+9/3/2023 - 15:31:10 - Software has started.
+9/3/2023 - 15:31:10 - Getting Data From DB
+9/3/2023 - 15:31:10 - Getting Data From DB
+9/3/2023 - 15:31:10 - WallaWebManager has initiallized.
+9/3/2023 - 15:31:10 - Getting Data From DB
+9/3/2023 - 15:31:10 - Getting Data From DB
+9/3/2023 - 15:31:10 - MaarivWebManager has initiallized.
+9/3/2023 - 15:31:10 - Getting Data From DB
+9/3/2023 - 15:31:10 - Getting Data From DB
+9/3/2023 - 15:31:10 - GlobesWebManager has initiallized.
+9/3/2023 - 15:31:10 - Getting Data From DB
+9/3/2023 - 15:31:10 - Getting Data From DB
+9/3/2023 - 15:31:10 - YnetWebManager has initiallized.
+9/3/2023 - 15:43:04 - Software has started.
+9/3/2023 - 15:43:05 - Getting Data From DB
+9/3/2023 - 15:43:05 - Getting Data From DB
+9/3/2023 - 15:43:43 - Software has started.
+9/3/2023 - 15:43:43 - Getting Data From DB
+9/3/2023 - 15:43:43 - Getting Data From DB
+9/3/2023 - 15:43:43 - WallaWebManager has initiallized.
+9/3/2023 - 15:43:43 - Getting Data From DB
+9/3/2023 - 15:43:43 - Getting Data From DB
+9/3/2023 - 15:43:43 - MaarivWebManager has initiallized.
+9/3/2023 - 15:43:43 - Getting Data From DB
+9/3/2023 - 15:43:43 - Getting Data From DB
+9/3/2023 - 15:43:43 - GlobesWebManager has initiallized.
+9/3/2023 - 15:43:43 - Getting Data From DB
+9/3/2023 - 15:43:43 - Getting Data From DB
+9/3/2023 - 15:43:43 - YnetWebManager has initiallized.
+9/3/2023 - 15:44:58 - Software has started.
+9/3/2023 - 15:44:58 - Getting Data From DB
+9/3/2023 - 15:44:58 - Getting Data From DB
+9/3/2023 - 15:44:58 - WallaWebManager has initiallized.
+9/3/2023 - 15:44:58 - Getting Data From DB
+9/3/2023 - 15:44:58 - Getting Data From DB
+9/3/2023 - 15:44:58 - MaarivWebManager has initiallized.
+9/3/2023 - 15:44:58 - Getting Data From DB
+9/3/2023 - 15:44:58 - Getting Data From DB
+9/3/2023 - 15:44:58 - GlobesWebManager has initiallized.
+9/3/2023 - 15:44:58 - Getting Data From DB
+9/3/2023 - 15:44:58 - Getting Data From DB
+9/3/2023 - 15:44:58 - YnetWebManager has initiallized.
+9/3/2023 - 15:46:12 - Software has started.
+9/3/2023 - 15:46:34 - Software has started.
+9/3/2023 - 15:46:34 - Getting Data From DB
+9/3/2023 - 15:48:33 - Software has started.
+9/3/2023 - 15:49:00 - Software has started.
+9/3/2023 - 15:49:36 - Software has started.
+9/3/2023 - 15:50:05 - Software has started.
+9/3/2023 - 15:50:06 - Getting Data From DB
+9/3/2023 - 15:50:06 - Getting Data From DB
+9/3/2023 - 15:58:30 - Software has started.
+9/3/2023 - 15:58:30 - Getting Data From DB
+9/3/2023 - 16:07:19 - Software has started.
+9/3/2023 - 16:07:19 - Getting Data From DB
+9/3/2023 - 16:07:20 - Getting Data From DB
+9/3/2023 - 16:07:20 - WallaWebManager has initiallized.
+9/3/2023 - 16:13:49 - Software has started.
+9/3/2023 - 16:13:49 - Getting Data From DB
+9/3/2023 - 16:13:49 - Getting Data From DB
+9/3/2023 - 16:13:49 - WallaWebManager has initiallized.
+9/3/2023 - 16:14:48 - Software has started.
+9/3/2023 - 16:14:49 - Getting Data From DB
+9/3/2023 - 16:14:49 - Getting Data From DB
+9/3/2023 - 16:17:49 - Software has started.
+9/3/2023 - 16:17:49 - Getting Data From DB
+9/3/2023 - 16:17:49 - Getting Data From DB
+9/3/2023 - 16:19:09 - Software has started.
+9/3/2023 - 16:19:09 - Getting Data From DB
+9/3/2023 - 16:19:09 - Getting Data From DB
+9/3/2023 - 16:19:09 - WallaWebManager has initiallized.
+9/3/2023 - 16:19:09 - Getting Data From DB
+9/3/2023 - 16:19:09 - Getting Data From DB
+9/3/2023 - 16:19:09 - MaarivWebManager has initiallized.
+9/3/2023 - 16:19:09 - Getting Data From DB
+9/3/2023 - 16:19:09 - Getting Data From DB
+9/3/2023 - 16:19:09 - GlobesWebManager has initiallized.
+9/3/2023 - 16:19:09 - Getting Data From DB
+9/3/2023 - 16:19:09 - Getting Data From DB
+9/3/2023 - 16:19:09 - YnetWebManager has initiallized.
+9/3/2023 - 16:21:28 - Software has started.
+9/3/2023 - 16:21:28 - Getting Data From DB
+9/3/2023 - 16:21:28 - Getting Data From DB
+9/3/2023 - 16:21:28 - WallaWebManager has initiallized.
+9/3/2023 - 16:21:28 - Getting Data From DB
+9/3/2023 - 16:21:28 - Getting Data From DB
+9/3/2023 - 16:21:28 - MaarivWebManager has initiallized.
+9/3/2023 - 16:21:28 - Getting Data From DB
+9/3/2023 - 16:21:28 - Getting Data From DB
+9/3/2023 - 16:21:28 - GlobesWebManager has initiallized.
+9/3/2023 - 16:21:28 - Getting Data From DB
+9/3/2023 - 16:21:28 - Getting Data From DB
+9/3/2023 - 16:21:28 - YnetWebManager has initiallized.
+9/3/2023 - 16:22:06 - Getting Data From DB
+9/3/2023 - 17:36:57 - Software has started.
+9/3/2023 - 17:36:58 - Getting Data From DB
+9/3/2023 - 17:36:58 - Getting Data From DB
+9/3/2023 - 17:36:58 - WallaWebManager has initiallized.
+9/3/2023 - 17:36:58 - Getting Data From DB
+9/3/2023 - 17:36:58 - Getting Data From DB
+9/3/2023 - 17:36:58 - MaarivWebManager has initiallized.
+9/3/2023 - 17:36:58 - Getting Data From DB
+9/3/2023 - 17:36:58 - Getting Data From DB
+9/3/2023 - 17:36:58 - GlobesWebManager has initiallized.
+9/3/2023 - 17:36:58 - Getting Data From DB
+9/3/2023 - 17:36:58 - Getting Data From DB
+9/3/2023 - 17:36:58 - YnetWebManager has initiallized.
+9/3/2023 - 17:37:53 - Software has started.
+9/3/2023 - 17:37:54 - Getting Data From DB
+9/3/2023 - 17:37:54 - Getting Data From DB
+9/3/2023 - 17:37:54 - WallaWebManager has initiallized.
+9/3/2023 - 17:37:54 - Getting Data From DB
+9/3/2023 - 17:37:54 - Getting Data From DB
+9/3/2023 - 17:37:54 - MaarivWebManager has initiallized.
+9/3/2023 - 17:37:54 - Getting Data From DB
+9/3/2023 - 17:37:54 - Getting Data From DB
+9/3/2023 - 17:37:54 - GlobesWebManager has initiallized.
+9/3/2023 - 17:37:54 - Getting Data From DB
+9/3/2023 - 17:37:54 - Getting Data From DB
+9/3/2023 - 17:37:54 - YnetWebManager has initiallized.
+9/3/2023 - 17:38:22 - Software has started.
+9/3/2023 - 17:38:23 - Getting Data From DB
+9/3/2023 - 17:38:23 - Getting Data From DB
+9/3/2023 - 17:38:23 - WallaWebManager has initiallized.
+9/3/2023 - 17:38:23 - Getting Data From DB
+9/3/2023 - 17:38:23 - Getting Data From DB
+9/3/2023 - 17:38:23 - MaarivWebManager has initiallized.
+9/3/2023 - 17:38:23 - Getting Data From DB
+9/3/2023 - 17:38:23 - Getting Data From DB
+9/3/2023 - 17:38:23 - GlobesWebManager has initiallized.
+9/3/2023 - 17:38:23 - Getting Data From DB
+9/3/2023 - 17:38:23 - Getting Data From DB
+9/3/2023 - 17:38:23 - YnetWebManager has initiallized.
+9/3/2023 - 17:39:24 - Software has started.
+9/3/2023 - 17:39:24 - Getting Data From DB
+9/3/2023 - 17:39:24 - Getting Data From DB
+9/3/2023 - 17:39:24 - WallaWebManager has initiallized.
+9/3/2023 - 17:39:24 - Getting Data From DB
+9/3/2023 - 17:39:24 - Getting Data From DB
+9/3/2023 - 17:39:24 - MaarivWebManager has initiallized.
+9/3/2023 - 17:39:24 - Getting Data From DB
+9/3/2023 - 17:39:24 - Getting Data From DB
+9/3/2023 - 17:39:24 - GlobesWebManager has initiallized.
+9/3/2023 - 17:39:24 - Getting Data From DB
+9/3/2023 - 17:39:24 - Getting Data From DB
+9/3/2023 - 17:39:24 - YnetWebManager has initiallized.
+9/3/2023 - 17:40:32 - Software has started.
+9/3/2023 - 17:40:33 - Getting Data From DB
+9/3/2023 - 17:40:33 - Getting Data From DB
+9/3/2023 - 17:40:33 - WallaWebManager has initiallized.
+9/3/2023 - 17:40:33 - Getting Data From DB
+9/3/2023 - 17:40:33 - Getting Data From DB
+9/3/2023 - 17:40:33 - MaarivWebManager has initiallized.
+9/3/2023 - 17:40:33 - Getting Data From DB
+9/3/2023 - 17:40:33 - Getting Data From DB
+9/3/2023 - 17:40:33 - GlobesWebManager has initiallized.
+9/3/2023 - 17:40:33 - Getting Data From DB
+9/3/2023 - 17:40:33 - Getting Data From DB
+9/3/2023 - 17:40:33 - YnetWebManager has initiallized.
+9/3/2023 - 17:41:02 - Getting Data From DB
+9/3/2023 - 17:41:46 - Getting Data From DB
+9/3/2023 - 17:52:16 - Software has started.
+9/3/2023 - 17:52:17 - Getting Data From DB
+9/3/2023 - 17:52:17 - Getting Data From DB
+9/3/2023 - 17:52:17 - WallaWebManager has initiallized.
+9/3/2023 - 17:52:17 - Getting Data From DB
+9/3/2023 - 17:52:17 - Getting Data From DB
+9/3/2023 - 17:52:17 - MaarivWebManager has initiallized.
+9/3/2023 - 17:52:17 - Getting Data From DB
+9/3/2023 - 17:52:17 - Getting Data From DB
+9/3/2023 - 17:52:17 - GlobesWebManager has initiallized.
+9/3/2023 - 17:52:17 - Getting Data From DB
+9/3/2023 - 17:52:17 - Getting Data From DB
+9/3/2023 - 17:52:17 - YnetWebManager has initiallized.
+9/3/2023 - 17:52:41 - Getting Data From DB
+9/3/2023 - 17:53:02 - Software has started.
+9/3/2023 - 17:53:03 - Getting Data From DB
+9/3/2023 - 17:53:03 - Getting Data From DB
+9/3/2023 - 17:53:03 - WallaWebManager has initiallized.
+9/3/2023 - 17:53:03 - Getting Data From DB
+9/3/2023 - 17:53:03 - Getting Data From DB
+9/3/2023 - 17:53:03 - MaarivWebManager has initiallized.
+9/3/2023 - 17:53:03 - Getting Data From DB
+9/3/2023 - 17:53:03 - Getting Data From DB
+9/3/2023 - 17:53:03 - GlobesWebManager has initiallized.
+9/3/2023 - 17:53:03 - Getting Data From DB
+9/3/2023 - 17:53:03 - Getting Data From DB
+9/3/2023 - 17:53:03 - YnetWebManager has initiallized.
+9/3/2023 - 17:53:18 - Getting Data From DB
+9/3/2023 - 20:35:31 - Software has started.
+9/3/2023 - 20:35:31 - Getting Data From DB
+9/3/2023 - 20:35:31 - Getting Data From DB
+9/3/2023 - 20:35:31 - WallaWebManager has initiallized.
+9/3/2023 - 20:35:31 - Getting Data From DB
+9/3/2023 - 20:35:31 - Getting Data From DB
+9/3/2023 - 20:35:31 - MaarivWebManager has initiallized.
+9/3/2023 - 20:35:31 - Getting Data From DB
+9/3/2023 - 20:35:31 - Getting Data From DB
+9/3/2023 - 20:35:31 - GlobesWebManager has initiallized.
+9/3/2023 - 20:35:31 - Getting Data From DB
+9/3/2023 - 20:35:31 - Getting Data From DB
+9/3/2023 - 20:35:31 - YnetWebManager has initiallized.
+9/3/2023 - 20:36:58 - Software has started.
+9/3/2023 - 20:36:58 - Getting Data From DB
+9/3/2023 - 20:36:58 - Getting Data From DB
+9/3/2023 - 20:36:58 - WallaWebManager has initiallized.
+9/3/2023 - 20:36:58 - Getting Data From DB
+9/3/2023 - 20:36:58 - Getting Data From DB
+9/3/2023 - 20:36:58 - MaarivWebManager has initiallized.
+9/3/2023 - 20:36:58 - Getting Data From DB
+9/3/2023 - 20:36:58 - Getting Data From DB
+9/3/2023 - 20:36:58 - GlobesWebManager has initiallized.
+9/3/2023 - 20:36:58 - Getting Data From DB
+9/3/2023 - 20:36:58 - Getting Data From DB
+9/3/2023 - 20:36:58 - YnetWebManager has initiallized.
+9/3/2023 - 21:52:22 - Software has started.
+9/3/2023 - 21:52:22 - Getting Data From DB
+9/3/2023 - 21:52:22 - Getting Data From DB
+9/3/2023 - 21:52:22 - WallaWebManager has initiallized.
+9/3/2023 - 21:52:22 - Getting Data From DB
+9/3/2023 - 21:52:22 - Getting Data From DB
+9/3/2023 - 21:52:22 - MaarivWebManager has initiallized.
+9/3/2023 - 21:53:08 - Software has started.
+9/3/2023 - 21:53:09 - Getting Data From DB
+9/3/2023 - 21:53:09 - Getting Data From DB
+9/3/2023 - 21:53:09 - WallaWebManager has initiallized.
+9/3/2023 - 21:53:09 - Getting Data From DB
+9/3/2023 - 21:53:09 - Getting Data From DB
+9/3/2023 - 21:53:09 - MaarivWebManager has initiallized.
+9/3/2023 - 21:53:09 - Getting Data From DB
+9/3/2023 - 21:53:09 - Getting Data From DB
+9/3/2023 - 21:53:09 - GlobesWebManager has initiallized.
+9/3/2023 - 21:53:09 - Getting Data From DB
+9/3/2023 - 21:53:09 - Getting Data From DB
+9/3/2023 - 21:53:09 - YnetWebManager has initiallized.
+9/3/2023 - 21:53:19 - Getting Data From DB
+9/3/2023 - 21:57:14 - Software has started.
+9/3/2023 - 21:57:14 - Getting Data From DB
+9/3/2023 - 21:57:14 - Getting Data From DB
+9/3/2023 - 21:57:14 - WallaWebManager has initiallized.
+9/3/2023 - 21:57:14 - Getting Data From DB
+9/3/2023 - 21:57:14 - Getting Data From DB
+9/3/2023 - 21:57:14 - MaarivWebManager has initiallized.
+9/3/2023 - 21:57:14 - Getting Data From DB
+9/3/2023 - 21:57:14 - Getting Data From DB
+9/3/2023 - 21:57:14 - GlobesWebManager has initiallized.
+9/3/2023 - 21:57:14 - Getting Data From DB
+9/3/2023 - 21:57:14 - Getting Data From DB
+9/3/2023 - 21:57:14 - YnetWebManager has initiallized.
+9/3/2023 - 21:57:23 - Getting Data From DB
+9/3/2023 - 22:21:52 - Software has started.
+9/3/2023 - 22:21:52 - Getting Data From DB
+9/3/2023 - 22:21:52 - Getting Data From DB
+9/3/2023 - 22:21:52 - WallaWebManager has initiallized.
+9/3/2023 - 22:21:52 - Getting Data From DB
+9/3/2023 - 22:21:52 - Getting Data From DB
+9/3/2023 - 22:21:52 - MaarivWebManager has initiallized.
+9/3/2023 - 22:21:52 - Getting Data From DB
+9/3/2023 - 22:21:52 - Getting Data From DB
+9/3/2023 - 22:21:52 - GlobesWebManager has initiallized.
+9/3/2023 - 22:21:52 - Getting Data From DB
+9/3/2023 - 22:21:52 - Getting Data From DB
+9/3/2023 - 22:21:52 - YnetWebManager has initiallized.

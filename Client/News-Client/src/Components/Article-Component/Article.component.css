@@ -1,0 +1,49 @@
+.my-card-home {
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: space-around;
+  width: 30%;
+  margin-top: 10px;
+  align-items: center;
+}
+
+.text-home {
+  font-size: small;
+  text-align: right;
+}
+
+.title-home {
+  font-size: small;
+  font-weight: bold;
+  text-align: center;
+}
+
+.input-home {
+  margin-left: 8px !important;
+}
+
+.my-img-home {
+  width: 159px !important;
+  margin-top: 10px;
+  height: 100px;
+}
+
+.my-card-body-home {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 6px;
+  margin-top: 20px;
+  background-color: #3b1f2b;
+}
+
+.text-home {
+  color: aliceblue;
+}
+
+.btn-primary {
+  background-color: #c73e1d !important;
+  border-color: #c73e1d !important;
+  color: aliceblue !important;
+}

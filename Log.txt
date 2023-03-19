@@ -1,0 +1,1639 @@
+14/3/2023 - 15:13:49 - Runs Command with single value result
+14/3/2023 - 15:13:49 - Getting connection string
+14/3/2023 - 15:13:51 - Runs Command with single value result
+14/3/2023 - 15:13:51 - Getting connection string
+14/3/2023 - 15:13:49 - Software has started.
+14/3/2023 - 15:14:37 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+14/3/2023 - 15:14:41 - Runs Command with single value result
+14/3/2023 - 15:14:41 - Getting category links from Sql
+14/3/2023 - 15:14:41 - Getting data from Sql
+14/3/2023 - 15:14:41 - Getting Data From DB
+14/3/2023 - 15:14:41 - Getting Category links from Sql
+14/3/2023 - 15:14:41 - CheckNewestArticleFromDB function has called
+14/3/2023 - 15:14:41 - _GetNewestArticles has been called
+14/3/2023 - 15:14:41 - Getting data from Sql
+14/3/2023 - 15:14:41 - Getting Data From DB
+14/3/2023 - 15:14:41 - Getting newest articles from Sql
+14/3/2023 - 15:14:41 - WallaWebManager has initiallized and calling FetchAndSaveData function
+14/3/2023 - 15:14:41 - Fetching the articles once a hour - Using XML's tp get all article's info 
+14/3/2023 - 15:14:41 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+14/3/2023 - 15:14:41 - Runs Command with single value result
+14/3/2023 - 15:14:41 - Getting number of categories from Sql
+14/3/2023 - 15:14:41 - Runs Command with single value result
+14/3/2023 - 15:14:41 - Getting category links from Sql
+14/3/2023 - 15:14:41 - Getting data from Sql
+14/3/2023 - 15:14:41 - Getting Data From DB
+14/3/2023 - 15:14:41 - Getting Category links from Sql
+14/3/2023 - 15:14:41 - CheckNewestArticleFromDB function has called
+14/3/2023 - 15:14:41 - _GetNewestArticles has been called
+14/3/2023 - 15:14:41 - Getting data from Sql
+14/3/2023 - 15:14:41 - Getting Data From DB
+14/3/2023 - 15:14:41 - Getting newest articles from Sql
+14/3/2023 - 15:14:41 - MaarivWebsiteManager has initiallized and calling FetchAndSaveData function
+14/3/2023 - 15:14:41 - Fetching the articles once a hour - Using XML's tp get all article's info 
+14/3/2023 - 15:14:41 - Getting number of categories from Sql
+14/3/2023 - 15:14:41 - Runs Command with single value result
+14/3/2023 - 15:14:41 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+14/3/2023 - 15:14:41 - Runs Command with single value result
+14/3/2023 - 15:14:41 - Getting category links from Sql
+14/3/2023 - 15:14:41 - Getting data from Sql
+14/3/2023 - 15:14:41 - Getting Data From DB
+14/3/2023 - 15:14:41 - Getting Category links from Sql
+14/3/2023 - 15:14:41 - CheckNewestArticleFromDB function has called
+14/3/2023 - 15:14:41 - _GetNewestArticles has been called
+14/3/2023 - 15:14:41 - Getting data from Sql
+14/3/2023 - 15:14:41 - Getting Data From DB
+14/3/2023 - 15:14:41 - Getting newest articles from Sql
+14/3/2023 - 15:14:41 - GlobesWebsiteManager has initiallized and calling FetchAndSaveData function
+14/3/2023 - 15:14:41 - Fetching the articles once a hour - Using XML's tp get all article's info 
+14/3/2023 - 15:14:41 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+14/3/2023 - 15:14:41 - Runs Command with single value result
+14/3/2023 - 15:14:41 - Getting number of categories from Sql
+14/3/2023 - 15:14:41 - Runs Command with single value result
+14/3/2023 - 15:14:41 - Getting category links from Sql
+14/3/2023 - 15:14:41 - Getting data from Sql
+14/3/2023 - 15:14:41 - Getting Data From DB
+14/3/2023 - 15:14:41 - Getting Category links from Sql
+14/3/2023 - 15:14:41 - CheckNewestArticleFromDB function has called
+14/3/2023 - 15:14:41 - _GetNewestArticles has been called
+14/3/2023 - 15:14:41 - Getting data from Sql
+14/3/2023 - 15:14:41 - Getting Data From DB
+14/3/2023 - 15:14:41 - Getting newest articles from Sql
+14/3/2023 - 15:14:41 - YnetWebsiteManager has initiallized and calling FetchAndSaveData function
+14/3/2023 - 15:14:41 - Fetching the articles once a hour - Using XML's tp get all article's info 
+14/3/2023 - 15:14:41 - Getting number of categories from Sql
+14/3/2023 - 15:14:41 - Runs Command with single value result
+14 / 3 / 2023  -  15 : 14:42  -  No such host is known. (rss.walla.co.il:443) :    at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at News.Entities.BaseEntity.GetArticles() in C:\Users\User\source\Projects\Semester3\NewsProject\Server\News-Proj\News.Entities\BaseEntity.cs:line 68
+   at News.Entities.BaseEntity.<FetchAndSaveData>b__7_0() in C:\Users\User\source\Projects\Semester3\NewsProject\Server\News-Proj\News.Entities\BaseEntity.cs:line 46
+14 / 3 / 2023  -  15 : 14:42  -  No such host is known. (www.ynet.co.il:80) :    at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at News.Entities.BaseEntity.GetArticles() in C:\Users\User\source\Projects\Semester3\NewsProject\Server\News-Proj\News.Entities\BaseEntity.cs:line 68
+   at News.Entities.BaseEntity.<FetchAndSaveData>b__7_0() in C:\Users\User\source\Projects\Semester3\NewsProject\Server\News-Proj\News.Entities\BaseEntity.cs:line 46
+14 / 3 / 2023  -  15 : 14:42  -  No such host is known. (www.maariv.co.il:443) :    at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at News.Entities.BaseEntity.GetArticles() in C:\Users\User\source\Projects\Semester3\NewsProject\Server\News-Proj\News.Entities\BaseEntity.cs:line 68
+   at News.Entities.BaseEntity.<FetchAndSaveData>b__7_0() in C:\Users\User\source\Projects\Semester3\NewsProject\Server\News-Proj\News.Entities\BaseEntity.cs:line 46
+14 / 3 / 2023  -  15 : 14:42  -  No such host is known. (www.globes.co.il:443) :    at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at News.Entities.BaseEntity.GetArticles() in C:\Users\User\source\Projects\Semester3\NewsProject\Server\News-Proj\News.Entities\BaseEntity.cs:line 68
+   at News.Entities.BaseEntity.<FetchAndSaveData>b__7_0() in C:\Users\User\source\Projects\Semester3\NewsProject\Server\News-Proj\News.Entities\BaseEntity.cs:line 46
+14/3/2023 - 15:23:26 - CheckIfRegistered function has been called
+14/3/2023 - 15:23:26 - RunCommandCheck function has been called
+14/3/2023 - 15:23:26 - Runs command for check
+14/3/2023 - 15:23:26 - GetTopArticles function has been called
+14/3/2023 - 15:23:26 - _GetTopArticles has been called
+14/3/2023 - 15:23:26 - Getting data from Sql
+14/3/2023 - 15:23:26 - Getting Data From DB
+14/3/2023 - 15:23:27 - Getting top articles from Sql
+14/3/2023 - 15:23:27 - User hasn't picked any categories yet.
+14/3/2023 - 15:23:27 - CheckIfRegistered function has been called
+14/3/2023 - 15:23:27 - RunCommandCheck function has been called
+14/3/2023 - 15:23:27 - Runs command for check
+14/3/2023 - 15:23:27 - GetTopArticles function has been called
+14/3/2023 - 15:23:27 - _GetTopArticles has been called
+14/3/2023 - 15:23:27 - Getting data from Sql
+14/3/2023 - 15:23:27 - Getting Data From DB
+14/3/2023 - 15:23:27 - Getting top articles from Sql
+14/3/2023 - 15:23:27 - User hasn't picked any categories yet.
+14/3/2023 - 15:23:27 - GetCategories function called
+14/3/2023 - 15:23:27 - GetCategories function has been called
+14/3/2023 - 15:23:27 - Getting categories from Sql (All categories and user's favorite)
+14/3/2023 - 15:23:27 - Getting data from Sql
+14/3/2023 - 15:23:27 - Getting Data From DB
+14/3/2023 - 15:23:27 - Getting Categories from Sql
+14/3/2023 - 15:23:27 - GetCategories function called
+14/3/2023 - 15:23:27 - GetCategories function has been called
+14/3/2023 - 15:23:27 - Getting categories from Sql (All categories and user's favorite)
+14/3/2023 - 15:23:27 - Getting data from Sql
+14/3/2023 - 15:23:27 - Getting Data From DB
+14/3/2023 - 15:23:27 - Getting Categories from Sql
+14/3/2023 - 15:23:49 - UpdateFavoriteCategories function called
+14/3/2023 - 15:23:49 - UpdateFavoriteCategories function has been called
+14/3/2023 - 15:23:49 - Updating user's favorite categories in Sql
+14/3/2023 - 15:23:49 - Runs command to update
+14/3/2023 - 15:23:50 - UpdateFavoriteCategories function called
+14/3/2023 - 15:23:50 - UpdateFavoriteCategories function has been called
+14/3/2023 - 15:23:50 - Updating user's favorite categories in Sql
+14/3/2023 - 15:23:50 - Runs command to update
+14/3/2023 - 15:23:50 - CheckIfRegistered function has been called
+14/3/2023 - 15:23:50 - RunCommandCheck function has been called
+14/3/2023 - 15:23:50 - Runs command for check
+14/3/2023 - 15:23:50 - GetTopArticles function has been called
+14/3/2023 - 15:23:50 - _GetTopArticles has been called
+14/3/2023 - 15:23:50 - Getting data from Sql
+14/3/2023 - 15:23:50 - Getting Data From DB
+14/3/2023 - 15:23:50 - Getting top articles from Sql
+14/3/2023 - 15:23:50 - User is getting articles by his favorite categories from each source
+14/3/2023 - 15:23:51 - CheckIfRegistered function has been called
+14/3/2023 - 15:23:51 - RunCommandCheck function has been called
+14/3/2023 - 15:23:51 - Runs command for check
+14/3/2023 - 15:23:51 - GetTopArticles function has been called
+14/3/2023 - 15:23:51 - _GetTopArticles has been called
+14/3/2023 - 15:23:51 - Getting data from Sql
+14/3/2023 - 15:23:51 - Getting Data From DB
+14/3/2023 - 15:23:51 - Getting top articles from Sql
+14/3/2023 - 15:23:51 - User is getting articles by his favorite categories from each source
+14/3/2023 - 15:24:03 - GetCategories function called
+14/3/2023 - 15:24:03 - GetCategories function has been called
+14/3/2023 - 15:24:03 - Getting categories from Sql (All categories and user's favorite)
+14/3/2023 - 15:24:03 - Getting data from Sql
+14/3/2023 - 15:24:03 - Getting Data From DB
+14/3/2023 - 15:24:03 - Getting Categories from Sql
+14/3/2023 - 15:24:03 - GetCategories function called
+14/3/2023 - 15:24:03 - GetCategories function has been called
+14/3/2023 - 15:24:03 - Getting categories from Sql (All categories and user's favorite)
+14/3/2023 - 15:24:03 - Getting data from Sql
+14/3/2023 - 15:24:03 - Getting Data From DB
+14/3/2023 - 15:24:03 - Getting Categories from Sql
+14/3/2023 - 15:24:07 - UpdateFavoriteCategories function called
+14/3/2023 - 15:24:07 - UpdateFavoriteCategories function has been called
+14/3/2023 - 15:24:07 - Updating user's favorite categories in Sql
+14/3/2023 - 15:24:07 - Runs command to update
+14/3/2023 - 15:24:08 - UpdateFavoriteCategories function called
+14/3/2023 - 15:24:08 - UpdateFavoriteCategories function has been called
+14/3/2023 - 15:24:08 - Updating user's favorite categories in Sql
+14/3/2023 - 15:24:08 - Runs command to update
+14/3/2023 - 15:24:08 - CheckIfRegistered function has been called
+14/3/2023 - 15:24:08 - RunCommandCheck function has been called
+14/3/2023 - 15:24:08 - Runs command for check
+14/3/2023 - 15:24:08 - GetTopArticles function has been called
+14/3/2023 - 15:24:08 - _GetTopArticles has been called
+14/3/2023 - 15:24:08 - Getting data from Sql
+14/3/2023 - 15:24:09 - Getting Data From DB
+14/3/2023 - 15:24:09 - Getting top articles from Sql
+14/3/2023 - 15:24:09 - User is getting articles by his favorite categories from each source
+14/3/2023 - 15:24:09 - CheckIfRegistered function has been called
+14/3/2023 - 15:24:09 - RunCommandCheck function has been called
+14/3/2023 - 15:24:09 - Runs command for check
+14/3/2023 - 15:24:09 - GetTopArticles function has been called
+14/3/2023 - 15:24:09 - _GetTopArticles has been called
+14/3/2023 - 15:24:09 - Getting data from Sql
+14/3/2023 - 15:24:09 - Getting Data From DB
+14/3/2023 - 15:24:09 - Getting top articles from Sql
+14/3/2023 - 15:24:09 - User is getting articles by his favorite categories from each source
+14/3/2023 - 15:24:11 - GetPopularArticles function called
+14/3/2023 - 15:24:11 - GetPopularArticles function has been called
+14/3/2023 - 15:24:11 - _GetArticleList has been called
+14/3/2023 - 15:24:11 - Getting data from Sql
+14/3/2023 - 15:24:11 - Getting Data From DB
+14/3/2023 - 15:24:11 - Getting article list from Sql
+14/3/2023 - 15:24:11 - GetPopularArticles function called
+14/3/2023 - 15:24:11 - GetPopularArticles function has been called
+14/3/2023 - 15:24:11 - _GetArticleList has been called
+14/3/2023 - 15:24:11 - Getting data from Sql
+14/3/2023 - 15:24:11 - Getting Data From DB
+14/3/2023 - 15:24:11 - Getting article list from Sql
+14/3/2023 - 15:24:13 - GetCuriousArticles function called
+14/3/2023 - 15:24:13 - GetCuriousArticles function has been called
+14/3/2023 - 15:24:13 - _GetArticleList has been called
+14/3/2023 - 15:24:13 - Getting data from Sql
+14/3/2023 - 15:24:13 - Getting Data From DB
+14/3/2023 - 15:24:13 - Getting article list from Sql
+14/3/2023 - 15:24:13 - GetCuriousArticles function called
+14/3/2023 - 15:24:13 - GetCuriousArticles function has been called
+14/3/2023 - 15:24:13 - _GetArticleList has been called
+14/3/2023 - 15:24:13 - Getting data from Sql
+14/3/2023 - 15:24:13 - Getting Data From DB
+14/3/2023 - 15:24:13 - Getting article list from Sql
+14/3/2023 - 15:24:15 - GetPopularArticles function called
+14/3/2023 - 15:24:15 - GetPopularArticles function has been called
+14/3/2023 - 15:24:15 - _GetArticleList has been called
+14/3/2023 - 15:24:15 - Getting data from Sql
+14/3/2023 - 15:24:15 - Getting Data From DB
+14/3/2023 - 15:24:15 - Getting article list from Sql
+14/3/2023 - 15:24:15 - GetPopularArticles function called
+14/3/2023 - 15:24:15 - GetPopularArticles function has been called
+14/3/2023 - 15:24:15 - _GetArticleList has been called
+14/3/2023 - 15:24:15 - Getting data from Sql
+14/3/2023 - 15:24:15 - Getting Data From DB
+14/3/2023 - 15:24:15 - Getting article list from Sql
+14/3/2023 - 15:24:19 - CheckIfRegistered function has been called
+14/3/2023 - 15:24:19 - RunCommandCheck function has been called
+14/3/2023 - 15:24:19 - Runs command for check
+14/3/2023 - 15:24:19 - GetTopArticles function has been called
+14/3/2023 - 15:24:19 - _GetTopArticles has been called
+14/3/2023 - 15:24:19 - Getting data from Sql
+14/3/2023 - 15:24:19 - Getting Data From DB
+14/3/2023 - 15:24:19 - Getting top articles from Sql
+14/3/2023 - 15:24:19 - User is getting articles by his favorite categories from each source
+14/3/2023 - 15:24:19 - CheckIfRegistered function has been called
+14/3/2023 - 15:24:19 - RunCommandCheck function has been called
+14/3/2023 - 15:24:19 - Runs command for check
+14/3/2023 - 15:24:19 - GetTopArticles function has been called
+14/3/2023 - 15:24:19 - _GetTopArticles has been called
+14/3/2023 - 15:24:19 - Getting data from Sql
+14/3/2023 - 15:24:19 - Getting Data From DB
+14/3/2023 - 15:24:19 - Getting top articles from Sql
+14/3/2023 - 15:24:19 - User is getting articles by his favorite categories from each source
+14/3/2023 - 15:24:23 - GetCategories function called
+14/3/2023 - 15:24:23 - GetCategories function has been called
+14/3/2023 - 15:24:23 - Getting categories from Sql (All categories and user's favorite)
+14/3/2023 - 15:24:23 - Getting data from Sql
+14/3/2023 - 15:24:23 - Getting Data From DB
+14/3/2023 - 15:24:23 - Getting Categories from Sql
+14/3/2023 - 15:24:23 - GetCategories function called
+14/3/2023 - 15:24:23 - GetCategories function has been called
+14/3/2023 - 15:24:23 - Getting categories from Sql (All categories and user's favorite)
+14/3/2023 - 15:24:23 - Getting data from Sql
+14/3/2023 - 15:24:23 - Getting Data From DB
+14/3/2023 - 15:24:23 - Getting Categories from Sql
+14/3/2023 - 15:24:27 - UpdateFavoriteCategories function called
+14/3/2023 - 15:24:27 - UpdateFavoriteCategories function has been called
+14/3/2023 - 15:24:27 - Updating user's favorite categories in Sql
+14/3/2023 - 15:24:27 - Runs command to update
+14/3/2023 - 15:24:28 - UpdateFavoriteCategories function called
+14/3/2023 - 15:24:28 - UpdateFavoriteCategories function has been called
+14/3/2023 - 15:24:28 - Updating user's favorite categories in Sql
+14/3/2023 - 15:24:28 - Runs command to update
+14/3/2023 - 15:24:28 - CheckIfRegistered function has been called
+14/3/2023 - 15:24:28 - RunCommandCheck function has been called
+14/3/2023 - 15:24:28 - Runs command for check
+14/3/2023 - 15:24:28 - GetTopArticles function has been called
+14/3/2023 - 15:24:28 - _GetTopArticles has been called
+14/3/2023 - 15:24:28 - Getting data from Sql
+14/3/2023 - 15:24:28 - Getting Data From DB
+14/3/2023 - 15:24:28 - Getting top articles from Sql
+14/3/2023 - 15:24:28 - User is getting articles by his favorite categories from each source
+14/3/2023 - 15:24:28 - CheckIfRegistered function has been called
+14/3/2023 - 15:24:28 - RunCommandCheck function has been called
+14/3/2023 - 15:24:28 - Runs command for check
+14/3/2023 - 15:24:28 - GetTopArticles function has been called
+14/3/2023 - 15:24:28 - _GetTopArticles has been called
+14/3/2023 - 15:24:28 - Getting data from Sql
+14/3/2023 - 15:24:28 - Getting Data From DB
+14/3/2023 - 15:24:28 - Getting top articles from Sql
+14/3/2023 - 15:24:28 - User is getting articles by his favorite categories from each source
+14/3/2023 - 15:24:31 - GetPopularArticles function called
+14/3/2023 - 15:24:31 - GetPopularArticles function has been called
+14/3/2023 - 15:24:31 - _GetArticleList has been called
+14/3/2023 - 15:24:31 - Getting data from Sql
+14/3/2023 - 15:24:31 - Getting Data From DB
+14/3/2023 - 15:24:31 - Getting article list from Sql
+14/3/2023 - 15:24:31 - GetPopularArticles function called
+14/3/2023 - 15:24:31 - GetPopularArticles function has been called
+14/3/2023 - 15:24:31 - _GetArticleList has been called
+14/3/2023 - 15:24:31 - Getting data from Sql
+14/3/2023 - 15:24:31 - Getting Data From DB
+14/3/2023 - 15:24:31 - Getting article list from Sql
+14/3/2023 - 15:24:36 - GetCuriousArticles function called
+14/3/2023 - 15:24:36 - GetCuriousArticles function has been called
+14/3/2023 - 15:24:36 - _GetArticleList has been called
+14/3/2023 - 15:24:36 - Getting data from Sql
+14/3/2023 - 15:24:36 - Getting Data From DB
+14/3/2023 - 15:24:36 - Getting article list from Sql
+14/3/2023 - 15:24:36 - GetCuriousArticles function called
+14/3/2023 - 15:24:36 - GetCuriousArticles function has been called
+14/3/2023 - 15:24:36 - _GetArticleList has been called
+14/3/2023 - 15:24:36 - Getting data from Sql
+14/3/2023 - 15:24:36 - Getting Data From DB
+14/3/2023 - 15:24:36 - Getting article list from Sql
+14/3/2023 - 15:24:38 - GetPopularArticles function called
+14/3/2023 - 15:24:38 - GetPopularArticles function has been called
+14/3/2023 - 15:24:38 - _GetArticleList has been called
+14/3/2023 - 15:24:38 - Getting data from Sql
+14/3/2023 - 15:24:38 - Getting Data From DB
+14/3/2023 - 15:24:38 - Getting article list from Sql
+14/3/2023 - 15:24:38 - GetPopularArticles function called
+14/3/2023 - 15:24:38 - GetPopularArticles function has been called
+14/3/2023 - 15:24:38 - _GetArticleList has been called
+14/3/2023 - 15:24:38 - Getting data from Sql
+14/3/2023 - 15:24:38 - Getting Data From DB
+14/3/2023 - 15:24:38 - Getting article list from Sql
+14/3/2023 - 15:24:50 - CheckIfRegistered function has been called
+14/3/2023 - 15:24:50 - RunCommandCheck function has been called
+14/3/2023 - 15:24:50 - Runs command for check
+14/3/2023 - 15:24:50 - GetTopArticles function has been called
+14/3/2023 - 15:24:50 - _GetTopArticles has been called
+14/3/2023 - 15:24:50 - Getting data from Sql
+14/3/2023 - 15:24:50 - Getting Data From DB
+14/3/2023 - 15:24:50 - Getting top articles from Sql
+14/3/2023 - 15:24:50 - User is getting articles by his favorite categories from each source
+14/3/2023 - 15:24:50 - CheckIfRegistered function has been called
+14/3/2023 - 15:24:50 - RunCommandCheck function has been called
+14/3/2023 - 15:24:50 - Runs command for check
+14/3/2023 - 15:24:50 - GetTopArticles function has been called
+14/3/2023 - 15:24:50 - _GetTopArticles has been called
+14/3/2023 - 15:24:50 - Getting data from Sql
+14/3/2023 - 15:24:50 - Getting Data From DB
+14/3/2023 - 15:24:50 - Getting top articles from Sql
+14/3/2023 - 15:24:50 - User is getting articles by his favorite categories from each source
+14/3/2023 - 15:24:51 - GetCategories function called
+14/3/2023 - 15:24:51 - GetCategories function has been called
+14/3/2023 - 15:24:51 - Getting categories from Sql (All categories and user's favorite)
+14/3/2023 - 15:24:51 - Getting data from Sql
+14/3/2023 - 15:24:51 - Getting Data From DB
+14/3/2023 - 15:24:51 - Getting Categories from Sql
+14/3/2023 - 15:24:51 - GetCategories function called
+14/3/2023 - 15:24:51 - GetCategories function has been called
+14/3/2023 - 15:24:51 - Getting categories from Sql (All categories and user's favorite)
+14/3/2023 - 15:24:51 - Getting data from Sql
+14/3/2023 - 15:24:51 - Getting Data From DB
+14/3/2023 - 15:24:51 - Getting Categories from Sql
+14/3/2023 - 15:24:52 - GetPopularArticles function called
+14/3/2023 - 15:24:52 - GetPopularArticles function has been called
+14/3/2023 - 15:24:52 - _GetArticleList has been called
+14/3/2023 - 15:24:52 - Getting data from Sql
+14/3/2023 - 15:24:52 - Getting Data From DB
+14/3/2023 - 15:24:52 - Getting article list from Sql
+14/3/2023 - 15:24:52 - GetPopularArticles function called
+14/3/2023 - 15:24:52 - GetPopularArticles function has been called
+14/3/2023 - 15:24:52 - _GetArticleList has been called
+14/3/2023 - 15:24:52 - Getting data from Sql
+14/3/2023 - 15:24:52 - Getting Data From DB
+14/3/2023 - 15:24:52 - Getting article list from Sql
+14/3/2023 - 15:24:54 - CheckIfRegistered function has been called
+14/3/2023 - 15:24:54 - RunCommandCheck function has been called
+14/3/2023 - 15:24:54 - Runs command for check
+14/3/2023 - 15:24:54 - GetTopArticles function has been called
+14/3/2023 - 15:24:54 - _GetTopArticles has been called
+14/3/2023 - 15:24:54 - Getting data from Sql
+14/3/2023 - 15:24:54 - Getting Data From DB
+14/3/2023 - 15:24:54 - Getting top articles from Sql
+14/3/2023 - 15:24:54 - User is getting articles by his favorite categories from each source
+14/3/2023 - 15:24:54 - CheckIfRegistered function has been called
+14/3/2023 - 15:24:54 - RunCommandCheck function has been called
+14/3/2023 - 15:24:54 - Runs command for check
+14/3/2023 - 15:24:54 - GetTopArticles function has been called
+14/3/2023 - 15:24:54 - _GetTopArticles has been called
+14/3/2023 - 15:24:54 - Getting data from Sql
+14/3/2023 - 15:24:54 - Getting Data From DB
+14/3/2023 - 15:24:54 - Getting top articles from Sql
+14/3/2023 - 15:24:54 - User is getting articles by his favorite categories from each source
+14/3/2023 - 15:24:56 - GetPopularArticles function called
+14/3/2023 - 15:24:56 - GetPopularArticles function has been called
+14/3/2023 - 15:24:56 - _GetArticleList has been called
+14/3/2023 - 15:24:56 - Getting data from Sql
+14/3/2023 - 15:24:56 - Getting Data From DB
+14/3/2023 - 15:24:56 - Getting article list from Sql
+14/3/2023 - 15:24:56 - GetPopularArticles function called
+14/3/2023 - 15:24:56 - GetPopularArticles function has been called
+14/3/2023 - 15:24:56 - _GetArticleList has been called
+14/3/2023 - 15:24:56 - Getting data from Sql
+14/3/2023 - 15:24:56 - Getting Data From DB
+14/3/2023 - 15:24:56 - Getting article list from Sql
+14/3/2023 - 15:24:57 - GetCategories function called
+14/3/2023 - 15:24:57 - GetCategories function has been called
+14/3/2023 - 15:24:57 - Getting categories from Sql (All categories and user's favorite)
+14/3/2023 - 15:24:57 - Getting data from Sql
+14/3/2023 - 15:24:57 - Getting Data From DB
+14/3/2023 - 15:24:57 - Getting Categories from Sql
+14/3/2023 - 15:24:57 - GetCategories function called
+14/3/2023 - 15:24:57 - GetCategories function has been called
+14/3/2023 - 15:24:57 - Getting categories from Sql (All categories and user's favorite)
+14/3/2023 - 15:24:57 - Getting data from Sql
+14/3/2023 - 15:24:57 - Getting Data From DB
+14/3/2023 - 15:24:57 - Getting Categories from Sql
+14/3/2023 - 15:24:58 - CheckIfRegistered function has been called
+14/3/2023 - 15:24:58 - RunCommandCheck function has been called
+14/3/2023 - 15:24:58 - Runs command for check
+14/3/2023 - 15:24:58 - GetTopArticles function has been called
+14/3/2023 - 15:24:58 - _GetTopArticles has been called
+14/3/2023 - 15:24:58 - Getting data from Sql
+14/3/2023 - 15:24:58 - Getting Data From DB
+14/3/2023 - 15:24:58 - Getting top articles from Sql
+14/3/2023 - 15:24:58 - User is getting articles by his favorite categories from each source
+14/3/2023 - 15:24:58 - CheckIfRegistered function has been called
+14/3/2023 - 15:24:58 - RunCommandCheck function has been called
+14/3/2023 - 15:24:58 - Runs command for check
+14/3/2023 - 15:24:58 - GetTopArticles function has been called
+14/3/2023 - 15:24:58 - _GetTopArticles has been called
+14/3/2023 - 15:24:58 - Getting data from Sql
+14/3/2023 - 15:24:58 - Getting Data From DB
+14/3/2023 - 15:24:58 - Getting top articles from Sql
+14/3/2023 - 15:24:58 - User is getting articles by his favorite categories from each source
+14/3/2023 - 15:25:00 - UpdateNumberOfClicks function has been called
+14/3/2023 - 15:25:00 - RunNonQuery function has been called
+14/3/2023 - 15:25:00 - Runs command to update
+14/3/2023 - 15:25:00 - The number of clicks has been updated
+14/3/2023 - 15:25:03 - GetPopularArticles function called
+14/3/2023 - 15:25:03 - GetPopularArticles function has been called
+14/3/2023 - 15:25:03 - _GetArticleList has been called
+14/3/2023 - 15:25:03 - Getting data from Sql
+14/3/2023 - 15:25:03 - Getting Data From DB
+14/3/2023 - 15:25:03 - Getting article list from Sql
+14/3/2023 - 15:25:03 - GetPopularArticles function called
+14/3/2023 - 15:25:03 - GetPopularArticles function has been called
+14/3/2023 - 15:25:03 - _GetArticleList has been called
+14/3/2023 - 15:25:03 - Getting data from Sql
+14/3/2023 - 15:25:03 - Getting Data From DB
+14/3/2023 - 15:25:03 - Getting article list from Sql
+14/3/2023 - 15:25:07 - CheckIfRegistered function has been called
+14/3/2023 - 15:25:07 - RunCommandCheck function has been called
+14/3/2023 - 15:25:07 - Runs command for check
+14/3/2023 - 15:25:07 - GetTopArticles function has been called
+14/3/2023 - 15:25:07 - _GetTopArticles has been called
+14/3/2023 - 15:25:07 - Getting data from Sql
+14/3/2023 - 15:25:14 - Getting Data From DB
+14/3/2023 - 15:25:14 - Getting top articles from Sql
+14/3/2023 - 15:25:14 - User is getting articles by his favorite categories from each source
+14/3/2023 - 15:25:14 - CheckIfRegistered function has been called
+14/3/2023 - 15:25:14 - RunCommandCheck function has been called
+14/3/2023 - 15:25:14 - Runs command for check
+14/3/2023 - 15:25:14 - GetTopArticles function has been called
+14/3/2023 - 15:25:14 - _GetTopArticles has been called
+14/3/2023 - 15:25:14 - Getting data from Sql
+14/3/2023 - 15:25:14 - Getting Data From DB
+14/3/2023 - 15:25:14 - Getting top articles from Sql
+14/3/2023 - 15:25:14 - User is getting articles by his favorite categories from each source
+14/3/2023 - 15:44:10 - GetCategories function called
+14/3/2023 - 15:44:10 - GetCategories function has been called
+14/3/2023 - 15:44:10 - Getting categories from Sql (All categories and user's favorite)
+14/3/2023 - 15:44:10 - Getting data from Sql
+14/3/2023 - 15:44:10 - Getting Data From DB
+14/3/2023 - 15:44:10 - Getting Categories from Sql
+14/3/2023 - 15:44:10 - GetCategories function called
+14/3/2023 - 15:44:10 - GetCategories function has been called
+14/3/2023 - 15:44:10 - Getting categories from Sql (All categories and user's favorite)
+14/3/2023 - 15:44:10 - Getting data from Sql
+14/3/2023 - 15:44:10 - Getting Data From DB
+14/3/2023 - 15:44:10 - Getting Categories from Sql
+14/3/2023 - 15:44:11 - GetPopularArticles function called
+14/3/2023 - 15:44:11 - GetPopularArticles function has been called
+14/3/2023 - 15:44:11 - _GetArticleList has been called
+14/3/2023 - 15:44:11 - Getting data from Sql
+14/3/2023 - 15:44:12 - Getting Data From DB
+14/3/2023 - 15:44:12 - Getting article list from Sql
+14/3/2023 - 15:44:12 - GetPopularArticles function called
+14/3/2023 - 15:44:12 - GetPopularArticles function has been called
+14/3/2023 - 15:44:12 - _GetArticleList has been called
+14/3/2023 - 15:44:12 - Getting data from Sql
+14/3/2023 - 15:44:12 - Getting Data From DB
+14/3/2023 - 15:44:12 - Getting article list from Sql
+14/3/2023 - 15:44:18 - GetCategories function called
+14/3/2023 - 15:44:18 - GetCategories function has been called
+14/3/2023 - 15:44:18 - Getting categories from Sql (All categories and user's favorite)
+14/3/2023 - 15:44:18 - Getting data from Sql
+14/3/2023 - 15:44:18 - Getting Data From DB
+14/3/2023 - 15:44:18 - Getting Categories from Sql
+14/3/2023 - 15:44:18 - GetCategories function called
+14/3/2023 - 15:44:18 - GetCategories function has been called
+14/3/2023 - 15:44:18 - Getting categories from Sql (All categories and user's favorite)
+14/3/2023 - 15:44:18 - Getting data from Sql
+14/3/2023 - 15:44:18 - Getting Data From DB
+14/3/2023 - 15:44:18 - Getting Categories from Sql
+14/3/2023 - 15:44:19 - GetPopularArticles function called
+14/3/2023 - 15:44:19 - GetPopularArticles function has been called
+14/3/2023 - 15:44:19 - _GetArticleList has been called
+14/3/2023 - 15:44:19 - Getting data from Sql
+14/3/2023 - 15:44:19 - Getting Data From DB
+14/3/2023 - 15:44:19 - Getting article list from Sql
+14/3/2023 - 15:44:19 - GetPopularArticles function called
+14/3/2023 - 15:44:19 - GetPopularArticles function has been called
+14/3/2023 - 15:44:19 - _GetArticleList has been called
+14/3/2023 - 15:44:19 - Getting data from Sql
+14/3/2023 - 15:44:19 - Getting Data From DB
+14/3/2023 - 15:44:19 - Getting article list from Sql
+14/3/2023 - 15:44:26 - CheckIfRegistered function has been called
+14/3/2023 - 15:44:26 - RunCommandCheck function has been called
+14/3/2023 - 15:44:26 - Runs command for check
+14/3/2023 - 15:44:26 - GetTopArticles function has been called
+14/3/2023 - 15:44:26 - _GetTopArticles has been called
+14/3/2023 - 15:44:26 - Getting data from Sql
+14/3/2023 - 15:44:36 - Getting Data From DB
+14/3/2023 - 15:44:36 - Getting top articles from Sql
+14/3/2023 - 15:44:36 - User is getting articles by his favorite categories from each source
+14/3/2023 - 15:44:36 - CheckIfRegistered function has been called
+14/3/2023 - 15:44:36 - RunCommandCheck function has been called
+14/3/2023 - 15:44:36 - Runs command for check
+14/3/2023 - 15:44:36 - GetTopArticles function has been called
+14/3/2023 - 15:44:36 - _GetTopArticles has been called
+14/3/2023 - 15:44:36 - Getting data from Sql
+14/3/2023 - 15:44:36 - Getting Data From DB
+14/3/2023 - 15:44:36 - Getting top articles from Sql
+14/3/2023 - 15:44:36 - User is getting articles by his favorite categories from each source
+14/3/2023 - 15:45:16 - GetCategories function called
+14/3/2023 - 15:45:16 - GetCategories function has been called
+14/3/2023 - 15:45:16 - Getting categories from Sql (All categories and user's favorite)
+14/3/2023 - 15:45:16 - Getting data from Sql
+14/3/2023 - 15:45:16 - Getting Data From DB
+14/3/2023 - 15:45:16 - Getting Categories from Sql
+14/3/2023 - 15:45:16 - GetCategories function called
+14/3/2023 - 15:45:16 - GetCategories function has been called
+14/3/2023 - 15:45:16 - Getting categories from Sql (All categories and user's favorite)
+14/3/2023 - 15:45:16 - Getting data from Sql
+14/3/2023 - 15:45:16 - Getting Data From DB
+14/3/2023 - 15:45:16 - Getting Categories from Sql
+14/3/2023 - 15:47:48 - UpdateFavoriteCategories function called
+14/3/2023 - 15:47:48 - UpdateFavoriteCategories function has been called
+14/3/2023 - 15:47:48 - Updating user's favorite categories in Sql
+14/3/2023 - 15:47:48 - Runs command to update
+14/3/2023 - 15:47:51 - UpdateFavoriteCategories function called
+14/3/2023 - 15:47:51 - UpdateFavoriteCategories function has been called
+14/3/2023 - 15:47:51 - Updating user's favorite categories in Sql
+14/3/2023 - 15:47:51 - Runs command to update
+14/3/2023 - 15:47:51 - CheckIfRegistered function has been called
+14/3/2023 - 15:47:51 - RunCommandCheck function has been called
+14/3/2023 - 15:47:51 - Runs command for check
+14/3/2023 - 15:47:51 - GetTopArticles function has been called
+14/3/2023 - 15:47:51 - _GetTopArticles has been called
+14/3/2023 - 15:47:51 - Getting data from Sql
+14/3/2023 - 15:47:52 - Getting Data From DB
+14/3/2023 - 15:47:52 - Getting top articles from Sql
+14/3/2023 - 15:47:52 - User is getting articles by his favorite categories from each source
+14/3/2023 - 15:47:52 - CheckIfRegistered function has been called
+14/3/2023 - 15:47:52 - RunCommandCheck function has been called
+14/3/2023 - 15:47:52 - Runs command for check
+14/3/2023 - 15:47:52 - GetTopArticles function has been called
+14/3/2023 - 15:47:52 - _GetTopArticles has been called
+14/3/2023 - 15:47:52 - Getting data from Sql
+14/3/2023 - 15:47:52 - Getting Data From DB
+14/3/2023 - 15:47:52 - Getting top articles from Sql
+14/3/2023 - 15:47:52 - User is getting articles by his favorite categories from each source
+14/3/2023 - 15:47:53 - GetCategories function called
+14/3/2023 - 15:47:53 - GetCategories function has been called
+14/3/2023 - 15:47:53 - Getting categories from Sql (All categories and user's favorite)
+14/3/2023 - 15:47:53 - Getting data from Sql
+14/3/2023 - 15:47:53 - Getting Data From DB
+14/3/2023 - 15:47:53 - Getting Categories from Sql
+14/3/2023 - 15:47:53 - GetCategories function called
+14/3/2023 - 15:47:53 - GetCategories function has been called
+14/3/2023 - 15:47:53 - Getting categories from Sql (All categories and user's favorite)
+14/3/2023 - 15:47:53 - Getting data from Sql
+14/3/2023 - 15:47:53 - Getting Data From DB
+14/3/2023 - 15:47:53 - Getting Categories from Sql
+14/3/2023 - 15:48:09 - GetCategories function called
+14/3/2023 - 15:48:09 - GetCategories function has been called
+14/3/2023 - 15:48:09 - Getting categories from Sql (All categories and user's favorite)
+14/3/2023 - 15:48:09 - Getting data from Sql
+14/3/2023 - 15:48:09 - Getting Data From DB
+14/3/2023 - 15:48:09 - Getting Categories from Sql
+14/3/2023 - 15:48:15 - GetPopularArticles function called
+14/3/2023 - 15:48:15 - GetPopularArticles function has been called
+14/3/2023 - 15:48:15 - _GetArticleList has been called
+14/3/2023 - 15:48:15 - Getting data from Sql
+14/3/2023 - 15:48:15 - Getting Data From DB
+14/3/2023 - 15:48:15 - Getting article list from Sql
+14/3/2023 - 15:48:15 - GetPopularArticles function called
+14/3/2023 - 15:48:15 - GetPopularArticles function has been called
+14/3/2023 - 15:48:15 - _GetArticleList has been called
+14/3/2023 - 15:48:15 - Getting data from Sql
+14/3/2023 - 15:48:15 - Getting Data From DB
+14/3/2023 - 15:48:15 - Getting article list from Sql
+14/3/2023 - 15:51:05 - GetPopularArticles function called
+14/3/2023 - 15:51:05 - GetPopularArticles function has been called
+14/3/2023 - 15:51:05 - _GetArticleList has been called
+14/3/2023 - 15:51:05 - Getting data from Sql
+14/3/2023 - 15:51:05 - Getting Data From DB
+14/3/2023 - 15:51:05 - Getting article list from Sql
+14/3/2023 - 15:51:18 - CheckIfRegistered function has been called
+14/3/2023 - 15:51:18 - RunCommandCheck function has been called
+14/3/2023 - 15:51:18 - Runs command for check
+14/3/2023 - 15:51:18 - GetTopArticles function has been called
+14/3/2023 - 15:51:18 - _GetTopArticles has been called
+14/3/2023 - 15:51:18 - Getting data from Sql
+14/3/2023 - 15:51:18 - Getting Data From DB
+14/3/2023 - 15:51:18 - Getting top articles from Sql
+14/3/2023 - 15:51:18 - User is getting articles by his favorite categories from each source
+14/3/2023 - 15:51:18 - CheckIfRegistered function has been called
+14/3/2023 - 15:51:18 - RunCommandCheck function has been called
+14/3/2023 - 15:51:18 - Runs command for check
+14/3/2023 - 15:51:18 - GetTopArticles function has been called
+14/3/2023 - 15:51:18 - _GetTopArticles has been called
+14/3/2023 - 15:51:18 - Getting data from Sql
+14/3/2023 - 15:51:18 - Getting Data From DB
+14/3/2023 - 15:51:18 - Getting top articles from Sql
+14/3/2023 - 15:51:18 - User is getting articles by his favorite categories from each source
+14/3/2023 - 15:51:19 - GetPopularArticles function called
+14/3/2023 - 15:51:19 - GetPopularArticles function has been called
+14/3/2023 - 15:51:19 - _GetArticleList has been called
+14/3/2023 - 15:51:19 - Getting data from Sql
+14/3/2023 - 15:51:19 - Getting Data From DB
+14/3/2023 - 15:51:19 - Getting article list from Sql
+14/3/2023 - 15:51:19 - GetPopularArticles function called
+14/3/2023 - 15:51:19 - GetPopularArticles function has been called
+14/3/2023 - 15:51:19 - _GetArticleList has been called
+14/3/2023 - 15:51:19 - Getting data from Sql
+14/3/2023 - 15:51:19 - Getting Data From DB
+14/3/2023 - 15:51:19 - Getting article list from Sql
+14/3/2023 - 15:55:01 - GetPopularArticles function called
+14/3/2023 - 15:55:01 - GetPopularArticles function has been called
+14/3/2023 - 15:55:01 - _GetArticleList has been called
+14/3/2023 - 15:55:01 - Getting data from Sql
+14/3/2023 - 15:55:01 - Getting Data From DB
+14/3/2023 - 15:55:01 - Getting article list from Sql
+14/3/2023 - 15:55:01 - GetPopularArticles function called
+14/3/2023 - 15:55:01 - GetPopularArticles function has been called
+14/3/2023 - 15:55:01 - _GetArticleList has been called
+14/3/2023 - 15:55:01 - Getting data from Sql
+14/3/2023 - 15:55:01 - Getting Data From DB
+14/3/2023 - 15:55:01 - Getting article list from Sql
+14/3/2023 - 15:55:38 - CheckIfRegistered function has been called
+14/3/2023 - 15:55:38 - RunCommandCheck function has been called
+14/3/2023 - 15:55:38 - Runs command for check
+14/3/2023 - 15:55:38 - GetTopArticles function has been called
+14/3/2023 - 15:55:38 - _GetTopArticles has been called
+14/3/2023 - 15:55:38 - Getting data from Sql
+14/3/2023 - 15:55:38 - Getting Data From DB
+14/3/2023 - 15:55:38 - Getting top articles from Sql
+14/3/2023 - 15:55:38 - User is getting articles by his favorite categories from each source
+14/3/2023 - 15:55:38 - CheckIfRegistered function has been called
+14/3/2023 - 15:55:38 - RunCommandCheck function has been called
+14/3/2023 - 15:55:38 - Runs command for check
+14/3/2023 - 15:55:38 - GetTopArticles function has been called
+14/3/2023 - 15:55:38 - _GetTopArticles has been called
+14/3/2023 - 15:55:38 - Getting data from Sql
+14/3/2023 - 15:55:38 - Getting Data From DB
+14/3/2023 - 15:55:38 - Getting top articles from Sql
+14/3/2023 - 15:55:38 - User is getting articles by his favorite categories from each source
+14/3/2023 - 16:02:06 - GetCategories function called
+14/3/2023 - 16:02:06 - GetCategories function has been called
+14/3/2023 - 16:02:06 - Getting categories from Sql (All categories and user's favorite)
+14/3/2023 - 16:02:06 - Getting data from Sql
+14/3/2023 - 16:02:06 - Getting Data From DB
+14/3/2023 - 16:02:06 - Getting Categories from Sql
+14/3/2023 - 16:02:06 - GetCategories function called
+14/3/2023 - 16:02:06 - GetCategories function has been called
+14/3/2023 - 16:02:06 - Getting categories from Sql (All categories and user's favorite)
+14/3/2023 - 16:02:06 - Getting data from Sql
+14/3/2023 - 16:02:06 - Getting Data From DB
+14/3/2023 - 16:02:06 - Getting Categories from Sql
+14/3/2023 - 16:02:32 - CheckIfRegistered function has been called
+14/3/2023 - 16:02:32 - RunCommandCheck function has been called
+14/3/2023 - 16:02:32 - Runs command for check
+14/3/2023 - 16:02:32 - GetTopArticles function has been called
+14/3/2023 - 16:02:32 - _GetTopArticles has been called
+14/3/2023 - 16:02:32 - Getting data from Sql
+14/3/2023 - 16:02:32 - Getting Data From DB
+14/3/2023 - 16:02:32 - Getting top articles from Sql
+14/3/2023 - 16:02:32 - User is getting articles by his favorite categories from each source
+14/3/2023 - 16:02:32 - CheckIfRegistered function has been called
+14/3/2023 - 16:02:32 - RunCommandCheck function has been called
+14/3/2023 - 16:02:32 - Runs command for check
+14/3/2023 - 16:02:32 - GetTopArticles function has been called
+14/3/2023 - 16:02:32 - _GetTopArticles has been called
+14/3/2023 - 16:02:32 - Getting data from Sql
+14/3/2023 - 16:02:32 - Getting Data From DB
+14/3/2023 - 16:02:32 - Getting top articles from Sql
+14/3/2023 - 16:02:32 - User is getting articles by his favorite categories from each source
+14/3/2023 - 16:02:36 - UpdateNumberOfClicks function has been called
+14/3/2023 - 16:02:36 - RunNonQuery function has been called
+14/3/2023 - 16:02:36 - Runs command to update
+14/3/2023 - 16:02:36 - The number of clicks has been updated
+14/3/2023 - 16:04:09 - UpdateNumberOfClicks function has been called
+14/3/2023 - 16:04:09 - RunNonQuery function has been called
+14/3/2023 - 16:04:09 - Runs command to update
+14/3/2023 - 16:04:09 - The number of clicks has been updated
+14/3/2023 - 16:05:35 - GetCategories function called
+14/3/2023 - 16:05:35 - GetCategories function has been called
+14/3/2023 - 16:05:35 - Getting categories from Sql (All categories and user's favorite)
+14/3/2023 - 16:05:35 - Getting data from Sql
+14/3/2023 - 16:05:35 - Getting Data From DB
+14/3/2023 - 16:05:35 - Getting Categories from Sql
+14/3/2023 - 16:05:35 - GetCategories function called
+14/3/2023 - 16:05:35 - GetCategories function has been called
+14/3/2023 - 16:05:35 - Getting categories from Sql (All categories and user's favorite)
+14/3/2023 - 16:05:35 - Getting data from Sql
+14/3/2023 - 16:05:35 - Getting Data From DB
+14/3/2023 - 16:05:35 - Getting Categories from Sql
+14/3/2023 - 21:46:36 - Runs Command with single value result
+14/3/2023 - 21:46:36 - Getting connection string
+14/3/2023 - 21:46:42 - Runs Command with single value result
+14/3/2023 - 21:46:42 - Getting connection string
+14/3/2023 - 21:46:36 - Software has started.
+14/3/2023 - 21:46:42 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+14/3/2023 - 21:46:45 - Runs Command with single value result
+14/3/2023 - 21:46:45 - Getting category links from Sql
+14/3/2023 - 21:46:45 - Getting data from Sql
+14/3/2023 - 21:46:45 - Getting Data From DB
+14/3/2023 - 21:46:45 - Getting Category links from Sql
+14/3/2023 - 21:46:45 - CheckNewestArticleFromDB function has called
+14/3/2023 - 21:46:45 - _GetNewestArticles has been called
+14/3/2023 - 21:46:45 - Getting data from Sql
+14/3/2023 - 21:48:13 - Runs Command with single value result
+14/3/2023 - 21:48:13 - Getting connection string
+14/3/2023 - 21:48:13 - Runs Command with single value result
+14/3/2023 - 21:48:13 - Getting connection string
+14/3/2023 - 21:48:13 - Software has started.
+14/3/2023 - 21:48:13 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+14/3/2023 - 21:48:13 - Runs Command with single value result
+14/3/2023 - 21:48:59 - Runs Command with single value result
+14/3/2023 - 21:48:59 - Getting connection string
+14/3/2023 - 21:48:59 - Runs Command with single value result
+14/3/2023 - 21:48:59 - Getting connection string
+14/3/2023 - 21:48:59 - Software has started.
+14/3/2023 - 21:48:59 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+14/3/2023 - 21:48:59 - Runs Command with single value result
+14/3/2023 - 21:48:59 - Getting category links from Sql
+14/3/2023 - 21:48:59 - Getting data from Sql
+14/3/2023 - 21:48:59 - Getting Data From DB
+14/3/2023 - 21:48:59 - Getting Category links from Sql
+14/3/2023 - 21:48:59 - CheckNewestArticleFromDB function has called
+14/3/2023 - 21:48:59 - _GetNewestArticles has been called
+14/3/2023 - 21:48:59 - Getting data from Sql
+14/3/2023 - 21:51:23 - Runs Command with single value result
+14/3/2023 - 21:51:23 - Getting connection string
+14/3/2023 - 21:51:23 - Runs Command with single value result
+14/3/2023 - 21:51:23 - Getting connection string
+14/3/2023 - 21:51:23 - Software has started.
+14/3/2023 - 21:51:23 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+14/3/2023 - 21:51:23 - Runs Command with single value result
+14/3/2023 - 21:51:23 - Getting category links from Sql
+14/3/2023 - 21:51:23 - Getting data from Sql
+14/3/2023 - 21:51:23 - Getting Data From DB
+14/3/2023 - 21:51:23 - Getting Category links from Sql
+14/3/2023 - 21:51:23 - CheckNewestArticleFromDB function has called
+14/3/2023 - 21:51:23 - _GetNewestArticles has been called
+14/3/2023 - 21:51:23 - Getting data from Sql
+14/3/2023 - 21:51:23 - Getting Data From DB
+14/3/2023 - 21:51:23 - Getting newest articles from Sql
+14/3/2023 - 21:51:23 - WallaWebManager has initiallized and calling FetchAndSaveData function
+14/3/2023 - 21:51:23 - Fetching the articles once a hour - Using XML's tp get all article's info 
+14/3/2023 - 21:51:23 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+14/3/2023 - 21:51:23 - Runs Command with single value result
+14/3/2023 - 21:51:23 - Getting number of categories from Sql
+14/3/2023 - 21:51:23 - Runs Command with single value result
+14/3/2023 - 21:51:23 - Getting category links from Sql
+14/3/2023 - 21:51:23 - Getting data from Sql
+14/3/2023 - 21:51:23 - Getting Data From DB
+14/3/2023 - 21:51:23 - Getting Category links from Sql
+14/3/2023 - 21:51:23 - CheckNewestArticleFromDB function has called
+14/3/2023 - 21:51:23 - _GetNewestArticles has been called
+14/3/2023 - 21:51:23 - Getting data from Sql
+14/3/2023 - 21:51:23 - Getting Data From DB
+14/3/2023 - 21:51:23 - Getting newest articles from Sql
+14/3/2023 - 21:51:23 - MaarivWebsiteManager has initiallized and calling FetchAndSaveData function
+14/3/2023 - 21:51:23 - Fetching the articles once a hour - Using XML's tp get all article's info 
+14/3/2023 - 21:51:23 - Getting number of categories from Sql
+14/3/2023 - 21:51:23 - Runs Command with single value result
+14/3/2023 - 21:51:23 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+14/3/2023 - 21:55:31 - Runs Command with single value result
+14/3/2023 - 21:55:31 - Getting connection string
+14/3/2023 - 21:55:31 - Runs Command with single value result
+14/3/2023 - 21:55:31 - Getting connection string
+14/3/2023 - 21:55:31 - Software has started.
+14/3/2023 - 21:55:31 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+14/3/2023 - 21:55:31 - Runs Command with single value result
+14/3/2023 - 21:55:31 - Getting category links from Sql
+14/3/2023 - 21:55:31 - Getting data from Sql
+14/3/2023 - 21:55:31 - Getting Data From DB
+14/3/2023 - 21:55:31 - Getting Category links from Sql
+14/3/2023 - 21:55:31 - CheckNewestArticleFromDB function has called
+14/3/2023 - 21:55:31 - _GetNewestArticles has been called
+14/3/2023 - 21:55:31 - Getting data from Sql
+14/3/2023 - 21:55:31 - Getting Data From DB
+14/3/2023 - 21:55:31 - Getting newest articles from Sql
+14/3/2023 - 21:55:31 - WallaWebManager has initiallized and calling FetchAndSaveData function
+14/3/2023 - 21:55:31 - Fetching the articles once a hour - Using XML's tp get all article's info 
+14/3/2023 - 21:55:31 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+14/3/2023 - 21:55:31 - Runs Command with single value result
+14/3/2023 - 21:55:31 - Getting number of categories from Sql
+14/3/2023 - 21:55:31 - Runs Command with single value result
+14/3/2023 - 21:55:31 - Getting category links from Sql
+14/3/2023 - 21:55:31 - Getting data from Sql
+14/3/2023 - 21:55:31 - Getting Data From DB
+14/3/2023 - 21:55:31 - Getting Category links from Sql
+14/3/2023 - 21:55:31 - CheckNewestArticleFromDB function has called
+14/3/2023 - 21:55:31 - _GetNewestArticles has been called
+14/3/2023 - 21:55:31 - Getting data from Sql
+14/3/2023 - 21:55:31 - Getting Data From DB
+14/3/2023 - 21:55:31 - Getting newest articles from Sql
+14/3/2023 - 21:55:31 - MaarivWebsiteManager has initiallized and calling FetchAndSaveData function
+14/3/2023 - 21:55:31 - Fetching the articles once a hour - Using XML's tp get all article's info 
+14/3/2023 - 21:55:31 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+14/3/2023 - 21:55:31 - Runs Command with single value result
+14/3/2023 - 21:55:31 - Getting number of categories from Sql
+14/3/2023 - 21:55:31 - Runs Command with single value result
+14/3/2023 - 21:55:31 - Getting category links from Sql
+14/3/2023 - 21:55:31 - Getting data from Sql
+14/3/2023 - 21:55:31 - Getting Data From DB
+14/3/2023 - 21:55:31 - Getting Category links from Sql
+14/3/2023 - 21:55:31 - CheckNewestArticleFromDB function has called
+14/3/2023 - 21:55:31 - _GetNewestArticles has been called
+14/3/2023 - 21:55:31 - Getting data from Sql
+14/3/2023 - 21:55:31 - Getting Data From DB
+14/3/2023 - 21:55:31 - Getting newest articles from Sql
+14/3/2023 - 21:55:31 - GlobesWebsiteManager has initiallized and calling FetchAndSaveData function
+14/3/2023 - 21:55:31 - Fetching the articles once a hour - Using XML's tp get all article's info 
+14/3/2023 - 21:55:31 - Getting number of categories from Sql
+14/3/2023 - 21:56:24 - Runs Command with single value result
+14/3/2023 - 21:56:24 - Getting connection string
+14/3/2023 - 21:56:25 - Runs Command with single value result
+14/3/2023 - 21:56:25 - Getting connection string
+14/3/2023 - 21:56:24 - Software has started.
+14/3/2023 - 21:56:25 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+14/3/2023 - 21:56:25 - Runs Command with single value result
+14/3/2023 - 21:56:25 - Getting category links from Sql
+14/3/2023 - 21:56:25 - Getting data from Sql
+14/3/2023 - 21:56:25 - Getting Data From DB
+14/3/2023 - 21:56:25 - Getting Category links from Sql
+14/3/2023 - 21:56:25 - CheckNewestArticleFromDB function has called
+14/3/2023 - 21:56:25 - _GetNewestArticles has been called
+14/3/2023 - 21:56:25 - Getting data from Sql
+14/3/2023 - 21:56:25 - Getting Data From DB
+14/3/2023 - 21:56:25 - Getting newest articles from Sql
+14/3/2023 - 21:56:25 - WallaWebManager has initiallized and calling FetchAndSaveData function
+14/3/2023 - 21:56:25 - Fetching the articles once a hour - Using XML's tp get all article's info 
+14/3/2023 - 21:56:25 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+14/3/2023 - 21:56:25 - Runs Command with single value result
+14/3/2023 - 21:56:25 - Getting number of categories from Sql
+14/3/2023 - 21:56:25 - Runs Command with single value result
+14/3/2023 - 21:56:25 - Getting category links from Sql
+14/3/2023 - 21:56:25 - Getting data from Sql
+14/3/2023 - 21:56:25 - Getting Data From DB
+14/3/2023 - 21:56:25 - Getting Category links from Sql
+14/3/2023 - 21:56:25 - CheckNewestArticleFromDB function has called
+14/3/2023 - 21:56:25 - _GetNewestArticles has been called
+14/3/2023 - 21:56:25 - Getting data from Sql
+14/3/2023 - 21:56:25 - Getting Data From DB
+14/3/2023 - 21:56:25 - Getting newest articles from Sql
+14/3/2023 - 21:56:25 - MaarivWebsiteManager has initiallized and calling FetchAndSaveData function
+14/3/2023 - 21:56:25 - Fetching the articles once a hour - Using XML's tp get all article's info 
+14/3/2023 - 21:56:25 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+14/3/2023 - 21:57:04 - Runs Command with single value result
+14/3/2023 - 21:57:04 - Getting connection string
+14/3/2023 - 21:57:04 - Runs Command with single value result
+14/3/2023 - 21:57:04 - Getting connection string
+14/3/2023 - 21:57:04 - Software has started.
+14/3/2023 - 21:57:04 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+14/3/2023 - 21:57:04 - Runs Command with single value result
+14/3/2023 - 21:57:04 - Getting category links from Sql
+14/3/2023 - 21:57:04 - Getting data from Sql
+14/3/2023 - 21:57:04 - Getting Data From DB
+14/3/2023 - 21:57:04 - Getting Category links from Sql
+14/3/2023 - 21:57:04 - CheckNewestArticleFromDB function has called
+14/3/2023 - 21:57:04 - _GetNewestArticles has been called
+14/3/2023 - 21:57:04 - Getting data from Sql
+14/3/2023 - 21:57:04 - Getting Data From DB
+14/3/2023 - 21:57:04 - Getting newest articles from Sql
+14/3/2023 - 21:57:04 - WallaWebManager has initiallized and calling FetchAndSaveData function
+14/3/2023 - 21:57:04 - Fetching the articles once a hour - Using XML's tp get all article's info 
+14/3/2023 - 21:57:04 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+14/3/2023 - 21:57:04 - Runs Command with single value result
+14/3/2023 - 21:57:04 - Getting number of categories from Sql
+14/3/2023 - 21:57:04 - Runs Command with single value result
+14/3/2023 - 21:57:04 - Getting category links from Sql
+14/3/2023 - 21:57:04 - Getting data from Sql
+14/3/2023 - 21:57:04 - Getting Data From DB
+14/3/2023 - 21:57:04 - Getting Category links from Sql
+14/3/2023 - 21:57:04 - CheckNewestArticleFromDB function has called
+14/3/2023 - 21:57:04 - _GetNewestArticles has been called
+14/3/2023 - 21:57:04 - Getting data from Sql
+14/3/2023 - 21:57:04 - Getting Data From DB
+14/3/2023 - 21:57:04 - Getting newest articles from Sql
+14/3/2023 - 21:57:04 - MaarivWebsiteManager has initiallized and calling FetchAndSaveData function
+14/3/2023 - 21:57:04 - Fetching the articles once a hour - Using XML's tp get all article's info 
+14/3/2023 - 21:57:04 - Getting number of categories from Sql
+14/3/2023 - 21:57:04 - Runs Command with single value result
+14/3/2023 - 21:57:04 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+14/3/2023 - 21:57:04 - Runs Command with single value result
+14/3/2023 - 21:57:04 - Getting category links from Sql
+14/3/2023 - 21:57:04 - Getting data from Sql
+14/3/2023 - 21:57:04 - Getting Data From DB
+14/3/2023 - 21:57:04 - Getting Category links from Sql
+14/3/2023 - 21:57:04 - CheckNewestArticleFromDB function has called
+14/3/2023 - 21:57:04 - _GetNewestArticles has been called
+14/3/2023 - 21:57:04 - Getting data from Sql
+14/3/2023 - 21:57:05 - Getting Data From DB
+14/3/2023 - 21:57:05 - Getting newest articles from Sql
+14/3/2023 - 21:57:05 - GlobesWebsiteManager has initiallized and calling FetchAndSaveData function
+14/3/2023 - 21:57:05 - Fetching the articles once a hour - Using XML's tp get all article's info 
+14/3/2023 - 21:57:05 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+14/3/2023 - 21:57:05 - Runs Command with single value result
+14/3/2023 - 21:57:05 - Getting number of categories from Sql
+14/3/2023 - 21:57:05 - Runs Command with single value result
+14/3/2023 - 21:57:05 - Getting category links from Sql
+14/3/2023 - 21:57:05 - Getting data from Sql
+14/3/2023 - 21:57:05 - Getting Data From DB
+14/3/2023 - 21:57:05 - Getting Category links from Sql
+14/3/2023 - 21:57:05 - CheckNewestArticleFromDB function has called
+14/3/2023 - 21:57:05 - _GetNewestArticles has been called
+14/3/2023 - 21:57:05 - Getting data from Sql
+14/3/2023 - 21:57:05 - Getting Data From DB
+14/3/2023 - 21:57:05 - Getting newest articles from Sql
+14/3/2023 - 21:57:05 - YnetWebsiteManager has initiallized and calling FetchAndSaveData function
+14/3/2023 - 21:57:05 - Fetching the articles once a hour - Using XML's tp get all article's info 
+14/3/2023 - 21:57:05 - Getting number of categories from Sql
+14/3/2023 - 21:57:05 - Runs Command with single value result
+14/3/2023 - 21:57:05 - Runs Command with single value result
+14/3/2023 - 21:57:05 - Runs Command with single value result
+14/3/2023 - 21:57:05 - Getting Data From DB
+14/3/2023 - 21:57:05 - Getting Data From DB
+14/3/2023 - 21:57:05 - Runs Command with single value result
+14/3/2023 - 21:57:05 - Runs Command with single value result
+14/3/2023 - 21:57:05 - Getting Data From DB
+14/3/2023 - 21:57:05 - Getting Data From DB
+14/3/2023 - 21:57:05 - Runs Command with single value result
+14/3/2023 - 21:57:05 - Runs Command with single value result
+14/3/2023 - 21:57:05 - Getting Data From DB
+14/3/2023 - 21:57:05 - Runs Command with single value result
+14/3/2023 - 21:57:05 - Getting Data From DB
+14/3/2023 - 21:57:05 - Runs Command with single value result
+14/3/2023 - 21:57:05 - Getting Data From DB
+14/3/2023 - 21:57:05 - Runs Command with single value result
+14/3/2023 - 21:57:05 - Getting Data From DB
+14/3/2023 - 21:57:05 - Runs Command with single value result
+14/3/2023 - 21:57:05 - Getting Data From DB
+14/3/2023 - 21:57:05 - Runs Command with single value result
+14/3/2023 - 21:57:05 - Getting Data From DB
+14/3/2023 - 21:57:05 - Runs Command with single value result
+14/3/2023 - 21:57:05 - Getting Data From DB
+14/3/2023 - 21:57:05 - Runs Command with single value result
+14/3/2023 - 21:57:05 - Getting Data From DB
+14/3/2023 - 21:57:05 - Runs Command with single value result
+14/3/2023 - 21:57:05 - Getting Data From DB
+14/3/2023 - 21:57:05 - Runs Command with single value result
+14/3/2023 - 21:57:05 - Getting Data From DB
+14/3/2023 - 21:57:05 - Runs Command with single value result
+14/3/2023 - 21:57:05 - Getting Data From DB
+14/3/2023 - 21:57:05 - Runs Command with single value result
+14/3/2023 - 21:57:05 - Getting Data From DB
+14/3/2023 - 21:57:05 - Runs Command with single value result
+14/3/2023 - 21:57:05 - Getting Data From DB
+14/3/2023 - 21:57:05 - Runs Command with single value result
+14/3/2023 - 21:57:05 - Getting Data From DB
+14/3/2023 - 21:57:05 - Runs Command with single value result
+14/3/2023 - 21:57:05 - Getting Data From DB
+14/3/2023 - 21:57:05 - Runs Command with single value result
+14/3/2023 - 21:57:05 - Getting Data From DB
+14/3/2023 - 21:57:05 - Runs Command with single value result
+14/3/2023 - 21:57:05 - Getting Data From DB
+14/3/2023 - 21:57:05 - Runs Command with single value result
+14/3/2023 - 21:57:05 - Getting Data From DB
+14/3/2023 - 21:57:05 - Runs Command with single value result
+14/3/2023 - 21:57:05 - Getting Data From DB
+14/3/2023 - 21:57:05 - Runs Command with single value result
+14/3/2023 - 21:57:05 - Getting Data From DB
+14/3/2023 - 21:57:05 - Runs Command with single value result
+14/3/2023 - 21:57:05 - Getting Data From DB
+14/3/2023 - 21:57:05 - Runs Command with single value result
+14/3/2023 - 21:57:05 - Getting Data From DB
+14/3/2023 - 21:59:27 - Runs Command with single value result
+14/3/2023 - 21:59:27 - Getting connection string
+14/3/2023 - 21:59:27 - Runs Command with single value result
+14/3/2023 - 21:59:27 - Getting connection string
+14/3/2023 - 21:59:27 - Software has started.
+14/3/2023 - 21:59:27 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+14/3/2023 - 21:59:27 - Runs Command with single value result
+14/3/2023 - 21:59:27 - Getting category links from Sql
+14/3/2023 - 21:59:27 - Getting data from Sql
+14/3/2023 - 21:59:27 - Getting Data From DB
+14/3/2023 - 21:59:27 - Getting Category links from Sql
+14/3/2023 - 21:59:27 - CheckNewestArticleFromDB function has called
+14/3/2023 - 21:59:27 - _GetNewestArticles has been called
+14/3/2023 - 21:59:27 - Getting data from Sql
+14/3/2023 - 21:59:27 - Getting Data From DB
+14/3/2023 - 21:59:27 - Getting newest articles from Sql
+14/3/2023 - 21:59:27 - WallaWebManager has initiallized and calling FetchAndSaveData function
+14/3/2023 - 21:59:27 - Fetching the articles once a hour - Using XML's tp get all article's info 
+14/3/2023 - 21:59:27 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+14/3/2023 - 21:59:27 - Runs Command with single value result
+14/3/2023 - 21:59:27 - Getting number of categories from Sql
+14/3/2023 - 21:59:27 - Runs Command with single value result
+14/3/2023 - 21:59:27 - Getting category links from Sql
+14/3/2023 - 21:59:27 - Getting data from Sql
+14/3/2023 - 21:59:27 - Getting Data From DB
+14/3/2023 - 21:59:27 - Getting Category links from Sql
+14/3/2023 - 21:59:27 - CheckNewestArticleFromDB function has called
+14/3/2023 - 21:59:27 - _GetNewestArticles has been called
+14/3/2023 - 21:59:27 - Getting data from Sql
+14/3/2023 - 21:59:27 - Getting Data From DB
+14/3/2023 - 21:59:27 - Getting newest articles from Sql
+14/3/2023 - 21:59:27 - MaarivWebsiteManager has initiallized and calling FetchAndSaveData function
+14/3/2023 - 21:59:27 - Fetching the articles once a hour - Using XML's tp get all article's info 
+14/3/2023 - 21:59:27 - Getting number of categories from Sql
+14/3/2023 - 21:59:27 - Runs Command with single value result
+14/3/2023 - 21:59:27 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+14/3/2023 - 21:59:27 - Runs Command with single value result
+14/3/2023 - 21:59:27 - Getting category links from Sql
+14/3/2023 - 21:59:27 - Getting data from Sql
+14/3/2023 - 21:59:27 - Getting Data From DB
+14/3/2023 - 21:59:27 - Getting Category links from Sql
+14/3/2023 - 21:59:27 - CheckNewestArticleFromDB function has called
+14/3/2023 - 22:00:23 - Runs Command with single value result
+14/3/2023 - 22:00:23 - Getting connection string
+14/3/2023 - 22:00:23 - Runs Command with single value result
+14/3/2023 - 22:00:23 - Getting connection string
+14/3/2023 - 22:00:23 - Software has started.
+14/3/2023 - 22:00:23 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+14/3/2023 - 22:00:23 - Runs Command with single value result
+14/3/2023 - 22:00:23 - Getting category links from Sql
+14/3/2023 - 22:00:23 - Getting data from Sql
+14/3/2023 - 22:00:23 - Getting Data From DB
+14/3/2023 - 22:00:23 - Getting Category links from Sql
+14/3/2023 - 22:00:23 - CheckNewestArticleFromDB function has called
+14/3/2023 - 22:00:23 - _GetNewestArticles has been called
+14/3/2023 - 22:00:23 - Getting data from Sql
+14/3/2023 - 22:00:23 - Getting Data From DB
+14/3/2023 - 22:00:23 - Getting newest articles from Sql
+14/3/2023 - 22:00:23 - WallaWebManager has initiallized and calling FetchAndSaveData function
+14/3/2023 - 22:00:23 - Fetching the articles once a hour - Using XML's tp get all article's info 
+14/3/2023 - 22:00:23 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+14/3/2023 - 22:00:23 - Runs Command with single value result
+14/3/2023 - 22:00:23 - Getting number of categories from Sql
+14/3/2023 - 22:00:23 - Runs Command with single value result
+14/3/2023 - 22:00:23 - Getting category links from Sql
+14/3/2023 - 22:00:23 - Getting data from Sql
+14/3/2023 - 22:00:23 - Getting Data From DB
+14/3/2023 - 22:00:23 - Getting Category links from Sql
+14/3/2023 - 22:00:23 - CheckNewestArticleFromDB function has called
+14/3/2023 - 22:00:23 - _GetNewestArticles has been called
+14/3/2023 - 22:00:23 - Getting data from Sql
+14/3/2023 - 22:00:23 - Getting Data From DB
+14/3/2023 - 22:00:23 - Getting newest articles from Sql
+14/3/2023 - 22:00:23 - MaarivWebsiteManager has initiallized and calling FetchAndSaveData function
+14/3/2023 - 22:00:23 - Fetching the articles once a hour - Using XML's tp get all article's info 
+14/3/2023 - 22:00:23 - Getting number of categories from Sql
+14/3/2023 - 22:00:23 - Runs Command with single value result
+14/3/2023 - 22:00:23 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+14/3/2023 - 22:00:23 - Runs Command with single value result
+14/3/2023 - 22:00:23 - Getting category links from Sql
+14/3/2023 - 22:00:23 - Getting data from Sql
+14/3/2023 - 22:00:23 - Getting Data From DB
+14/3/2023 - 22:00:23 - Getting Category links from Sql
+14/3/2023 - 22:00:23 - CheckNewestArticleFromDB function has called
+14/3/2023 - 22:00:23 - _GetNewestArticles has been called
+14/3/2023 - 22:00:23 - Getting data from Sql
+14/3/2023 - 22:00:23 - Getting Data From DB
+14/3/2023 - 22:00:23 - Getting newest articles from Sql
+14/3/2023 - 22:00:23 - GlobesWebsiteManager has initiallized and calling FetchAndSaveData function
+14/3/2023 - 22:00:23 - Fetching the articles once a hour - Using XML's tp get all article's info 
+14/3/2023 - 22:00:23 - Getting number of categories from Sql
+14/3/2023 - 22:00:23 - Runs Command with single value result
+14/3/2023 - 22:00:23 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+14/3/2023 - 22:00:23 - Runs Command with single value result
+14/3/2023 - 22:00:23 - Getting category links from Sql
+14/3/2023 - 22:00:23 - Getting data from Sql
+14/3/2023 - 22:00:23 - Getting Data From DB
+14/3/2023 - 22:00:23 - Getting Category links from Sql
+14/3/2023 - 22:00:23 - CheckNewestArticleFromDB function has called
+14/3/2023 - 22:00:23 - _GetNewestArticles has been called
+14/3/2023 - 22:00:23 - Getting data from Sql
+14/3/2023 - 22:00:23 - Getting Data From DB
+14/3/2023 - 22:00:23 - Getting newest articles from Sql
+14/3/2023 - 22:00:23 - YnetWebsiteManager has initiallized and calling FetchAndSaveData function
+14/3/2023 - 22:00:23 - Fetching the articles once a hour - Using XML's tp get all article's info 
+14/3/2023 - 22:00:23 - Getting number of categories from Sql
+14/3/2023 - 22:00:23 - Runs Command with single value result
+14/3/2023 - 22:00:24 - Runs Command with single value result
+14/3/2023 - 22:00:24 - Getting Data From DB
+14/3/2023 - 22:00:24 - Runs Command with single value result
+14/3/2023 - 22:00:24 - Getting Data From DB
+14/3/2023 - 22:00:24 - Runs Command with single value result
+14/3/2023 - 22:00:24 - Getting Data From DB
+14/3/2023 - 22:00:24 - Runs Command with single value result
+14/3/2023 - 22:00:24 - Getting Data From DB
+14/3/2023 - 22:00:24 - Runs Command with single value result
+14/3/2023 - 22:00:24 - Getting Data From DB
+14/3/2023 - 22:00:24 - Runs Command with single value result
+14/3/2023 - 22:00:24 - Getting Data From DB
+14/3/2023 - 22:00:24 - Runs Command with single value result
+14/3/2023 - 22:00:24 - Getting Data From DB
+14/3/2023 - 22:00:24 - Runs Command with single value result
+14/3/2023 - 22:00:24 - Getting Data From DB
+14/3/2023 - 22:00:24 - Runs Command with single value result
+14/3/2023 - 22:00:24 - Getting Data From DB
+14/3/2023 - 22:00:24 - Runs Command with single value result
+14/3/2023 - 22:02:04 - Runs Command with single value result
+14/3/2023 - 22:02:04 - Getting connection string
+14/3/2023 - 22:02:04 - Runs Command with single value result
+14/3/2023 - 22:02:04 - Getting connection string
+14/3/2023 - 22:02:04 - Software has started.
+14/3/2023 - 22:02:04 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+14/3/2023 - 22:02:04 - Runs Command with single value result
+14/3/2023 - 22:02:04 - Getting category links from Sql
+14/3/2023 - 22:02:04 - Getting data from Sql
+14/3/2023 - 22:02:04 - Getting Data From DB
+14/3/2023 - 22:02:04 - Getting Category links from Sql
+14/3/2023 - 22:02:04 - CheckNewestArticleFromDB function has called
+14/3/2023 - 22:02:04 - _GetNewestArticles has been called
+14/3/2023 - 22:02:04 - Getting data from Sql
+14/3/2023 - 22:02:04 - Getting Data From DB
+14/3/2023 - 22:02:04 - Getting newest articles from Sql
+14/3/2023 - 22:02:04 - WallaWebManager has initiallized and calling FetchAndSaveData function
+14/3/2023 - 22:02:04 - Fetching the articles once a hour - Using XML's tp get all article's info 
+14/3/2023 - 22:02:04 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+14/3/2023 - 22:02:04 - Runs Command with single value result
+14/3/2023 - 22:02:04 - Getting number of categories from Sql
+14/3/2023 - 22:02:04 - Runs Command with single value result
+14/3/2023 - 22:02:04 - Getting category links from Sql
+14/3/2023 - 22:02:04 - Getting data from Sql
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Getting Category links from Sql
+14/3/2023 - 22:02:05 - CheckNewestArticleFromDB function has called
+14/3/2023 - 22:02:05 - _GetNewestArticles has been called
+14/3/2023 - 22:02:05 - Getting data from Sql
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Getting newest articles from Sql
+14/3/2023 - 22:02:05 - MaarivWebsiteManager has initiallized and calling FetchAndSaveData function
+14/3/2023 - 22:02:05 - Fetching the articles once a hour - Using XML's tp get all article's info 
+14/3/2023 - 22:02:05 - Getting number of categories from Sql
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting category links from Sql
+14/3/2023 - 22:02:05 - Getting data from Sql
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Getting Category links from Sql
+14/3/2023 - 22:02:05 - CheckNewestArticleFromDB function has called
+14/3/2023 - 22:02:05 - _GetNewestArticles has been called
+14/3/2023 - 22:02:05 - Getting data from Sql
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Getting newest articles from Sql
+14/3/2023 - 22:02:05 - GlobesWebsiteManager has initiallized and calling FetchAndSaveData function
+14/3/2023 - 22:02:05 - Fetching the articles once a hour - Using XML's tp get all article's info 
+14/3/2023 - 22:02:05 - Getting number of categories from Sql
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting category links from Sql
+14/3/2023 - 22:02:05 - Getting data from Sql
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Getting Category links from Sql
+14/3/2023 - 22:02:05 - CheckNewestArticleFromDB function has called
+14/3/2023 - 22:02:05 - _GetNewestArticles has been called
+14/3/2023 - 22:02:05 - Getting data from Sql
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Getting newest articles from Sql
+14/3/2023 - 22:02:05 - YnetWebsiteManager has initiallized and calling FetchAndSaveData function
+14/3/2023 - 22:02:05 - Fetching the articles once a hour - Using XML's tp get all article's info 
+14/3/2023 - 22:02:05 - Getting number of categories from Sql
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:02:05 - Runs Command with single value result
+14/3/2023 - 22:02:05 - Getting Data From DB
+14/3/2023 - 22:06:49 - Runs Command with single value result
+14/3/2023 - 22:06:49 - Getting connection string
+14/3/2023 - 22:06:49 - Runs Command with single value result
+14/3/2023 - 22:06:49 - Getting connection string
+14/3/2023 - 22:06:49 - Software has started.
+14/3/2023 - 22:06:49 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+14/3/2023 - 22:06:49 - Runs Command with single value result
+14/3/2023 - 22:06:49 - Getting category links from Sql
+14/3/2023 - 22:06:49 - Getting data from Sql
+14/3/2023 - 22:06:49 - Getting Data From DB
+14/3/2023 - 22:06:49 - Getting Category links from Sql
+14/3/2023 - 22:06:49 - CheckNewestArticleFromDB function has called
+14/3/2023 - 22:06:49 - _GetNewestArticles has been called
+14/3/2023 - 22:06:49 - Getting data from Sql
+14/3/2023 - 22:06:49 - Getting Data From DB
+14/3/2023 - 22:06:49 - Getting newest articles from Sql
+14/3/2023 - 22:06:49 - WallaWebManager has initiallized and calling FetchAndSaveData function
+14/3/2023 - 22:06:49 - Fetching the articles once a hour - Using XML's tp get all article's info 
+14/3/2023 - 22:06:49 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+14/3/2023 - 22:06:49 - Runs Command with single value result
+14/3/2023 - 22:06:49 - Getting number of categories from Sql
+14/3/2023 - 22:06:49 - Runs Command with single value result
+14/3/2023 - 22:06:49 - Getting category links from Sql
+14/3/2023 - 22:06:49 - Getting data from Sql
+14/3/2023 - 22:06:49 - Getting Data From DB
+14/3/2023 - 22:06:49 - Getting Category links from Sql
+14/3/2023 - 22:06:49 - CheckNewestArticleFromDB function has called
+14/3/2023 - 22:06:49 - _GetNewestArticles has been called
+14/3/2023 - 22:06:49 - Getting data from Sql
+14/3/2023 - 22:06:49 - Getting Data From DB
+14/3/2023 - 22:06:49 - Getting newest articles from Sql
+14/3/2023 - 22:06:49 - MaarivWebsiteManager has initiallized and calling FetchAndSaveData function
+14/3/2023 - 22:06:49 - Fetching the articles once a hour - Using XML's tp get all article's info 
+14/3/2023 - 22:06:49 - Getting number of categories from Sql
+15/3/2023 - 15:54:18 - Runs Command with single value result
+15/3/2023 - 15:54:18 - Getting connection string
+15/3/2023 - 15:54:18 - Runs Command with single value result
+15/3/2023 - 15:54:18 - Getting connection string
+15/3/2023 - 15:54:18 - Software has started.
+15/3/2023 - 15:54:18 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+15/3/2023 - 15:54:18 - Runs Command with single value result
+15/3/2023 - 15:54:18 - Getting category links from Sql
+15/3/2023 - 15:54:18 - Getting data from Sql
+15/3/2023 - 15:54:18 - Getting Data From DB
+15/3/2023 - 15:54:18 - Getting Category links from Sql
+15/3/2023 - 15:54:18 - CheckNewestArticleFromDB function has called
+15/3/2023 - 15:54:18 - _GetNewestArticles has been called
+15/3/2023 - 15:54:18 - Getting data from Sql
+15/3/2023 - 15:54:30 - Getting Data From DB
+15/3/2023 - 15:54:30 - Getting newest articles from Sql
+15/3/2023 - 15:54:30 - WallaWebManager has initiallized and calling FetchAndSaveData function
+15/3/2023 - 15:54:30 - Fetching the articles once a hour - Using XML's tp get all article's info 
+15/3/2023 - 15:54:30 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+15/3/2023 - 15:54:30 - Runs Command with single value result
+15/3/2023 - 15:54:30 - Getting number of categories from Sql
+15/3/2023 - 15:54:30 - Runs Command with single value result
+15/3/2023 - 15:54:30 - Getting category links from Sql
+15/3/2023 - 15:54:30 - Getting data from Sql
+15/3/2023 - 16:07:46 - Runs Command with single value result
+15/3/2023 - 16:07:46 - Getting connection string
+15/3/2023 - 16:07:47 - Runs Command with single value result
+15/3/2023 - 16:07:47 - Getting connection string
+15/3/2023 - 16:07:46 - Software has started.
+15/3/2023 - 16:07:47 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+15/3/2023 - 16:07:47 - Runs Command with single value result
+15/3/2023 - 16:07:47 - Getting connection string
+15/3/2023 - 16:08:00 - Getting category links from Sql
+15/3/2023 - 16:08:00 - Getting data from Sql
+15/3/2023 - 16:08:00 - Getting Data From DB
+15/3/2023 - 16:08:00 - Getting Category links from Sql
+15/3/2023 - 16:08:00 - CheckNewestArticleFromDB function has called
+15/3/2023 - 16:08:00 - _GetNewestArticles has been called
+15/3/2023 - 16:08:00 - Getting data from Sql
+15/3/2023 - 16:08:25 - Getting Data From DB
+15/3/2023 - 16:08:25 - Getting newest articles from Sql
+15/3/2023 - 16:08:25 - WallaWebManager has initiallized and calling FetchAndSaveData function
+15/3/2023 - 16:08:25 - Fetching the articles once a hour - Using XML's tp get all article's info 
+15/3/2023 - 16:08:25 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+15/3/2023 - 16:08:25 - Runs Command with single value result
+15/3/2023 - 16:08:25 - Getting category links from Sql
+15/3/2023 - 16:08:25 - Getting data from Sql
+15/3/2023 - 16:08:25 - Getting number of categories from Sql
+15/3/2023 - 16:08:25 - Runs Command with single value result
+15/3/2023 - 16:08:25 - Getting Data From DB
+15/3/2023 - 16:08:25 - Getting Category links from Sql
+15/3/2023 - 16:08:25 - CheckNewestArticleFromDB function has called
+15/3/2023 - 16:08:25 - _GetNewestArticles has been called
+15/3/2023 - 16:08:25 - Getting data from Sql
+15/3/2023 - 16:08:25 - Getting Data From DB
+15/3/2023 - 16:08:25 - Getting newest articles from Sql
+15/3/2023 - 16:08:25 - MaarivWebsiteManager has initiallized and calling FetchAndSaveData function
+15/3/2023 - 16:08:25 - Fetching the articles once a hour - Using XML's tp get all article's info 
+15/3/2023 - 16:08:25 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+15/3/2023 - 16:08:25 - Runs Command with single value result
+15/3/2023 - 16:08:25 - Getting number of categories from Sql
+15/3/2023 - 16:08:25 - Runs Command with single value result
+15/3/2023 - 16:08:25 - Getting category links from Sql
+15/3/2023 - 16:08:25 - Getting data from Sql
+15/3/2023 - 16:08:25 - Getting Data From DB
+15/3/2023 - 16:08:25 - Getting Category links from Sql
+15/3/2023 - 16:08:25 - CheckNewestArticleFromDB function has called
+15/3/2023 - 16:08:25 - _GetNewestArticles has been called
+15/3/2023 - 16:08:25 - Getting data from Sql
+15/3/2023 - 16:08:25 - Getting Data From DB
+15/3/2023 - 16:08:25 - Getting newest articles from Sql
+15/3/2023 - 16:08:25 - GlobesWebsiteManager has initiallized and calling FetchAndSaveData function
+15/3/2023 - 16:21:29 - Runs Command with single value result
+15/3/2023 - 16:21:29 - Getting connection string
+15/3/2023 - 16:22:04 - Runs Command with single value result
+15/3/2023 - 16:23:05 - Runs Command with single value result
+15/3/2023 - 16:23:05 - Getting connection string
+15/3/2023 - 16:23:07 - Runs Command with single value result
+15/3/2023 - 16:23:07 - Getting connection string
+15/3/2023 - 16:23:05 - Software has started.
+15/3/2023 - 16:23:09 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+15/3/2023 - 16:23:09 - Getting connection string
+15/3/2023 - 16:23:10 - Runs Command with single value result
+15 / 3 / 2023  -  16 : 23:24  -  אירעה שגיאה הקשורה לרשת או שגיאה ספציפית למופע במהלך יצירת חיבור ל- SQL Server. השרת לא נמצא או שאינו נגיש. ודא ששם המופע נכון וש- SQL Server מוגדר לאפשר חיבורים מרחוק. (provider: SQL Network Interfaces, error: 26 - שגיאה באיתור שרת/מופע שצוין) :    ב-  System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   ב-  System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   ב-  System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   ב-  System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   ב-  System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   ב-  System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   ב-  System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   ב-  System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   ב-  System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   ב-  System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   ב-  System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   ב-  System.Data.SqlClient.SqlConnection.Open()
+   ב-  News.DAL.Dal.RunCommandResultSingleValue(String SqlQuery) ב- C:\Users\User\source\Projects\Semester3\NewsProject\Server\News-Proj\News.DAL\Dal.cs:שורה 156
+   ב-  News.Data_SQL.ConfigurationDataSql.GetSingleConfigurationData(String SqlQuey) ב- C:\Users\User\source\Projects\Semester3\NewsProject\Server\News-Proj\News.Data-SQL\ConfigurationDataSql.cs:שורה 15
+15/3/2023 - 16:23:53 - Runs Command with single value result
+15/3/2023 - 16:23:53 - Getting connection string
+15/3/2023 - 16:23:54 - Runs Command with single value result
+15/3/2023 - 16:23:54 - Getting connection string
+15/3/2023 - 16:23:53 - Software has started.
+15/3/2023 - 16:23:54 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+15/3/2023 - 16:23:54 - Getting connection string
+15/3/2023 - 16:23:54 - Runs Command with single value result
+15 / 3 / 2023  -  16 : 24:08  -  אירעה שגיאה הקשורה לרשת או שגיאה ספציפית למופע במהלך יצירת חיבור ל- SQL Server. השרת לא נמצא או שאינו נגיש. ודא ששם המופע נכון וש- SQL Server מוגדר לאפשר חיבורים מרחוק. (provider: SQL Network Interfaces, error: 26 - שגיאה באיתור שרת/מופע שצוין) :    ב-  System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   ב-  System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   ב-  System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   ב-  System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   ב-  System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   ב-  System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   ב-  System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   ב-  System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   ב-  System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   ב-  System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   ב-  System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   ב-  System.Data.SqlClient.SqlConnection.Open()
+   ב-  News.DAL.Dal.RunCommandResultSingleValue(String SqlQuery) ב- C:\Users\User\source\Projects\Semester3\NewsProject\Server\News-Proj\News.DAL\Dal.cs:שורה 156
+   ב-  News.Data_SQL.ConfigurationDataSql.GetSingleConfigurationData(String SqlQuey) ב- C:\Users\User\source\Projects\Semester3\NewsProject\Server\News-Proj\News.Data-SQL\ConfigurationDataSql.cs:שורה 15
+   ב-  News.Entities.WallaWebsiteManager..ctor() ב- C:\Users\User\source\Projects\Semester3\NewsProject\Server\News-Proj\News.Entities\WallaWebsiteManager.cs:שורה 24
+   ב-  News.Entities.WallaWebsiteManager..cctor() ב- C:\Users\User\source\Projects\Semester3\NewsProject\Server\News-Proj\News.Entities\WallaWebsiteManager.cs:שורה 30
+15/3/2023 - 16:25:04 - Runs Command with single value result
+15/3/2023 - 16:25:04 - Getting connection string
+15/3/2023 - 16:25:23 - Runs Command with single value result
+15/3/2023 - 16:25:24 - Getting connection string
+15/3/2023 - 16:24:54 - Software has started.
+15/3/2023 - 16:26:40 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+15/3/2023 - 16:26:40 - Getting connection string
+15/3/2023 - 16:26:52 - Runs Command with single value result
+15/3/2023 - 16:28:25 - Runs Command with single value result
+15/3/2023 - 16:28:25 - Getting connection string
+15/3/2023 - 16:28:39 - Runs Command with single value result
+15/3/2023 - 16:28:39 - Getting connection string
+15/3/2023 - 16:28:15 - Software has started.
+15/3/2023 - 16:29:02 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+15/3/2023 - 16:29:02 - Getting connection string
+15/3/2023 - 16:29:12 - Runs Command with single value result
+15/3/2023 - 16:32:25 - Runs Command with single value result
+15/3/2023 - 16:32:25 - Getting connection string
+15/3/2023 - 16:32:25 - Runs Command with single value result
+15/3/2023 - 16:32:25 - Getting connection string
+15/3/2023 - 16:32:25 - Software has started.
+15/3/2023 - 16:32:25 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+15/3/2023 - 16:32:25 - Getting connection string
+15/3/2023 - 16:32:25 - Runs Command with single value result
+15 / 3 / 2023  -  16 : 32:40  -  אירעה שגיאה הקשורה לרשת או שגיאה ספציפית למופע במהלך יצירת חיבור ל- SQL Server. השרת לא נמצא או שאינו נגיש. ודא ששם המופע נכון וש- SQL Server מוגדר לאפשר חיבורים מרחוק. (provider: SQL Network Interfaces, error: 26 - שגיאה באיתור שרת/מופע שצוין) :    ב-  System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   ב-  System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   ב-  System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   ב-  System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   ב-  System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   ב-  System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   ב-  System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   ב-  System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   ב-  System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   ב-  System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   ב-  System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   ב-  System.Data.SqlClient.SqlConnection.Open()
+   ב-  News.DAL.Dal.RunCommandResultSingleValue(String SqlQuery) ב- C:\Users\User\source\Projects\Semester3\NewsProject\Server\News-Proj\News.DAL\Dal.cs:שורה 156
+   ב-  News.Data_SQL.ConfigurationDataSql.GetSingleConfigurationData(String SqlQuey) ב- C:\Users\User\source\Projects\Semester3\NewsProject\Server\News-Proj\News.Data-SQL\ConfigurationDataSql.cs:שורה 15
+   ב-  News.Entities.WallaWebsiteManager..ctor() ב- C:\Users\User\source\Projects\Semester3\NewsProject\Server\News-Proj\News.Entities\WallaWebsiteManager.cs:שורה 24
+   ב-  News.Entities.WallaWebsiteManager..cctor() ב- C:\Users\User\source\Projects\Semester3\NewsProject\Server\News-Proj\News.Entities\WallaWebsiteManager.cs:שורה 30
+15/3/2023 - 16:33:33 - Runs Command with single value result
+15/3/2023 - 16:33:33 - Getting connection string
+15/3/2023 - 16:33:34 - Runs Command with single value result
+15/3/2023 - 16:33:34 - Getting connection string
+15/3/2023 - 16:33:33 - Software has started.
+15/3/2023 - 16:33:34 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+15/3/2023 - 16:33:34 - Getting connection string
+15/3/2023 - 16:33:34 - Runs Command with single value result
+15 / 3 / 2023  -  16 : 33:49  -  אירעה שגיאה הקשורה לרשת או שגיאה ספציפית למופע במהלך יצירת חיבור ל- SQL Server. השרת לא נמצא או שאינו נגיש. ודא ששם המופע נכון וש- SQL Server מוגדר לאפשר חיבורים מרחוק. (provider: SQL Network Interfaces, error: 26 - שגיאה באיתור שרת/מופע שצוין) :    ב-  System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   ב-  System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   ב-  System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   ב-  System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   ב-  System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   ב-  System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   ב-  System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   ב-  System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   ב-  System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   ב-  System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   ב-  System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   ב-  System.Data.SqlClient.SqlConnection.Open()
+   ב-  News.DAL.Dal.RunCommandResultSingleValue(String SqlQuery) ב- C:\Users\User\source\Projects\Semester3\NewsProject\Server\News-Proj\News.DAL\Dal.cs:שורה 156
+   ב-  News.Data_SQL.ConfigurationDataSql.GetSingleConfigurationData(String SqlQuey) ב- C:\Users\User\source\Projects\Semester3\NewsProject\Server\News-Proj\News.Data-SQL\ConfigurationDataSql.cs:שורה 15
+   ב-  News.Entities.WallaWebsiteManager..ctor() ב- C:\Users\User\source\Projects\Semester3\NewsProject\Server\News-Proj\News.Entities\WallaWebsiteManager.cs:שורה 24
+   ב-  News.Entities.WallaWebsiteManager..cctor() ב- C:\Users\User\source\Projects\Semester3\NewsProject\Server\News-Proj\News.Entities\WallaWebsiteManager.cs:שורה 30
+15/3/2023 - 16:34:09 - Runs Command with single value result
+15/3/2023 - 16:34:09 - Getting connection string
+15/3/2023 - 16:34:21 - Runs Command with single value result
+15/3/2023 - 16:34:21 - Getting connection string
+15/3/2023 - 16:34:05 - Software has started.
+15/3/2023 - 16:36:24 - Runs Command with single value result
+15/3/2023 - 16:40:20 - Runs Command with single value result
+15/3/2023 - 17:33:26 - Runs Command with single value result
+15/3/2023 - 17:33:26 - Getting connection string
+15/3/2023 - 17:33:36 - Runs Command with single value result
+15/3/2023 - 17:33:36 - Getting connection string
+15/3/2023 - 17:33:26 - Software has started.
+15/3/2023 - 17:33:39 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+15/3/2023 - 17:33:39 - Runs Command with single value result
+15/3/2023 - 17:33:39 - Getting connection string
+15/3/2023 - 17:33:42 - Getting category links from Sql
+15/3/2023 - 17:33:42 - Getting data from Sql
+15/3/2023 - 17:33:45 - Getting Data From DB
+15/3/2023 - 17:33:45 - Getting Category links from Sql
+15/3/2023 - 17:33:45 - CheckNewestArticleFromDB function has called
+15/3/2023 - 17:33:45 - _GetNewestArticles has been called
+15/3/2023 - 17:33:45 - Getting data from Sql
+15/3/2023 - 17:33:45 - Getting Data From DB
+15/3/2023 - 17:33:45 - Getting newest articles from Sql
+15/3/2023 - 17:33:45 - WallaWebManager has initiallized and calling FetchAndSaveData function
+15/3/2023 - 17:33:45 - Fetching the articles once a hour - Using XML's tp get all article's info 
+15/3/2023 - 17:33:45 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+15/3/2023 - 17:33:45 - Runs Command with single value result
+15/3/2023 - 17:33:45 - Getting category links from Sql
+15/3/2023 - 17:33:45 - Getting data from Sql
+15/3/2023 - 17:33:45 - Getting number of categories from Sql
+15/3/2023 - 17:33:45 - Runs Command with single value result
+15/3/2023 - 17:33:45 - Getting Data From DB
+15/3/2023 - 17:33:45 - Getting Category links from Sql
+15/3/2023 - 17:33:45 - CheckNewestArticleFromDB function has called
+15/3/2023 - 17:33:45 - _GetNewestArticles has been called
+15/3/2023 - 17:33:45 - Getting data from Sql
+15/3/2023 - 17:33:45 - Getting Data From DB
+15/3/2023 - 17:33:45 - Getting newest articles from Sql
+15/3/2023 - 17:33:45 - MaarivWebsiteManager has initiallized and calling FetchAndSaveData function
+15/3/2023 - 17:33:45 - Fetching the articles once a hour - Using XML's tp get all article's info 
+15/3/2023 - 17:33:45 - Getting number of categories from Sql
+15/3/2023 - 17:33:45 - Runs Command with single value result
+15/3/2023 - 17:33:45 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+15/3/2023 - 17:33:45 - Runs Command with single value result
+15/3/2023 - 17:33:45 - Getting category links from Sql
+15/3/2023 - 17:33:45 - Getting data from Sql
+15/3/2023 - 17:33:45 - Getting Data From DB
+15/3/2023 - 17:33:45 - Getting Category links from Sql
+15/3/2023 - 17:33:45 - CheckNewestArticleFromDB function has called
+15/3/2023 - 17:33:45 - _GetNewestArticles has been called
+15/3/2023 - 17:33:45 - Getting data from Sql
+15/3/2023 - 17:33:45 - Getting Data From DB
+15/3/2023 - 17:33:45 - Getting newest articles from Sql
+15/3/2023 - 17:33:45 - GlobesWebsiteManager has initiallized and calling FetchAndSaveData function
+15/3/2023 - 17:33:45 - Fetching the articles once a hour - Using XML's tp get all article's info 
+15/3/2023 - 17:33:45 - Getting number of categories from Sql
+15/3/2023 - 17:33:45 - Runs Command with single value result
+15/3/2023 - 17:33:45 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+15/3/2023 - 17:33:45 - Runs Command with single value result
+15/3/2023 - 17:33:45 - Getting category links from Sql
+15/3/2023 - 17:33:45 - Getting data from Sql
+15/3/2023 - 17:33:45 - Getting Data From DB
+15/3/2023 - 17:33:45 - Getting Category links from Sql
+15/3/2023 - 17:33:45 - CheckNewestArticleFromDB function has called
+15/3/2023 - 17:33:45 - _GetNewestArticles has been called
+15/3/2023 - 17:33:45 - Getting data from Sql
+15/3/2023 - 17:33:45 - Getting Data From DB
+15/3/2023 - 17:33:45 - Getting newest articles from Sql
+15/3/2023 - 17:33:45 - YnetWebsiteManager has initiallized and calling FetchAndSaveData function
+15/3/2023 - 17:33:45 - Fetching the articles once a hour - Using XML's tp get all article's info 
+15/3/2023 - 17:33:45 - Getting number of categories from Sql
+15/3/2023 - 17:33:45 - Runs Command with single value result
+15/3/2023 - 17:33:46 - Runs Command with single value result
+15/3/2023 - 17:33:49 - Getting Data From DB
+15/3/2023 - 17:33:49 - Runs Command with single value result
+15/3/2023 - 17:33:49 - Getting Data From DB
+15/3/2023 - 17:33:49 - Runs Command with single value result
+15/3/2023 - 17:33:49 - Getting Data From DB
+15/3/2023 - 17:33:49 - Runs Command with single value result
+15/3/2023 - 17:33:49 - Runs Command with single value result
+15/3/2023 - 17:33:49 - Getting Data From DB
+15/3/2023 - 17:33:49 - Runs Command with single value result
+15/3/2023 - 17:33:49 - Getting Data From DB
+15/3/2023 - 17:33:49 - Runs Command with single value result
+15/3/2023 - 17:33:49 - Getting Data From DB
+15/3/2023 - 17:33:49 - Runs Command with single value result
+15/3/2023 - 17:33:49 - Getting Data From DB
+15/3/2023 - 17:33:49 - Runs Command with single value result
+15/3/2023 - 17:33:49 - Getting Data From DB
+15/3/2023 - 17:33:49 - Getting Data From DB
+15/3/2023 - 17:33:49 - Runs Command with single value result
+15/3/2023 - 17:33:49 - Runs Command with single value result
+15/3/2023 - 17:33:49 - Getting Data From DB
+15/3/2023 - 17:33:49 - Getting Data From DB
+15/3/2023 - 17:33:49 - Runs Command with single value result
+15/3/2023 - 17:33:49 - Runs Command with single value result
+15/3/2023 - 17:33:49 - Getting Data From DB
+15/3/2023 - 17:33:49 - Getting Data From DB
+15/3/2023 - 17:33:49 - Runs Command with single value result
+15/3/2023 - 17:33:49 - Runs Command with single value result
+15/3/2023 - 17:33:49 - Getting Data From DB
+15/3/2023 - 17:33:49 - Runs Command with single value result
+15/3/2023 - 17:33:49 - Getting Data From DB
+15/3/2023 - 17:33:49 - Runs Command with single value result
+15/3/2023 - 17:33:49 - Getting Data From DB
+15/3/2023 - 17:33:49 - Runs Command with single value result
+15/3/2023 - 17:33:49 - Getting Data From DB
+15/3/2023 - 17:33:49 - Runs Command with single value result
+15/3/2023 - 17:33:49 - Getting Data From DB
+15/3/2023 - 17:33:49 - Runs Command with single value result
+15/3/2023 - 17:33:49 - Getting Data From DB
+15/3/2023 - 17:33:49 - Runs Command with single value result
+15/3/2023 - 17:33:49 - Getting Data From DB
+15/3/2023 - 17:33:49 - Runs Command with single value result
+15/3/2023 - 17:33:49 - Getting Data From DB
+15/3/2023 - 17:33:49 - Runs Command with single value result
+15/3/2023 - 17:33:49 - Getting Data From DB
+15/3/2023 - 17:33:49 - Runs Command with single value result
+15/3/2023 - 17:33:49 - Getting Data From DB
+15/3/2023 - 17:33:49 - Runs Command with single value result
+15/3/2023 - 17:33:49 - Getting Data From DB

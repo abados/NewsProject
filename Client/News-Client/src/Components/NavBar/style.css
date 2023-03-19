@@ -1,0 +1,31 @@
+* {
+  margin: 0 auto;
+}
+
+a {
+  margin-top: 10px;
+  color: black !important;
+  display: flex;
+  flex-direction: column;
+  text-decoration: none !important;
+}
+
+a:hover {
+  color: white !important;
+}
+
+ul {
+  display: flex;
+  align-items: center;
+  margin-left: 10%;
+  list-style-type: none;
+}
+
+li {
+  margin-left: 10px;
+}
+
+.NavBar-bg {
+  height: 80px;
+  background-color: #2e86ab;
+}

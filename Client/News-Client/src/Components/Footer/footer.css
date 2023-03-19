@@ -1,0 +1,17 @@
+.footer {
+  display: flex;
+  position: fixed;
+  bottom: 0;
+  z-index: 1;
+  align-items: center;
+  justify-content: center;
+  height: 40px;
+  width: 100vw;
+  background-color: #2e86ab;
+  color: white;
+}
+
+img {
+  height: 20px;
+  width: 20px;
+}

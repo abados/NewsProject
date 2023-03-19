@@ -1,0 +1,40 @@
+.my-card {
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: center;
+  align-items: center;
+  height: 140px !important;
+  width: 160px;
+}
+
+.text {
+  font-size: small;
+  text-align: center;
+  align-self: center;
+}
+
+.my-switch {
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: center;
+  align-items: center;
+  padding: 0 !important;
+}
+
+.input {
+  margin-left: 8px !important;
+}
+
+.my-img {
+  width: 159px !important;
+  height: 100px;
+}
+
+.my-card-body {
+  display: flex;
+  flex-direction: column;
+  border-radius: 8px;
+  margin: 20px;
+  padding: 0 !important;
+  background-color: rgb(21, 208, 218);
+}
