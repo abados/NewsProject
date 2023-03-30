@@ -1637,3 +1637,960 @@
 15/3/2023 - 17:33:49 - Getting Data From DB
 15/3/2023 - 17:33:49 - Runs Command with single value result
 15/3/2023 - 17:33:49 - Getting Data From DB
+30/3/2023 - 08:34:26 - Runs Command with single value result
+30/3/2023 - 08:34:26 - Getting connection string
+30/3/2023 - 08:34:27 - Runs Command with single value result
+30/3/2023 - 08:34:27 - Getting connection string
+30/3/2023 - 08:34:26 - Software has started.
+30/3/2023 - 08:34:27 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+30/3/2023 - 08:34:27 - Runs Command with single value result
+30/3/2023 - 08:34:27 - Getting connection string
+30/3/2023 - 08:34:27 - Getting category links from Sql
+30/3/2023 - 08:34:27 - Getting data from Sql
+30/3/2023 - 08:34:27 - Getting Data From DB
+30/3/2023 - 08:34:27 - Getting Category links from Sql
+30/3/2023 - 08:34:27 - CheckNewestArticleFromDB function has called
+30/3/2023 - 08:34:27 - _GetNewestArticles has been called
+30/3/2023 - 08:34:27 - Getting data from Sql
+30/3/2023 - 08:34:53 - Getting Data From DB
+30/3/2023 - 08:34:53 - Getting newest articles from Sql
+30/3/2023 - 08:34:53 - WallaWebManager has initiallized and calling FetchAndSaveData function
+30/3/2023 - 08:34:53 - Fetching the articles once a hour - Using XML's tp get all article's info 
+30/3/2023 - 08:34:53 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+30/3/2023 - 08:34:53 - Runs Command with single value result
+30/3/2023 - 08:34:53 - Getting number of categories from Sql
+30/3/2023 - 08:34:53 - Runs Command with single value result
+30/3/2023 - 08:34:53 - Getting category links from Sql
+30/3/2023 - 08:34:53 - Getting data from Sql
+30/3/2023 - 08:34:53 - Getting Data From DB
+30/3/2023 - 08:34:53 - Getting Category links from Sql
+30/3/2023 - 08:34:53 - CheckNewestArticleFromDB function has called
+30/3/2023 - 08:34:53 - _GetNewestArticles has been called
+30/3/2023 - 08:34:53 - Getting data from Sql
+30/3/2023 - 08:34:53 - Getting Data From DB
+30/3/2023 - 08:34:53 - Getting newest articles from Sql
+30/3/2023 - 08:34:53 - MaarivWebsiteManager has initiallized and calling FetchAndSaveData function
+30/3/2023 - 08:34:53 - Fetching the articles once a hour - Using XML's tp get all article's info 
+30/3/2023 - 08:34:53 - Getting number of categories from Sql
+30/3/2023 - 08:34:53 - Runs Command with single value result
+30/3/2023 - 08:34:53 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+30/3/2023 - 08:34:53 - Runs Command with single value result
+30/3/2023 - 08:34:53 - Getting category links from Sql
+30/3/2023 - 08:34:53 - Getting data from Sql
+30/3/2023 - 08:34:53 - Getting Data From DB
+30/3/2023 - 08:34:53 - Getting Category links from Sql
+30/3/2023 - 08:34:53 - CheckNewestArticleFromDB function has called
+30/3/2023 - 08:34:53 - _GetNewestArticles has been called
+30/3/2023 - 08:34:53 - Getting data from Sql
+30/3/2023 - 08:34:53 - Getting Data From DB
+30/3/2023 - 08:34:53 - Getting newest articles from Sql
+30/3/2023 - 08:34:53 - GlobesWebsiteManager has initiallized and calling FetchAndSaveData function
+30/3/2023 - 08:34:53 - Fetching the articles once a hour - Using XML's tp get all article's info 
+30/3/2023 - 08:34:53 - Getting number of categories from Sql
+30/3/2023 - 08:34:53 - Runs Command with single value result
+30/3/2023 - 08:34:53 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+30/3/2023 - 08:34:53 - Runs Command with single value result
+30/3/2023 - 08:47:03 - Runs Command with single value result
+30/3/2023 - 08:47:03 - Getting connection string
+30/3/2023 - 08:47:03 - Runs Command with single value result
+30/3/2023 - 08:47:03 - Getting connection string
+30/3/2023 - 08:47:03 - Software has started.
+30/3/2023 - 08:47:03 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+30/3/2023 - 08:47:03 - Runs Command with single value result
+30/3/2023 - 08:47:03 - Getting connection string
+30/3/2023 - 08:47:03 - Getting category links from Sql
+30/3/2023 - 08:47:03 - Getting data from Sql
+30/3/2023 - 08:47:03 - Getting Data From DB
+30/3/2023 - 08:47:03 - Getting Category links from Sql
+30/3/2023 - 08:47:03 - CheckNewestArticleFromDB function has called
+30/3/2023 - 08:47:03 - _GetNewestArticles has been called
+30/3/2023 - 08:47:03 - Getting data from Sql
+30/3/2023 - 08:47:28 - Getting Data From DB
+30/3/2023 - 08:47:28 - Getting newest articles from Sql
+30/3/2023 - 08:47:28 - WallaWebManager has initiallized and calling FetchAndSaveData function
+30/3/2023 - 08:47:28 - Fetching the articles once a hour - Using XML's tp get all article's info 
+30/3/2023 - 08:47:28 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+30/3/2023 - 08:47:28 - Runs Command with single value result
+30/3/2023 - 08:47:28 - Getting number of categories from Sql
+30/3/2023 - 08:47:28 - Runs Command with single value result
+30/3/2023 - 08:47:28 - Getting category links from Sql
+30/3/2023 - 08:47:28 - Getting data from Sql
+30/3/2023 - 08:47:28 - Getting Data From DB
+30/3/2023 - 08:47:28 - Getting Category links from Sql
+30/3/2023 - 08:47:28 - CheckNewestArticleFromDB function has called
+30/3/2023 - 08:47:28 - _GetNewestArticles has been called
+30/3/2023 - 08:47:28 - Getting data from Sql
+30/3/2023 - 08:47:28 - Getting Data From DB
+30/3/2023 - 08:47:28 - Getting newest articles from Sql
+30/3/2023 - 08:47:28 - MaarivWebsiteManager has initiallized and calling FetchAndSaveData function
+30/3/2023 - 08:47:28 - Fetching the articles once a hour - Using XML's tp get all article's info 
+30/3/2023 - 08:47:28 - Getting number of categories from Sql
+30/3/2023 - 08:47:28 - Runs Command with single value result
+30/3/2023 - 08:47:28 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+30/3/2023 - 08:47:28 - Runs Command with single value result
+30/3/2023 - 08:47:28 - Getting category links from Sql
+30/3/2023 - 08:47:28 - Getting data from Sql
+30/3/2023 - 08:47:28 - Getting Data From DB
+30/3/2023 - 08:47:28 - Getting Category links from Sql
+30/3/2023 - 08:47:28 - CheckNewestArticleFromDB function has called
+30/3/2023 - 08:47:28 - _GetNewestArticles has been called
+30/3/2023 - 08:47:28 - Getting data from Sql
+30/3/2023 - 08:47:28 - Getting Data From DB
+30/3/2023 - 08:47:28 - Getting newest articles from Sql
+30/3/2023 - 08:47:28 - GlobesWebsiteManager has initiallized and calling FetchAndSaveData function
+30/3/2023 - 08:47:28 - Fetching the articles once a hour - Using XML's tp get all article's info 
+30/3/2023 - 08:47:28 - Getting number of categories from Sql
+30/3/2023 - 08:47:28 - Runs Command with single value result
+30/3/2023 - 08:47:28 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+30/3/2023 - 08:47:28 - Runs Command with single value result
+30/3/2023 - 08:47:28 - Getting category links from Sql
+30/3/2023 - 08:47:28 - Getting data from Sql
+30/3/2023 - 08:47:28 - Getting Data From DB
+30/3/2023 - 08:47:28 - Getting Category links from Sql
+30/3/2023 - 08:47:28 - CheckNewestArticleFromDB function has called
+30/3/2023 - 08:47:28 - _GetNewestArticles has been called
+30/3/2023 - 08:47:28 - Getting data from Sql
+30/3/2023 - 08:47:30 - Runs Command with single value result
+30/3/2023 - 08:47:30 - Getting Data From DB
+30/3/2023 - 08:47:30 - Runs Command with single value result
+30/3/2023 - 08:47:30 - Getting Data From DB
+30/3/2023 - 08:47:30 - Runs Command with single value result
+30/3/2023 - 08:47:30 - Getting Data From DB
+30/3/2023 - 08:47:30 - Runs Command with single value result
+30/3/2023 - 08:47:30 - Getting Data From DB
+30/3/2023 - 08:48:49 - Runs Command with single value result
+30/3/2023 - 08:48:49 - Getting connection string
+30/3/2023 - 08:48:49 - Runs Command with single value result
+30/3/2023 - 08:48:49 - Getting connection string
+30/3/2023 - 08:48:48 - Software has started.
+30/3/2023 - 08:48:49 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+30/3/2023 - 08:48:49 - Runs Command with single value result
+30/3/2023 - 08:48:49 - Getting connection string
+30/3/2023 - 08:48:49 - Getting category links from Sql
+30/3/2023 - 08:48:49 - Getting data from Sql
+30/3/2023 - 08:48:49 - Getting Data From DB
+30/3/2023 - 08:48:49 - Getting Category links from Sql
+30/3/2023 - 08:48:49 - CheckNewestArticleFromDB function has called
+30/3/2023 - 08:48:49 - _GetNewestArticles has been called
+30/3/2023 - 08:48:49 - Getting data from Sql
+30/3/2023 - 08:48:49 - Getting Data From DB
+30/3/2023 - 08:48:49 - Getting newest articles from Sql
+30/3/2023 - 08:48:49 - WallaWebManager has initiallized and calling FetchAndSaveData function
+30/3/2023 - 08:48:49 - Fetching the articles once a hour - Using XML's tp get all article's info 
+30/3/2023 - 08:48:49 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+30/3/2023 - 08:48:49 - Runs Command with single value result
+30/3/2023 - 08:48:49 - Getting category links from Sql
+30/3/2023 - 08:48:49 - Getting data from Sql
+30/3/2023 - 08:48:49 - Getting number of categories from Sql
+30/3/2023 - 08:48:49 - Runs Command with single value result
+30/3/2023 - 08:48:49 - Getting Data From DB
+30/3/2023 - 08:48:49 - Getting Category links from Sql
+30/3/2023 - 08:48:49 - CheckNewestArticleFromDB function has called
+30/3/2023 - 08:48:49 - _GetNewestArticles has been called
+30/3/2023 - 08:48:49 - Getting data from Sql
+30/3/2023 - 08:48:49 - Getting Data From DB
+30/3/2023 - 08:48:49 - Getting newest articles from Sql
+30/3/2023 - 08:48:49 - MaarivWebsiteManager has initiallized and calling FetchAndSaveData function
+30/3/2023 - 08:48:49 - Fetching the articles once a hour - Using XML's tp get all article's info 
+30/3/2023 - 08:48:49 - Getting number of categories from Sql
+30/3/2023 - 08:48:49 - Runs Command with single value result
+30/3/2023 - 08:48:49 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+30/3/2023 - 08:48:49 - Runs Command with single value result
+30/3/2023 - 08:48:49 - Getting category links from Sql
+30/3/2023 - 08:48:49 - Getting data from Sql
+30/3/2023 - 08:48:49 - Getting Data From DB
+30/3/2023 - 08:49:35 - Runs Command with single value result
+30/3/2023 - 08:49:35 - Getting connection string
+30/3/2023 - 08:49:35 - Runs Command with single value result
+30/3/2023 - 08:49:35 - Getting connection string
+30/3/2023 - 08:49:35 - Software has started.
+30/3/2023 - 08:49:35 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+30/3/2023 - 08:49:35 - Runs Command with single value result
+30/3/2023 - 08:49:35 - Getting connection string
+30/3/2023 - 08:49:36 - Getting category links from Sql
+30/3/2023 - 08:49:36 - Getting data from Sql
+30/3/2023 - 08:49:36 - Getting Data From DB
+30/3/2023 - 08:49:36 - Getting Category links from Sql
+30/3/2023 - 08:49:36 - CheckNewestArticleFromDB function has called
+30/3/2023 - 08:53:27 - Runs Command with single value result
+30/3/2023 - 08:53:27 - Getting connection string
+30/3/2023 - 08:53:27 - Runs Command with single value result
+30/3/2023 - 08:53:27 - Getting connection string
+30/3/2023 - 08:53:27 - Software has started.
+30/3/2023 - 08:53:27 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+30/3/2023 - 08:53:27 - Runs Command with single value result
+30/3/2023 - 08:53:27 - Getting connection string
+30/3/2023 - 08:53:27 - Getting category links from Sql
+30/3/2023 - 08:53:27 - Getting data from Sql
+30/3/2023 - 08:53:27 - Getting Data From DB
+30/3/2023 - 08:53:27 - Getting Category links from Sql
+30/3/2023 - 08:53:27 - CheckNewestArticleFromDB function has called
+30/3/2023 - 08:53:27 - _GetNewestArticles has been called
+30/3/2023 - 08:53:27 - Getting data from Sql
+30/3/2023 - 08:53:52 - Getting Data From DB
+30/3/2023 - 08:53:52 - Getting newest articles from Sql
+30/3/2023 - 08:53:52 - WallaWebManager has initiallized and calling FetchAndSaveData function
+30/3/2023 - 08:53:52 - Fetching the articles once a hour - Using XML's tp get all article's info 
+30/3/2023 - 08:53:52 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+30/3/2023 - 08:53:52 - Runs Command with single value result
+30/3/2023 - 08:53:52 - Getting number of categories from Sql
+30/3/2023 - 08:53:52 - Runs Command with single value result
+30/3/2023 - 08:53:52 - Getting category links from Sql
+30/3/2023 - 08:53:52 - Getting data from Sql
+30/3/2023 - 08:53:52 - Getting Data From DB
+30/3/2023 - 08:53:52 - Getting Category links from Sql
+30/3/2023 - 08:53:52 - CheckNewestArticleFromDB function has called
+30/3/2023 - 08:53:52 - _GetNewestArticles has been called
+30/3/2023 - 08:53:52 - Getting data from Sql
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Getting newest articles from Sql
+30/3/2023 - 08:53:53 - MaarivWebsiteManager has initiallized and calling FetchAndSaveData function
+30/3/2023 - 08:53:53 - Fetching the articles once a hour - Using XML's tp get all article's info 
+30/3/2023 - 08:53:53 - Getting number of categories from Sql
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting category links from Sql
+30/3/2023 - 08:53:53 - Getting data from Sql
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Getting Category links from Sql
+30/3/2023 - 08:53:53 - CheckNewestArticleFromDB function has called
+30/3/2023 - 08:53:53 - _GetNewestArticles has been called
+30/3/2023 - 08:53:53 - Getting data from Sql
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Getting newest articles from Sql
+30/3/2023 - 08:53:53 - GlobesWebsiteManager has initiallized and calling FetchAndSaveData function
+30/3/2023 - 08:53:53 - Fetching the articles once a hour - Using XML's tp get all article's info 
+30/3/2023 - 08:53:53 - Getting number of categories from Sql
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting category links from Sql
+30/3/2023 - 08:53:53 - Getting data from Sql
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Getting Category links from Sql
+30/3/2023 - 08:53:53 - CheckNewestArticleFromDB function has called
+30/3/2023 - 08:53:53 - _GetNewestArticles has been called
+30/3/2023 - 08:53:53 - Getting data from Sql
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:53:53 - Getting Data From DB
+30/3/2023 - 08:53:53 - Runs Command with single value result
+30/3/2023 - 08:56:59 - Runs Command with single value result
+30/3/2023 - 08:56:59 - Getting connection string
+30/3/2023 - 08:56:59 - Runs Command with single value result
+30/3/2023 - 08:56:59 - Getting connection string
+30/3/2023 - 08:56:59 - Software has started.
+30/3/2023 - 08:57:01 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+30/3/2023 - 08:57:01 - Runs Command with single value result
+30/3/2023 - 08:57:01 - Getting connection string
+30/3/2023 - 08:57:01 - Getting category links from Sql
+30/3/2023 - 08:57:01 - Getting data from Sql
+30/3/2023 - 08:57:01 - Getting Data From DB
+30/3/2023 - 08:57:01 - Getting Category links from Sql
+30/3/2023 - 08:57:01 - CheckNewestArticleFromDB function has called
+30/3/2023 - 08:57:01 - _GetNewestArticles has been called
+30/3/2023 - 08:57:01 - Getting data from Sql
+30/3/2023 - 08:57:01 - Getting Data From DB
+30/3/2023 - 08:57:01 - Getting newest articles from Sql
+30/3/2023 - 08:57:01 - WallaWebManager has initiallized and calling FetchAndSaveData function
+30/3/2023 - 08:57:01 - Fetching the articles once a hour - Using XML's tp get all article's info 
+30/3/2023 - 08:57:01 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+30/3/2023 - 08:57:01 - Runs Command with single value result
+30/3/2023 - 08:57:01 - Getting number of categories from Sql
+30/3/2023 - 08:57:01 - Runs Command with single value result
+30/3/2023 - 08:57:01 - Getting category links from Sql
+30/3/2023 - 08:57:01 - Getting data from Sql
+30/3/2023 - 08:57:01 - Getting Data From DB
+30/3/2023 - 08:57:01 - Getting Category links from Sql
+30/3/2023 - 08:57:01 - CheckNewestArticleFromDB function has called
+30/3/2023 - 08:57:01 - _GetNewestArticles has been called
+30/3/2023 - 08:57:01 - Getting data from Sql
+30/3/2023 - 08:57:01 - Getting Data From DB
+30/3/2023 - 08:57:01 - Getting newest articles from Sql
+30/3/2023 - 08:57:01 - MaarivWebsiteManager has initiallized and calling FetchAndSaveData function
+30/3/2023 - 08:57:01 - Fetching the articles once a hour - Using XML's tp get all article's info 
+30/3/2023 - 08:57:02 - Getting number of categories from Sql
+30/3/2023 - 08:57:02 - Runs Command with single value result
+30/3/2023 - 08:57:02 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+30/3/2023 - 08:57:02 - Runs Command with single value result
+30/3/2023 - 08:57:02 - Getting category links from Sql
+30/3/2023 - 08:57:02 - Getting data from Sql
+30/3/2023 - 08:57:02 - Getting Data From DB
+30/3/2023 - 08:57:02 - Getting Category links from Sql
+30/3/2023 - 08:57:02 - CheckNewestArticleFromDB function has called
+30/3/2023 - 08:57:02 - _GetNewestArticles has been called
+30/3/2023 - 08:57:02 - Getting data from Sql
+30/3/2023 - 08:57:02 - Getting Data From DB
+30/3/2023 - 08:57:02 - Getting newest articles from Sql
+30/3/2023 - 08:57:02 - GlobesWebsiteManager has initiallized and calling FetchAndSaveData function
+30/3/2023 - 08:57:02 - Fetching the articles once a hour - Using XML's tp get all article's info 
+30/3/2023 - 08:57:03 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+30/3/2023 - 08:57:03 - Runs Command with single value result
+30/3/2023 - 08:57:03 - Getting number of categories from Sql
+30/3/2023 - 08:57:03 - Runs Command with single value result
+30/3/2023 - 08:57:03 - Getting category links from Sql
+30/3/2023 - 08:57:03 - Getting data from Sql
+30/3/2023 - 08:57:03 - Getting Data From DB
+30/3/2023 - 08:57:03 - Getting Category links from Sql
+30/3/2023 - 08:57:03 - CheckNewestArticleFromDB function has called
+30/3/2023 - 08:57:03 - _GetNewestArticles has been called
+30/3/2023 - 08:57:03 - Getting data from Sql
+30/3/2023 - 08:57:03 - Getting Data From DB
+30/3/2023 - 08:57:03 - Getting newest articles from Sql
+30/3/2023 - 08:57:03 - YnetWebsiteManager has initiallized and calling FetchAndSaveData function
+30/3/2023 - 08:57:03 - Fetching the articles once a hour - Using XML's tp get all article's info 
+30/3/2023 - 08:57:04 - Getting number of categories from Sql
+30/3/2023 - 08:57:04 - Runs Command with single value result
+30/3/2023 - 08:57:11 - Runs Command with single value result
+30/3/2023 - 08:57:11 - Getting Data From DB
+30/3/2023 - 08:57:11 - Runs Command with single value result
+30/3/2023 - 08:57:11 - Getting Data From DB
+30/3/2023 - 08:57:11 - Runs Command with single value result
+30/3/2023 - 08:57:11 - Getting Data From DB
+30/3/2023 - 08:57:11 - Runs Command with single value result
+30/3/2023 - 08:57:11 - Getting Data From DB
+30/3/2023 - 08:57:11 - Runs Command with single value result
+30/3/2023 - 08:57:11 - Getting Data From DB
+30/3/2023 - 08:57:11 - Runs Command with single value result
+30/3/2023 - 08:57:11 - Getting Data From DB
+30/3/2023 - 08:57:11 - Runs Command with single value result
+30/3/2023 - 08:57:11 - Getting Data From DB
+30/3/2023 - 08:57:11 - Runs Command with single value result
+30/3/2023 - 08:57:11 - Getting Data From DB
+30/3/2023 - 09:01:51 - Runs Command with single value result
+30/3/2023 - 09:01:51 - Getting connection string
+30/3/2023 - 09:01:52 - Runs Command with single value result
+30/3/2023 - 09:01:52 - Getting connection string
+30/3/2023 - 09:01:51 - Software has started.
+30/3/2023 - 09:01:54 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+30/3/2023 - 09:01:54 - Runs Command with single value result
+30/3/2023 - 09:02:37 - Runs Command with single value result
+30/3/2023 - 09:02:37 - Getting connection string
+30/3/2023 - 09:02:37 - Runs Command with single value result
+30/3/2023 - 09:02:37 - Getting connection string
+30/3/2023 - 09:02:36 - Software has started.
+30/3/2023 - 09:02:39 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+30/3/2023 - 09:02:39 - Runs Command with single value result
+30/3/2023 - 09:02:39 - Getting connection string
+30/3/2023 - 09:02:39 - Getting category links from Sql
+30/3/2023 - 09:02:39 - Getting data from Sql
+30/3/2023 - 09:02:39 - Getting Data From DB
+30/3/2023 - 09:02:39 - Getting Category links from Sql
+30/3/2023 - 09:02:39 - CheckNewestArticleFromDB function has called
+30/3/2023 - 09:02:39 - _GetNewestArticles has been called
+30/3/2023 - 09:02:39 - Getting data from Sql
+30/3/2023 - 09:02:45 - Getting Data From DB
+30/3/2023 - 09:02:45 - Getting newest articles from Sql
+30/3/2023 - 09:02:45 - WallaWebManager has initiallized and calling FetchAndSaveData function
+30/3/2023 - 09:02:45 - Fetching the articles once a hour - Using XML's tp get all article's info 
+30/3/2023 - 09:02:47 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+30/3/2023 - 09:02:47 - Runs Command with single value result
+30/3/2023 - 09:02:47 - Getting number of categories from Sql
+30/3/2023 - 09:02:47 - Runs Command with single value result
+30/3/2023 - 09:02:47 - Getting category links from Sql
+30/3/2023 - 09:02:47 - Getting data from Sql
+30/3/2023 - 09:02:47 - Getting Data From DB
+30/3/2023 - 09:02:47 - Getting Category links from Sql
+30/3/2023 - 09:02:47 - CheckNewestArticleFromDB function has called
+30/3/2023 - 09:02:47 - _GetNewestArticles has been called
+30/3/2023 - 09:02:47 - Getting data from Sql
+30/3/2023 - 09:02:47 - Getting Data From DB
+30/3/2023 - 09:02:47 - Getting newest articles from Sql
+30/3/2023 - 09:02:47 - MaarivWebsiteManager has initiallized and calling FetchAndSaveData function
+30/3/2023 - 09:02:47 - Fetching the articles once a hour - Using XML's tp get all article's info 
+30/3/2023 - 09:02:47 - Getting number of categories from Sql
+30/3/2023 - 09:02:47 - Runs Command with single value result
+30/3/2023 - 09:02:47 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+30/3/2023 - 09:02:47 - Runs Command with single value result
+30/3/2023 - 09:02:47 - Getting category links from Sql
+30/3/2023 - 09:02:47 - Getting data from Sql
+30/3/2023 - 09:02:47 - Getting Data From DB
+30/3/2023 - 09:02:47 - Getting Category links from Sql
+30/3/2023 - 09:02:47 - CheckNewestArticleFromDB function has called
+30/3/2023 - 09:02:47 - _GetNewestArticles has been called
+30/3/2023 - 09:02:47 - Getting data from Sql
+30/3/2023 - 09:02:47 - Getting Data From DB
+30/3/2023 - 09:02:47 - Getting newest articles from Sql
+30/3/2023 - 09:02:47 - GlobesWebsiteManager has initiallized and calling FetchAndSaveData function
+30/3/2023 - 09:02:47 - Fetching the articles once a hour - Using XML's tp get all article's info 
+30/3/2023 - 09:02:48 - Getting number of categories from Sql
+30/3/2023 - 09:02:48 - Runs Command with single value result
+30/3/2023 - 09:02:48 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+30/3/2023 - 09:02:48 - Runs Command with single value result
+30/3/2023 - 09:02:48 - Getting category links from Sql
+30/3/2023 - 09:02:48 - Getting data from Sql
+30/3/2023 - 09:02:48 - Getting Data From DB
+30/3/2023 - 09:02:48 - Getting Category links from Sql
+30/3/2023 - 09:02:48 - CheckNewestArticleFromDB function has called
+30/3/2023 - 09:02:48 - _GetNewestArticles has been called
+30/3/2023 - 09:02:48 - Getting data from Sql
+30/3/2023 - 09:02:48 - Getting Data From DB
+30/3/2023 - 09:02:48 - Getting newest articles from Sql
+30/3/2023 - 09:02:48 - YnetWebsiteManager has initiallized and calling FetchAndSaveData function
+30/3/2023 - 09:02:48 - Fetching the articles once a hour - Using XML's tp get all article's info 
+30/3/2023 - 09:02:49 - Getting number of categories from Sql
+30/3/2023 - 09:02:49 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:02:57 - Runs Command with single value result
+30/3/2023 - 09:02:57 - Getting Data From DB
+30/3/2023 - 09:09:35 - Runs Command with single value result
+30/3/2023 - 09:09:35 - Getting connection string
+30/3/2023 - 09:09:36 - Runs Command with single value result
+30/3/2023 - 09:09:36 - Getting connection string
+30/3/2023 - 09:09:35 - Software has started.
+30/3/2023 - 09:09:38 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+30/3/2023 - 09:09:38 - Runs Command with single value result
+30/3/2023 - 09:09:38 - Getting connection string
+30/3/2023 - 09:09:38 - Getting category links from Sql
+30/3/2023 - 09:09:38 - Getting data from Sql
+30/3/2023 - 09:09:38 - Getting Data From DB
+30/3/2023 - 09:09:38 - Getting Category links from Sql
+30/3/2023 - 09:09:38 - CheckNewestArticleFromDB function has called
+30/3/2023 - 09:09:38 - _GetNewestArticles has been called
+30/3/2023 - 09:09:38 - Getting data from Sql
+30/3/2023 - 09:10:03 - Getting Data From DB
+30/3/2023 - 09:10:03 - Getting newest articles from Sql
+30/3/2023 - 09:10:03 - WallaWebManager has initiallized and calling FetchAndSaveData function
+30/3/2023 - 09:10:03 - Fetching the articles once a hour - Using XML's tp get all article's info 
+30/3/2023 - 09:10:03 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+30/3/2023 - 09:10:03 - Runs Command with single value result
+30/3/2023 - 09:10:03 - Getting category links from Sql
+30/3/2023 - 09:10:03 - Getting data from Sql
+30/3/2023 - 09:10:03 - Getting number of categories from Sql
+30/3/2023 - 09:10:03 - Runs Command with single value result
+30/3/2023 - 09:10:03 - Getting Data From DB
+30/3/2023 - 09:10:03 - Getting Category links from Sql
+30/3/2023 - 09:10:03 - CheckNewestArticleFromDB function has called
+30/3/2023 - 09:11:22 - Runs Command with single value result
+30/3/2023 - 09:11:22 - Getting connection string
+30/3/2023 - 09:11:22 - Runs Command with single value result
+30/3/2023 - 09:11:22 - Getting connection string
+30/3/2023 - 09:11:22 - Software has started.
+30/3/2023 - 09:11:27 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+30/3/2023 - 09:11:27 - Runs Command with single value result
+30/3/2023 - 09:11:27 - Getting connection string
+30/3/2023 - 09:11:27 - Getting category links from Sql
+30/3/2023 - 09:11:27 - Getting data from Sql
+30/3/2023 - 09:11:27 - Getting Data From DB
+30/3/2023 - 09:11:27 - Getting Category links from Sql
+30/3/2023 - 09:11:27 - CheckNewestArticleFromDB function has called
+30/3/2023 - 09:11:27 - _GetNewestArticles has been called
+30/3/2023 - 09:11:27 - Getting data from Sql
+30/3/2023 - 09:11:52 - Getting Data From DB
+30/3/2023 - 09:11:52 - Getting newest articles from Sql
+30/3/2023 - 09:11:52 - WallaWebManager has initiallized and calling FetchAndSaveData function
+30/3/2023 - 09:11:52 - Fetching the articles once a hour - Using XML's tp get all article's info 
+30/3/2023 - 09:11:54 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+30/3/2023 - 09:11:54 - Runs Command with single value result
+30/3/2023 - 09:11:54 - Getting number of categories from Sql
+30/3/2023 - 09:11:54 - Runs Command with single value result
+30/3/2023 - 09:11:54 - Getting category links from Sql
+30/3/2023 - 09:11:54 - Getting data from Sql
+30/3/2023 - 09:11:54 - Getting Data From DB
+30/3/2023 - 09:11:54 - Getting Category links from Sql
+30/3/2023 - 09:11:54 - CheckNewestArticleFromDB function has called
+30/3/2023 - 09:11:54 - _GetNewestArticles has been called
+30/3/2023 - 09:11:54 - Getting data from Sql
+30/3/2023 - 09:11:54 - Getting Data From DB
+30/3/2023 - 09:11:54 - Getting newest articles from Sql
+30/3/2023 - 09:11:54 - MaarivWebsiteManager has initiallized and calling FetchAndSaveData function
+30/3/2023 - 09:11:54 - Fetching the articles once a hour - Using XML's tp get all article's info 
+30/3/2023 - 09:11:54 - Getting number of categories from Sql
+30/3/2023 - 09:11:54 - Runs Command with single value result
+30/3/2023 - 09:11:54 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+30/3/2023 - 09:11:54 - Runs Command with single value result
+30/3/2023 - 09:11:54 - Getting category links from Sql
+30/3/2023 - 09:11:54 - Getting data from Sql
+30/3/2023 - 09:11:54 - Getting Data From DB
+30/3/2023 - 09:11:54 - Getting Category links from Sql
+30/3/2023 - 09:11:54 - CheckNewestArticleFromDB function has called
+30/3/2023 - 09:11:54 - _GetNewestArticles has been called
+30/3/2023 - 09:11:54 - Getting data from Sql
+30/3/2023 - 09:11:54 - Getting Data From DB
+30/3/2023 - 09:11:54 - Getting newest articles from Sql
+30/3/2023 - 09:11:54 - GlobesWebsiteManager has initiallized and calling FetchAndSaveData function
+30/3/2023 - 09:12:56 - Runs Command with single value result
+30/3/2023 - 09:12:56 - Getting connection string
+30/3/2023 - 09:12:57 - Runs Command with single value result
+30/3/2023 - 09:12:57 - Getting connection string
+30/3/2023 - 09:12:56 - Software has started.
+30/3/2023 - 09:12:57 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+30/3/2023 - 09:12:57 - Runs Command with single value result
+30/3/2023 - 09:12:57 - Getting connection string
+30/3/2023 - 09:12:57 - Getting category links from Sql
+30/3/2023 - 09:12:57 - Getting data from Sql
+30/3/2023 - 09:12:57 - Getting Data From DB
+30/3/2023 - 09:12:57 - Getting Category links from Sql
+30/3/2023 - 09:12:57 - CheckNewestArticleFromDB function has called
+30/3/2023 - 09:12:57 - _GetNewestArticles has been called
+30/3/2023 - 09:14:21 - Runs Command with single value result
+30/3/2023 - 09:14:21 - Getting connection string
+30/3/2023 - 09:16:53 - Runs Command with single value result
+30/3/2023 - 09:16:53 - Getting connection string
+30/3/2023 - 09:16:53 - Runs Command with single value result
+30/3/2023 - 09:16:53 - Getting connection string
+30/3/2023 - 09:16:53 - Software has started.
+30/3/2023 - 09:16:53 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+30/3/2023 - 09:16:53 - Runs Command with single value result
+30/3/2023 - 09:16:53 - Getting connection string
+30/3/2023 - 09:16:53 - Getting category links from Sql
+30/3/2023 - 09:16:53 - Getting data from Sql
+30/3/2023 - 09:16:53 - Getting Data From DB
+30/3/2023 - 09:18:33 - Runs Command with single value result
+30/3/2023 - 09:18:33 - Getting connection string
+30/3/2023 - 09:18:34 - Runs Command with single value result
+30/3/2023 - 09:18:34 - Getting connection string
+30/3/2023 - 09:18:33 - Software has started.
+30/3/2023 - 09:18:34 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
+30/3/2023 - 09:18:34 - Runs Command with single value result
+30/3/2023 - 09:18:34 - Getting connection string
+30/3/2023 - 09:18:34 - Getting category links from Sql
+30/3/2023 - 09:19:58 - Runs Command with single value result
+30/3/2023 - 09:19:58 - Getting connection string
+30/3/2023 - 09:19:59 - Runs Command with single value result
+30/3/2023 - 09:19:59 - Getting connection string
+30/3/2023 - 09:19:58 - Software has started.
+30/3/2023 - 09:26:43 - Runs Command with single value result
+30/3/2023 - 09:26:43 - Getting connection string
+30/3/2023 - 09:26:44 - Runs Command with single value result
+30/3/2023 - 09:26:44 - Getting connection string
+30/3/2023 - 09:26:43 - Software has started.
+30/3/2023 - 09:26:44 - Data_SQL.ArticleDataSQL.GetCategoryLinks function has called
